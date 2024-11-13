@@ -1,0 +1,724 @@
+[
+    {
+        "PlaceID":"ChIJ6S91QohZzpQRJX2YceRdetc",
+        "Name":"Drogaria e Farmácia de Lima Ayala",
+        "Address":"R. Rio Grande, 350 - Vila Mariana, São Paulo - SP, 04018-000, Brazil",
+        "Neighborhood":"350 - Vila Mariana",
+        "Street":"R. Rio Grande",
+        "City":"São Paulo - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5876286,
+        "Longitude":-46.6427853,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXxFF6RMWqwcRORtvgQYikxU",
+        "Name":"Pharmacy San Severino",
+        "Address":"R. Siqueira Campos, 501 - Centro, Paulista - PE, 53401-320, Brazil",
+        "Neighborhood":"501 - Centro",
+        "Street":"R. Siqueira Campos",
+        "City":"Paulista - PE",
+        "Rating":4.4,
+        "UserRatingsTotal":7,
+        "Phone":"(81) 3437-1822",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.940662,
+        "Longitude":-34.879954,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJJ1d4-E9RzpQReMtcf4KGqMU",
+        "Name":"Panvel Farmácias",
+        "Address":"Av. Giovanni Gronchi, 5930 - Lojas 5 e 6 - Vila Andrade, São Paulo - SP, 05724-002, Brazil",
+        "Neighborhood":"5930 - Lojas 5 e 6 - Vila Andrade",
+        "Street":"Av. Giovanni Gronchi",
+        "City":"São Paulo - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":109,
+        "Phone":"0800 642 9001",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.6318289,
+        "Longitude":-46.7374044,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJdajtKduQ9pQRMH7xizRp5Yk",
+        "Name":"Farmácias Mini Preço - Morumbi",
+        "Address":"Av. Mario Filho, 1615 - Morumbi, Foz do Iguaçu - PR, 85859-000, Brazil",
+        "Neighborhood":"1615 - Morumbi",
+        "Street":"Av. Mario Filho",
+        "City":"Foz do Iguaçu - PR",
+        "Rating":4.2,
+        "UserRatingsTotal":5,
+        "Phone":"(45) 3031-4209",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.5218904,
+        "Longitude":-54.5356522,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJbYOJfY3NyJQRUOS97OFI7h0",
+        "Name":"Drogaria Santana",
+        "Address":"R. São Paulo, 317 - Vila Santana, Valinhos - SP, 13274-115, Brazil",
+        "Neighborhood":"317 - Vila Santana",
+        "Street":"R. São Paulo",
+        "City":"Valinhos - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":5,
+        "Phone":"(19) 3871-5074",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9646961,
+        "Longitude":-46.9902502,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQYQT-2QWqwcRkBIzvYcVRKg",
+        "Name":"Farmácia Pague Pouco",
+        "Address":"Av. Lindolfo Collor, 38 - Paratibe, Paulista - PE, 53413-150, Brazil",
+        "Neighborhood":"38 - Paratibe",
+        "Street":"Av. Lindolfo Collor",
+        "City":"Paulista - PE",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(81) 99405-0332",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9371033,
+        "Longitude":-34.8987187,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ7RRfYvFQzpQR6pX08wkIF7A",
+        "Name":"Fitobrasilis Farmácia de Manipulação",
+        "Address":"Rua São Benedito, 1937 - Santo Amaro, São Paulo - SP, 04735-060, Brazil",
+        "Neighborhood":"1937 - Santo Amaro",
+        "Street":"Rua São Benedito",
+        "City":"São Paulo - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":11,
+        "Phone":"(11) 5522-1798",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.6382206,
+        "Longitude":-46.6944868,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHYfaFIhZzpQR4-BCf5Qp0jE",
+        "Name":"Farmax",
+        "Address":"Vila Mariana, São Paulo - State of São Paulo, 04016-003, Brazil",
+        "Neighborhood":"São Paulo - State of São Paulo",
+        "Street":"Vila Mariana",
+        "City":"04016-003",
+        "Rating":4.0,
+        "UserRatingsTotal":3,
+        "Phone":"(11) 5579-4057",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5878057,
+        "Longitude":-46.6429806,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJN3xnaMtts5QRIqEzarNJm_4",
+        "Name":"Entrefarma A Farmácia Do Tito",
+        "Address":"R. Caetés, 735 - centro, Moema - MG, 35604-000, Brazil",
+        "Neighborhood":"735 - centro",
+        "Street":"R. Caetés",
+        "City":"Moema - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":12,
+        "Phone":"(37) 3525-0156",
+        "Types":"drugstore, pharmacy, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-19.8438012,
+        "Longitude":-45.413453,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ2zwUgBQWqwcRLwFbecc4k_Y",
+        "Name":"Fármacias Independente",
+        "Address":"R. Siqueira Campos, 523 - Centro, Paulista - PE, 53401-320, Brazil",
+        "Neighborhood":"523 - Centro",
+        "Street":"R. Siqueira Campos",
+        "City":"Paulista - PE",
+        "Rating":3.5,
+        "UserRatingsTotal":13,
+        "Phone":"(81) 3433-4741",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9410885,
+        "Longitude":-34.8805055,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJjRP4VUhf4pQRT3WbzYNUY2w",
+        "Name":"Panvel Farmácias",
+        "Address":"Av. Sete de Setembro, 1205 - Centro, Tapejara - RS, 99950-000, Brazil",
+        "Neighborhood":"1205 - Centro",
+        "Street":"Av. Sete de Setembro",
+        "City":"Tapejara - RS",
+        "Rating":4.9,
+        "UserRatingsTotal":11,
+        "Phone":"0800 642 9001",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.0696819,
+        "Longitude":-52.0120137,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ-VLz0NqQ9pQRgDQnSEoKLNw",
+        "Name":"Farmácia Preço Justo Morumbi 2",
+        "Address":"Av. Mario Filho, 1738 - Parque Res. Morumbi II, Foz do Iguaçu - PR, 85859-000, Brazil",
+        "Neighborhood":"1738 - Parque Res. Morumbi II",
+        "Street":"Av. Mario Filho",
+        "City":"Foz do Iguaçu - PR",
+        "Rating":4.3,
+        "UserRatingsTotal":16,
+        "Phone":"(45) 99999-1889",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.5217327,
+        "Longitude":-54.5350123,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJnT0wfiAZBZURvT-fHwFtMAU",
+        "Name":"Farmácia Associadas",
+        "Address":"Santana da Boa Vista - RS, 96590-000, Brazil",
+        "Neighborhood":"96590-000",
+        "Street":"Santana da Boa Vista - RS",
+        "City":"Brazil",
+        "Rating":1.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.8711594,
+        "Longitude":-53.1151535,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJrXgQD11J_ZQRAnfZzihbgZ4",
+        "Name":"Panvel Farmácias",
+        "Address":"Av. Alto Jacuí, 504 - Sala 01 - Centro, Não-Me-Toque - RS, 99470-000, Brazil",
+        "Neighborhood":"504 - Sala 01 - Centro",
+        "Street":"Av. Alto Jacuí",
+        "City":"Não-Me-Toque - RS",
+        "Rating":4.0,
+        "UserRatingsTotal":6,
+        "Phone":"(54) 99621-2681",
+        "Types":"pharmacy, drugstore, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.460455,
+        "Longitude":-52.8200066,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJn0w8TrCc4pQRdRRMKIswoW4",
+        "Name":"Panvel Farmácias",
+        "Address":"Av. Julio Borella, 1067 - Sala 102 - Centro, Marau - RS, 99150-000, Brazil",
+        "Neighborhood":"1067 - Sala 102 - Centro",
+        "Street":"Av. Julio Borella",
+        "City":"Marau - RS",
+        "Rating":4.9,
+        "UserRatingsTotal":14,
+        "Phone":"0800 642 9001",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.450821,
+        "Longitude":-52.199423,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJl5BJoYMXqwcR_KVhfMhyVQE",
+        "Name":"DROGARIA ONLINE FARMA",
+        "Address":"on-line farma - Av. Lindolfo Collor, 26A - Paratibe, Paulista - PE, 53413-150, Brazil",
+        "Neighborhood":"26A - Paratibe",
+        "Street":"on-line farma - Av. Lindolfo Collor",
+        "City":"Paulista - PE",
+        "Rating":4.8,
+        "UserRatingsTotal":12,
+        "Phone":"(81) 99912-1381",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9378346,
+        "Longitude":-34.8985145,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJiXHv4lsx_ZQRebqXQlEm1EY",
+        "Name":"Panvel Farmácias",
+        "Address":"Av. Flores da Cunha, 1421 - Centro, Carazinho - RS, 99500-000, Brazil",
+        "Neighborhood":"1421 - Centro",
+        "Street":"Av. Flores da Cunha",
+        "City":"Carazinho - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":38,
+        "Phone":"0800 642 9001",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2861206,
+        "Longitude":-52.7889015,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJfYjvWqid4pQRL6pvgvuvERc",
+        "Name":"Panvel Farmácias",
+        "Address":"R. Bento Gonçalves, 725 - Centro, Marau - RS, 99150-000, Brazil",
+        "Neighborhood":"725 - Centro",
+        "Street":"R. Bento Gonçalves",
+        "City":"Marau - RS",
+        "Rating":4.9,
+        "UserRatingsTotal":29,
+        "Phone":"0800 642 9001",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.4475739,
+        "Longitude":-52.2021258,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJtf9PYuBVzpQRuanWJ9zaLJs",
+        "Name":"Ananda - Homeopathy and Manipulation Pharmacy",
+        "Address":"Av. Otacílio Tomanik, 1314 - Rio Pequeno, São Paulo - SP, 05363-000, Brazil",
+        "Neighborhood":"1314 - Rio Pequeno",
+        "Street":"Av. Otacílio Tomanik",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":300,
+        "Phone":"(11) 3769-1000",
+        "Types":"pharmacy, drugstore, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5683542,
+        "Longitude":-46.7501335,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJEcSMzuYXqwcR2wOIZUuG70I",
+        "Name":"Drogarias Ultra Popular",
+        "Address":"R. Siqueira Campos, 539 - Centro, Paulista - PE, 53401-320, Brazil",
+        "Neighborhood":"539 - Centro",
+        "Street":"R. Siqueira Campos",
+        "City":"Paulista - PE",
+        "Rating":4.9,
+        "UserRatingsTotal":8,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, clothing_store, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.941317,
+        "Longitude":-34.8808877,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJi7CqYR1_mQARNTIZF4NKyfw",
+        "Name":"Drogaria Pinheiro Pharma",
+        "Address":"R. Pinheiro Machado, 9 - Laranjeiras, Rio de Janeiro - RJ, 22231-090, Brazil",
+        "Neighborhood":"9 - Laranjeiras",
+        "Street":"R. Pinheiro Machado",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":4.3,
+        "UserRatingsTotal":11,
+        "Phone":"(21) 3234-1000",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9336552,
+        "Longitude":-43.1843751,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQehIr7RWzpQRx9haPf0unR8",
+        "Name":"Droga Raia",
+        "Address":"Av. Giovanni Gronchi, 5111 - Vila Andrade, São Paulo - SP, 05724-003, Brazil",
+        "Neighborhood":"5111 - Vila Andrade",
+        "Street":"Av. Giovanni Gronchi",
+        "City":"São Paulo - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":84,
+        "Phone":"(11) 94393-0451",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.619965,
+        "Longitude":-46.7328485,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ25HGxr1XzpQRGccoa_4Oc4s",
+        "Name":"Ultrafarma- Cidade Jardim",
+        "Address":"Av. dos Tajurás, 289 - Morumbi, São Paulo - SP, 05670-000, Brazil",
+        "Neighborhood":"289 - Morumbi",
+        "Street":"Av. dos Tajurás",
+        "City":"São Paulo - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":310,
+        "Phone":"(11) 97106-7667",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5863277,
+        "Longitude":-46.6948015,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJpaLppI9ezpQRxyy9jIQ8s5Y",
+        "Name":"Uniflora",
+        "Address":"Atendimento Online - R. Apucarana, 1344 - 11 - 9,8320,2661 - Tatuapé, São Paulo - SP, 03311-001, Brazil",
+        "Neighborhood":"1344 - 11 - 9",
+        "Street":"Atendimento Online - R. Apucarana",
+        "City":"8320",
+        "Rating":4.1,
+        "UserRatingsTotal":27,
+        "Phone":"(11) 2369-0879",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5501245,
+        "Longitude":-46.5627456,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJw5HE1FEWqwcRqpUfaP9MyE4",
+        "Name":"ALC Farma",
+        "Address":"R. Cento e Quarenta e Quatro, 95 - Jardim Paulista Alto, Paulista - PE, 53400-000, Brazil",
+        "Neighborhood":"95 - Jardim Paulista Alto",
+        "Street":"R. Cento e Quarenta e Quatro",
+        "City":"Paulista - PE",
+        "Rating":3.0,
+        "UserRatingsTotal":1,
+        "Phone":"(81) 3492-1460",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9562723,
+        "Longitude":-34.8957455,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJH_s3P4VZzpQR6gkm7DPy4JI",
+        "Name":"Farmácia Droga 844",
+        "Address":"R. Domingos de Morais, 295 - Vila Mariana, São Paulo - SP, 04010-000, Brazil",
+        "Neighborhood":"295 - Vila Mariana",
+        "Street":"R. Domingos de Morais",
+        "City":"São Paulo - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5796608,
+        "Longitude":-46.6402854,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ3x_feCQ9qwcRXel4xFsrrDU",
+        "Name":"Farmácia Farma Dez",
+        "Address":"Av. Brasil, 123 - Maranguape I, Paulista - PE, 53441-601, Brazil",
+        "Neighborhood":"123 - Maranguape I",
+        "Street":"Av. Brasil",
+        "City":"Paulista - PE",
+        "Rating":5.0,
+        "UserRatingsTotal":8,
+        "Phone":"(81) 98691-2014",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.952296,
+        "Longitude":-34.8515336,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJzfFEhksXqwcRAt7hDEhkHfg",
+        "Name":"Farmácias Independente",
+        "Address":"R. Siqueira Campos, 40 - Centro, Paulista - PE, 53401-320, Brazil",
+        "Neighborhood":"40 - Centro",
+        "Street":"R. Siqueira Campos",
+        "City":"Paulista - PE",
+        "Rating":3.8,
+        "UserRatingsTotal":13,
+        "Phone":"(81) 3010-4494",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9414456,
+        "Longitude":-34.8818398,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJVRefOPBbzpQR5Y6CDT1T-LI",
+        "Name":"Farmácia Drogana Manipulação",
+        "Address":"R. Silva Bueno, 835 - Ipiranga, São Paulo - SP, 04208-050, Brazil",
+        "Neighborhood":"835 - Ipiranga",
+        "Street":"R. Silva Bueno",
+        "City":"São Paulo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":12,
+        "Phone":"(11) 2273-7233",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5857274,
+        "Longitude":-46.6017293,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJz2Q_LElXzpQR1M1NKXfMtNA",
+        "Name":"A PHARMACIA DROGARIA",
+        "Address":"R. Gomes de Carvalho, 1255 - Vila Olímpia, São Paulo - SP, 04547-005, Brazil",
+        "Neighborhood":"1255 - Vila Olímpia",
+        "Street":"R. Gomes de Carvalho",
+        "City":"São Paulo - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":15,
+        "Phone":"(11) 97383-3030",
+        "Types":"pharmacy, drugstore, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5972862,
+        "Longitude":-46.6852269,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJa0cdYgBZzpQRAnVIGsbagcM",
+        "Name":"metro ANA ROSA",
+        "Address":"R. Cubatão, 1061 - Vila Mariana, São Paulo - SP, 04013-043, Brazil",
+        "Neighborhood":"1061 - Vila Mariana",
+        "Street":"R. Cubatão",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":5,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.581023,
+        "Longitude":-46.6411757,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ6_zvFhI-qwcRMVdxtCX3p-U",
+        "Name":"Art Farma - Paulista",
+        "Address":"R. Getúlio Vargas, 494 - Centro, Paulista - PE, 53401-310, Brazil",
+        "Neighborhood":"494 - Centro",
+        "Street":"R. Getúlio Vargas",
+        "City":"Paulista - PE",
+        "Rating":3.4,
+        "UserRatingsTotal":27,
+        "Phone":"(81) 4009-2094",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9406501,
+        "Longitude":-34.8819542,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJvwLjMIJZzpQR79lb_G1ENuQ",
+        "Name":"Droga Nossa",
+        "Address":"R. Machado de Assis, 426 - Vila Mariana, São Paulo - SP, 04106-010, Brazil",
+        "Neighborhood":"426 - Vila Mariana",
+        "Street":"R. Machado de Assis",
+        "City":"São Paulo - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":15,
+        "Phone":"(11) 5579-2592",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5805579,
+        "Longitude":-46.6338488,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJo9fkDZZezpQRD1QVMJl_tZ8",
+        "Name":"Centerfórmula - Farmácia de Manipulação",
+        "Address":"R. Coelho Lisboa, 349 - Cidade Mãe do Céu, São Paulo - SP, 03323-040, Brazil",
+        "Neighborhood":"349 - Cidade Mãe do Céu",
+        "Street":"R. Coelho Lisboa",
+        "City":"São Paulo - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":151,
+        "Phone":"(11) 5054-5555",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5472897,
+        "Longitude":-46.5720455,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ_URfMjtazpQRq7obCFKDOlM",
+        "Name":"S. Paulo",
+        "Address":"R. - Condomínio Edifício Loefgreen - R. Joel Jorge de Melo, 279 - V Mariana, São Paulo - SP, 04128-080, Brazil",
+        "Neighborhood":"279 - V Mariana",
+        "Street":"R. - Condomínio Edifício Loefgreen - R. Joel Jorge de Melo",
+        "City":"São Paulo - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5994157,
+        "Longitude":-46.6334164,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJudMIrtkVqwcR2yqfFp9DwuY",
+        "Name":"Farmácia Popular",
+        "Address":"R. Serra Talhada, 03 - Arthur Lundgren II, Paulista - PE, 53416-610, Brazil",
+        "Neighborhood":"03 - Arthur Lundgren II",
+        "Street":"R. Serra Talhada",
+        "City":"Paulista - PE",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(81) 3438-6501",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9238015,
+        "Longitude":-34.8933474,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJvbvxEl8Hz5QRSbeXbBmnNTw",
+        "Name":"Pharmacy Harmony manipulation and homeopathy",
+        "Address":"Av. Prof. Manoel José Pedroso, 858 - Parque Bahia, Cotia - SP, 06717-100, Brazil",
+        "Neighborhood":"858 - Parque Bahia",
+        "Street":"Av. Prof. Manoel José Pedroso",
+        "City":"Cotia - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":83,
+        "Phone":"(11) 99104-1349",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.6069149,
+        "Longitude":-46.919222,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJO9vWqY9bzpQRQwJzdcPWC24",
+        "Name":"Divina Fórmula",
+        "Address":"R. Silva Bueno, 2033 - Ipiranga, São Paulo - SP, 04208-052, Brazil",
+        "Neighborhood":"2033 - Ipiranga",
+        "Street":"R. Silva Bueno",
+        "City":"São Paulo - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":2904,
+        "Phone":"(11) 4305-0094",
+        "Types":"drugstore, pharmacy, veterinary_care, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5964359,
+        "Longitude":-46.6006905,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    }
+]

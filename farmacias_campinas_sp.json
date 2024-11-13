@@ -1,0 +1,268 @@
+[
+    {
+        "PlaceID":"ChIJG_muJR_GyJQR7aXBMKXeZ2I",
+        "Name":"Drogaria Manin",
+        "Address":"Rua Barbosa de Andrade, 36 - Jardim Guanabara, Campinas - SP, 13073-312, Brazil",
+        "Neighborhood":"36 - Jardim Guanabara",
+        "Street":"Rua Barbosa de Andrade",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8913728,
+        "Longitude":-47.0684961,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJlWI0UK_PyJQROhxUf_6ye-U",
+        "Name":"Novafarma Gramado Ltda Epp",
+        "Address":"Alameda dos Vidoeiros, 445 - Sítios de Recreio Gramado, Campinas - SP, 13101-680, Brazil",
+        "Neighborhood":"445 - Sítios de Recreio Gramado",
+        "Street":"Alameda dos Vidoeiros",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":7,
+        "Phone":"(19) 3252-8007",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9057727,
+        "Longitude":-47.0098096,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJm_NVQMLIyJQRggWVqiRrbBM",
+        "Name":"Farmáxima São Bernardo | Farmácia Popular",
+        "Address":"Av. das Amoreiras, 1503 - São Bernardo, Campinas - SP, 13031-435, Brazil",
+        "Neighborhood":"1503 - São Bernardo",
+        "Street":"Av. das Amoreiras",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":47,
+        "Phone":"(19) 3272-2596",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9211349,
+        "Longitude":-47.0764185,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJqxvj7ky12JQRo7hj19oGDaU",
+        "Name":"Drogaria Catarinense",
+        "Address":"Área A - R. Cel. Benjamin Viêira, 36 - SALA 01 - Centro, Camboriú - SC, 88340-542, Brazil",
+        "Neighborhood":"36 - SALA 01 - Centro",
+        "Street":"Área A - R. Cel. Benjamin Viêira",
+        "City":"Camboriú - SC",
+        "Rating":4.8,
+        "UserRatingsTotal":135,
+        "Phone":"(47) 3512-3996",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-27.0235125,
+        "Longitude":-48.6507571,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ-SLkV0nPyJQRYVla7qd5jek",
+        "Name":"Drogasil",
+        "Address":"R. Conceição, 664 - SALAO COMERCIAL - Centro, Campinas - SP, 13010-050, Brazil",
+        "Neighborhood":"664 - SALAO COMERCIAL - Centro",
+        "Street":"R. Conceição",
+        "City":"Campinas - SP",
+        "Rating":3.9,
+        "UserRatingsTotal":91,
+        "Phone":"(19) 97161-9040",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9029614,
+        "Longitude":-47.0535056,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ1cdnENk3AQcReuWJlu7ytqY",
+        "Name":"LAURA FARMA",
+        "Address":"R. G - Cidade Universitária, Maceió - AL, 57072-814, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"R. G - Cidade Universitária",
+        "City":"57072-814",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5407585,
+        "Longitude":-35.7698962,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJtde6dujOyJQRser94i-1drM",
+        "Name":"Drogasil",
+        "Address":"Av. Jorge Tibiriçá, 445 - Vila Joaquim Inácio, Campinas - SP, 13096-550, Brazil",
+        "Neighborhood":"445 - Vila Joaquim Inácio",
+        "Street":"Av. Jorge Tibiriçá",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":137,
+        "Phone":"(19) 3276-7752",
+        "Types":"drugstore, pharmacy, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.930905,
+        "Longitude":-47.0371353,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJvfuPBruAHpURinuHEG6T8z4",
+        "Name":"Farmácia Medical",
+        "Address":"Av. Valdomiro Bochese, 1054 - Sala 2 - Centro, Antônio Prado - RS, 95250-000, Brazil",
+        "Neighborhood":"1054 - Sala 2 - Centro",
+        "Street":"Av. Valdomiro Bochese",
+        "City":"Antônio Prado - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(54) 3293-3538",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.8567721,
+        "Longitude":-51.2793771,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJc0afdFHJyJQR0h4DWM6-PuY",
+        "Name":"Novafarma Swiss Park",
+        "Address":"Av. Francisco Alfredo Júnior, 617 - Swiss Park, Campinas - SP, 13049-255, Brazil",
+        "Neighborhood":"617 - Swiss Park",
+        "Street":"Av. Francisco Alfredo Júnior",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":11,
+        "Phone":"(19) 99871-6209",
+        "Types":"pharmacy, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9615096,
+        "Longitude":-47.064228,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJB7R7vC7PyJQRu1eTqX46N4Y",
+        "Name":"Drogão Super",
+        "Address":"Av. da Saudade, 907 - Pte. Preta, Campinas - SP, 13041-670, Brazil",
+        "Neighborhood":"907 - Pte. Preta",
+        "Street":"Av. da Saudade",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":25,
+        "Phone":"(19) 3235-2087",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.920705,
+        "Longitude":-47.051935,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJzWqlzLTIyJQRNBM_tRT-osU",
+        "Name":"Medicamenta",
+        "Address":"Rua Barão de Jaguara, 1010 - Centro, Campinas - SP, 13010-060, Brazil",
+        "Neighborhood":"1010 - Centro",
+        "Street":"Rua Barão de Jaguara",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":25,
+        "Phone":"(19) 3255-2916",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9056434,
+        "Longitude":-47.0583476,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJqyQ_8s_JyJQR83G3lhyiTuM",
+        "Name":"Marmaxima Nova",
+        "Address":"Av. Ruy Rodriguez, 1400 - via whatsapp, 19 - 99826,2764 - Jardim Santa Lúcia, Campinas - SP, 13060-600, Brazil",
+        "Neighborhood":"1400 - via whatsapp",
+        "Street":"Av. Ruy Rodriguez",
+        "City":"19 - 99826",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(19) 3223-4433",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9448225,
+        "Longitude":-47.1112076,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJu8pjZAPGyJQRxjBmLGJjhSU",
+        "Name":"Farmacia Total Med",
+        "Address":"Av. Brasil, 845 - Jardim Chapadão, Campinas - SP, 13070-178, Brazil",
+        "Neighborhood":"845 - Jardim Chapadão",
+        "Street":"Av. Brasil",
+        "City":"Campinas - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8880803,
+        "Longitude":-47.0664481,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJEatZY7vIyJQRgvHCCo4zn-U",
+        "Name":"Drogaria Metropolitana",
+        "Address":"ATENDIMENTO VIA WHATSAPP - R. Dr. Pereira Lima, 1-65 - 75) 9877-8715 - Bonfim, Campinas - SP, 13058-505, Brazil",
+        "Neighborhood":"1-65 - 75) 9877-8715 - Bonfim",
+        "Street":"ATENDIMENTO VIA WHATSAPP - R. Dr. Pereira Lima",
+        "City":"Campinas - SP",
+        "Rating":3.2,
+        "UserRatingsTotal":10,
+        "Phone":"(19) 3234-0376",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9055464,
+        "Longitude":-47.0735856,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    }
+]

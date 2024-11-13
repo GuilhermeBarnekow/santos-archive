@@ -1,0 +1,458 @@
+[
+    {
+        "PlaceID":"ChIJbcyxjCNczpQR_8cush0C4aI",
+        "Name":"Farmais - Agua Rasa",
+        "Address":"Av. Sapopemba, 1790 - Vila Reg. Feijó, São Paulo - SP, 03345-000, Brazil",
+        "Neighborhood":"1790 - Vila Reg. Feijó",
+        "Street":"Av. Sapopemba",
+        "City":"São Paulo - SP",
+        "Rating":3.0,
+        "UserRatingsTotal":2,
+        "Phone":"(11) 2307-6395",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5709517,
+        "Longitude":-46.5696697,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ81Uy3GmjHJURNmrl4CD2Y28",
+        "Name":"Vida Farmácias - Centro Santa Cruz do Sul - Senador Pinheiro Machado",
+        "Address":"R. Sen. Pinheiro Machado, 993 - Centro, Santa Cruz do Sul - RS, 96810-136, Brazil",
+        "Neighborhood":"993 - Centro",
+        "Street":"R. Sen. Pinheiro Machado",
+        "City":"Santa Cruz do Sul - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":10,
+        "Phone":"(51) 3711-6789",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.7213573,
+        "Longitude":-52.4320716,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJjRIrs6mQmQARArXjlzu-Ylw",
+        "Name":"Farmácia Rocha Rodrigues",
+        "Address":"R. Petrópolis, 2368 - Trindade, São Gonçalo - RJ, 24455-806, Brazil",
+        "Neighborhood":"2368 - Trindade",
+        "Street":"R. Petrópolis",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.7,
+        "UserRatingsTotal":7,
+        "Phone":"(21) 3715-5182",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.795002,
+        "Longitude":-43.0178461,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJETQVOxNdzpQRCTn6KVex3VE",
+        "Name":"Farmanita Manipulação e Drogaria",
+        "Address":"Av. Sapopemba, 3174 - Vila Santa Clara, São Paulo - SP, 03345-001, Brazil",
+        "Neighborhood":"3174 - Vila Santa Clara",
+        "Street":"Av. Sapopemba",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":127,
+        "Phone":"(11) 2918-9192",
+        "Types":"pharmacy, drugstore, clothing_store, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5738181,
+        "Longitude":-46.558571,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJrx5ToxpfzpQRH0nnjXNSPk8",
+        "Name":"Farmácia de Manipulação Derma Marengo",
+        "Address":"R. Prof. Pedreira de Freitas, 710 - Tatuapé, São Paulo - SP, 03312-052, Brazil",
+        "Neighborhood":"710 - Tatuapé",
+        "Street":"R. Prof. Pedreira de Freitas",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(11) 2098-1373",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5501841,
+        "Longitude":-46.555519,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJNxSVseNdzpQRXca_qjFjUlM",
+        "Name":"Farmais",
+        "Address":"Vila Carrão, São Paulo - State of São Paulo, 03402-003, Brazil",
+        "Neighborhood":"São Paulo - State of São Paulo",
+        "Street":"Vila Carrão",
+        "City":"03402-003",
+        "Rating":3.3,
+        "UserRatingsTotal":3,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5525367,
+        "Longitude":-46.5290638,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXcBZQnOamQARBxiwzifaFhQ",
+        "Name":"FarMelhor",
+        "Address":"R. Vicente de Lima Cleto, 442 - Nova Cidade, São Gonçalo - RJ, 24455-001, Brazil",
+        "Neighborhood":"442 - Nova Cidade",
+        "Street":"R. Vicente de Lima Cleto",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.0,
+        "UserRatingsTotal":37,
+        "Phone":"(21) 2603-2496",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8056077,
+        "Longitude":-43.0250103,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJf9r1dtWQmQARJ49J8m0BzeY",
+        "Name":"Drogarias Cumani | Delivery | Farmácia em Santa Luzia",
+        "Address":"R. Nilton Nunes, 174 - Loja 3 - Santa Luzia, São Gonçalo - RJ, 24722-175, Brazil",
+        "Neighborhood":"174 - Loja 3 - Santa Luzia",
+        "Street":"R. Nilton Nunes",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.6,
+        "UserRatingsTotal":255,
+        "Phone":"(21) 3713-7004",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8021647,
+        "Longitude":-42.981523,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJo_zJTWrLA5URPPPczZCHYEk",
+        "Name":"Farmácias de Manipulação Farmatrat Acampamento",
+        "Address":"R. do Acampamento, 112 - Centro, Santa Maria - RS, 97050-000, Brazil",
+        "Neighborhood":"112 - Centro",
+        "Street":"R. do Acampamento",
+        "City":"Santa Maria - RS",
+        "Rating":4.0,
+        "UserRatingsTotal":4,
+        "Phone":"(55) 3028-9888",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.6871346,
+        "Longitude":-53.8065823,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ5fEDn3FezpQRTcd6sZoIVQE",
+        "Name":"Farmácia Pague Menos",
+        "Address":"Av. Conselheiro Carrão, 2041 - Vila Carrão, São Paulo - SP, 03403-001, Brazil",
+        "Neighborhood":"2041 - Vila Carrão",
+        "Street":"Av. Conselheiro Carrão",
+        "City":"São Paulo - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":73,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5467343,
+        "Longitude":-46.5414055,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJxdLXCtWQmQARrG1_9xhbGcA",
+        "Name":"Drogarias Ella",
+        "Address":"R. Nilton Nunes, 11 - Santa Luzia, São Gonçalo - RJ, 24722-175, Brazil",
+        "Neighborhood":"11 - Santa Luzia",
+        "Street":"R. Nilton Nunes",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.3,
+        "UserRatingsTotal":17,
+        "Phone":"(21) 3606-2044",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8019945,
+        "Longitude":-42.9816999,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJX7UpP3BezpQRbiTFMrLc0tM",
+        "Name":"Farma Gil",
+        "Address":"R. Dentista Barreto, 524 - Vila Carrão, São Paulo - SP, 03420-000, Brazil",
+        "Neighborhood":"524 - Vila Carrão",
+        "Street":"R. Dentista Barreto",
+        "City":"São Paulo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":662,
+        "Phone":"(11) 2296-8482",
+        "Types":"pharmacy, drugstore, clothing_store, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5462462,
+        "Longitude":-46.5436579,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJF1QE-v2bmQAReV0SITyXWOk",
+        "Name":"Drogarias Tamoio",
+        "Address":"R. Dr. Getúlio Vargas, 2007 - Santa Catarina, São Gonçalo - RJ, 24416-261, Brazil",
+        "Neighborhood":"2007 - Santa Catarina",
+        "Street":"R. Dr. Getúlio Vargas",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"4000-1965",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8381979,
+        "Longitude":-43.06598,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJNc7cD0MyGZURR-pLoTiC_ag",
+        "Name":"Die Haut Pharmacy",
+        "Address":"Whatsapp 54981143910 - R. João Petry, 110 - Centro, Gramado - RS, 95670-180, Brazil",
+        "Neighborhood":"110 - Centro",
+        "Street":"Whatsapp 54981143910 - R. João Petry",
+        "City":"Gramado - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":22,
+        "Phone":"(54) 3286-2712",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.3797343,
+        "Longitude":-50.870206,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ52-anNWQmQARwlc_vEXg-MA",
+        "Name":"DROGARIA CONFIANÇA SANTA LUZIA",
+        "Address":"Av. Alzira Vargas, 15 - LJ 03 - Santa Luzia, São Gonçalo - RJ, 24725-060, Brazil",
+        "Neighborhood":"15 - LJ 03 - Santa Luzia",
+        "Street":"Av. Alzira Vargas",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":16,
+        "Phone":"(21) 3840-2222",
+        "Types":"drugstore, pharmacy, clothing_store, store, point_of_interest, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8027573,
+        "Longitude":-42.9814009,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJDfGfmLFdzpQR04BoCn0r0kY",
+        "Name":"Drogaria Popular Vila Ema",
+        "Address":"Av. Vila Ema, 2929 - Vila Ema, São Paulo - SP, 03281-000, Brazil",
+        "Neighborhood":"2929 - Vila Ema",
+        "Street":"Av. Vila Ema",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":16,
+        "Phone":"(11) 2385-2751",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5831393,
+        "Longitude":-46.5487571,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJCViPMOJdzpQRgju-WWGo8IA",
+        "Name":"Bio Line",
+        "Address":"Av. Conselheiro Carrão, 3355 - Vila Carrão, São Paulo - SP, 03402-003, Brazil",
+        "Neighborhood":"3355 - Vila Carrão",
+        "Street":"Av. Conselheiro Carrão",
+        "City":"São Paulo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":145,
+        "Phone":"(11) 2021-2223",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5519114,
+        "Longitude":-46.5299063,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJcV2A5ZpezpQR-M4gYT0d2NI",
+        "Name":"Farmácia Prima Vita",
+        "Address":"R. Prof. João de Oliveira Torres, 25 - Jardim Analia Franco, São Paulo - SP, 03337-010, Brazil",
+        "Neighborhood":"25 - Jardim Analia Franco",
+        "Street":"R. Prof. João de Oliveira Torres",
+        "City":"São Paulo - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":34,
+        "Phone":"(11) 2671-1105",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5548715,
+        "Longitude":-46.5660694,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJE84FRe5dzpQRs-TG6ivfTVE",
+        "Name":"Mantelli Farma",
+        "Address":"R. Taubaté, 1211 - Vila Carrão, São Paulo - SP, 03433-000, Brazil",
+        "Neighborhood":"1211 - Vila Carrão",
+        "Street":"R. Taubaté",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":17,
+        "Phone":"(11) 3104-1571",
+        "Types":"pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5605239,
+        "Longitude":-46.53521,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJl0n2uJGiUJMRpW47XShJX2o",
+        "Name":"Rede Vfarma Unidade 24 Horas",
+        "Address":"EM FRENTE AO HOSPITAL MUNICIPAL - Av. Maestro João Luiz do Espírito Santo, 469 - Formosinha, Formosa - GO, 73813-120, Brazil",
+        "Neighborhood":"469 - Formosinha",
+        "Street":"EM FRENTE AO HOSPITAL MUNICIPAL - Av. Maestro João Luiz do Espírito Santo",
+        "City":"Formosa - GO",
+        "Rating":3.7,
+        "UserRatingsTotal":19,
+        "Phone":"(61) 99618-6476",
+        "Types":"pharmacy, drugstore, clothing_store, hospital, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-15.5467798,
+        "Longitude":-47.3204323,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ0ylzkdCQmQARPPpldoShn9g",
+        "Name":"Drogarias Mirafarma | Laranjal",
+        "Address":"Av. Bpo. Dom João da Mata, 38 - Laranjal, São Gonçalo - RJ, 24722-525, Brazil",
+        "Neighborhood":"38 - Laranjal",
+        "Street":"Av. Bpo. Dom João da Mata",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.5,
+        "UserRatingsTotal":23,
+        "Phone":"(21) 3719-5899",
+        "Types":"drugstore, supermarket, pharmacy, grocery_or_supermarket, clothing_store, health, food, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8072507,
+        "Longitude":-42.987513,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJo1IykWRezpQRp_1BO3g4KRw",
+        "Name":"Dermabeauty Farmácia de Manipulação",
+        "Address":"R. Nova Jerusalém, 400 - Chácara Santo Antônio (Zona Leste), São Paulo - SP, 03410-000, Brazil",
+        "Neighborhood":"400 - Chácara Santo Antônio (Zona Leste)",
+        "Street":"R. Nova Jerusalém",
+        "City":"São Paulo - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":67,
+        "Phone":"(11) 2092-9886",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5457191,
+        "Longitude":-46.5491687,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJzSzJQRvA4pQRpVmzR65v0no",
+        "Name":"Vida Farmácias - Passo Fundo",
+        "Address":"Whatsapp 53 - 997008958__Av. Padre Antônio Vieira, 675 - São José, Passo Fundo - RS, 99052-000, Brazil",
+        "Neighborhood":"675 - São José",
+        "Street":"Whatsapp 53 - 997008958__Av. Padre Antônio Vieira",
+        "City":"Passo Fundo - RS",
+        "Rating":4.2,
+        "UserRatingsTotal":6,
+        "Phone":"(54) 3311-4266",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2343635,
+        "Longitude":-52.3694234,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJe2YmO5OQmQARtsEhzhi7JF0",
+        "Name":"Drogaria Cristal Alcântara",
+        "Address":"Whatsapp:(21) 98927-3145 - __R. Manoel João Gonçalves, 414 - Vila Três, São Gonçalo - RJ, 24711-080, Brazil",
+        "Neighborhood":"414 - Vila Três",
+        "Street":"Whatsapp:(21) 98927-3145 - __R. Manoel João Gonçalves",
+        "City":"São Gonçalo - RJ",
+        "Rating":3.2,
+        "UserRatingsTotal":160,
+        "Phone":"(21) 3708-1000",
+        "Types":"drugstore, pharmacy, health, point_of_interest, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8192151,
+        "Longitude":-43.0008313,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    }
+]
