@@ -1,0 +1,4752 @@
+[
+    {
+        "PlaceID":"ChIJqw-RUixJAQcRHdFgNSGOnzY",
+        "Name":"ZFarma",
+        "Address":"Novo Jardim - Whatsapp, 13 - 99667-5665__Conj - Cidade Universitária, Maceió - AL, 57072-764, Brazil",
+        "Neighborhood":"13 - 99667-5665__Conj - Cidade Universitária",
+        "Street":"Novo Jardim - Whatsapp",
+        "City":"Maceió - AL",
+        "Rating":4.8,
+        "UserRatingsTotal":24,
+        "Phone":"(82) 98123-9274",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5308581,
+        "Longitude":-35.7910357,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ8yqk1nDA4pQRTrkMFmCgjNw",
+        "Name":"Farmácia Panamericana",
+        "Address":"Av. Brasil Leste, 133 - Petrópolis, Passo Fundo - RS, 99042-800, Brazil",
+        "Neighborhood":"133 - Petrópolis",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2495078,
+        "Longitude":-52.3908972,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJVVUBaMfGyJQR1yUt9yXg8tQ",
+        "Name":"Pharma Aroma",
+        "Address":"R. José Orídes Cordeiro, 74 - Barão Geraldo, Campinas - SP, 13084-786, Brazil",
+        "Neighborhood":"74 - Barão Geraldo",
+        "Street":"R. José Orídes Cordeiro",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(19) 3236-4869",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8329964,
+        "Longitude":-47.0783959,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJa8g90XN3GZURjNCzQjDLAKU",
+        "Name":"Drogaria Cidade",
+        "Address":"Av. Assis Brasil, 2449 - Cristo Redentor, Porto Alegre - RS, 91010-002, Brazil",
+        "Neighborhood":"2449 - Cristo Redentor",
+        "Street":"Av. Assis Brasil",
+        "City":"Porto Alegre - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(51) 3010-1159",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0115663,
+        "Longitude":-51.163748,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJJWv2EDnPyJQRaS9jKZr6PsA",
+        "Name":"Droga Raia",
+        "Address":"Av. Princesa D'Oeste, 1375 - Jardim Proença, Campinas - SP, 13026-137, Brazil",
+        "Neighborhood":"1375 - Jardim Proença",
+        "Street":"Av. Princesa D'Oeste",
+        "City":"Campinas - SP",
+        "Rating":3.2,
+        "UserRatingsTotal":66,
+        "Phone":"(19) 99806-9270",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9116928,
+        "Longitude":-47.0454931,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJqxHwdmrEyJQRlMaXKTGeGMQ",
+        "Name":"Novafarma Alphaville",
+        "Address":"R. Araçá, 17 - Lot. Alphaville Campinas, Campinas - SP, 13098-379, Brazil",
+        "Neighborhood":"17 - Lot. Alphaville Campinas",
+        "Street":"R. Araçá",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(19) 3365-6077",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8246229,
+        "Longitude":-47.0355371,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQ447GU_PyJQRkJVydrY_RBM",
+        "Name":"Farmácia medicamenta",
+        "Address":"R. Sacramento, 863 - Centro, Campinas - SP, 13023-185, Brazil",
+        "Neighborhood":"863 - Centro",
+        "Street":"R. Sacramento",
+        "City":"Campinas - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":25,
+        "Phone":"(19) 3255-2916",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.896472,
+        "Longitude":-47.0640079,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJz-BjDCnJyJQRDPfPl5tDpag",
+        "Name":"Pharmacy New Europe",
+        "Address":"Av. Estados Unidos, 746 - Jardim Nova Europa, Campinas - SP, 13040-099, Brazil",
+        "Neighborhood":"746 - Jardim Nova Europa",
+        "Street":"Av. Estados Unidos",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":34,
+        "Phone":"(19) 3238-8945",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9354775,
+        "Longitude":-47.0661878,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ2c25xUs3AQcRifJXbhIS5gA",
+        "Name":"LL FARMA",
+        "Address":"Rua Padre Cícero, 100 - Cidade Universitária, Maceió - AL, 57073-724, Brazil",
+        "Neighborhood":"100 - Cidade Universitária",
+        "Street":"Rua Padre Cícero",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 99685-7246",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5443633,
+        "Longitude":-35.7536925,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJz2e0ztHFyJQRTwbJwGfOv7s",
+        "Name":"Droga Raia",
+        "Address":"R. das Camélias, 929 - Loja A - Chácara Primavera, Campinas - SP, 13087-488, Brazil",
+        "Neighborhood":"929 - Loja A - Chácara Primavera",
+        "Street":"R. das Camélias",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":107,
+        "Phone":"(19) 99701-6476",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8553791,
+        "Longitude":-47.0496927,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJDZqm_CrPyJQRm6yQBkH0GRc",
+        "Name":"Drogal Baden Powell",
+        "Address":"Av. Baden Powell, 1636 - Jardim Nova Europa, Campinas - SP, 13040-093, Brazil",
+        "Neighborhood":"1636 - Jardim Nova Europa",
+        "Street":"Av. Baden Powell",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":174,
+        "Phone":"(19) 3234-2684",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9442222,
+        "Longitude":-47.0551053,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJVVWRPH3GyJQRM--XtBX9q8E",
+        "Name":"Drogaria Santa Genebra",
+        "Address":"R. dos Guainumbis, 758 - Jardim Santa Genebra, Campinas - SP, 13081-530, Brazil",
+        "Neighborhood":"758 - Jardim Santa Genebra",
+        "Street":"R. dos Guainumbis",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":20,
+        "Phone":"(19) 3208-0936",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8560796,
+        "Longitude":-47.0670648,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ2e3KZBvGyJQRwbXPx684hV8",
+        "Name":"Manualfarma Farmácia de Manipulação",
+        "Address":"ATENDIMENTO VIA WHATSAPP - Av. Barão de Itapura, 589 - 75) 9877-8715 - Botafogo, Campinas - SP, 13020-430, Brazil",
+        "Neighborhood":"589 - 75) 9877-8715 - Botafogo",
+        "Street":"ATENDIMENTO VIA WHATSAPP - Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":3.2,
+        "UserRatingsTotal":35,
+        "Phone":"(19) 3242-6905",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8980669,
+        "Longitude":-47.06927,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ-QS5fkTJyJQR9STjWsaqktw",
+        "Name":"Farmácia Drogal",
+        "Address":"Av. Barão de Itapura, 535 - Botafogo, Campinas - SP, 13020-430, Brazil",
+        "Neighborhood":"535 - Botafogo",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":100,
+        "Phone":"(19) 3235-3445",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8983962,
+        "Longitude":-47.0695435,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ_ZpY6Tc3AQcRZWpecQkLSFs",
+        "Name":"Isisfarma Drogaria",
+        "Address":"R. Cristina Braga, 48b - Quadra 65 - Cidade Universitária, Maceió - AL, 57073-385, Brazil",
+        "Neighborhood":"48b - Quadra 65 - Cidade Universitária",
+        "Street":"R. Cristina Braga",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(82) 99104-1427",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5433341,
+        "Longitude":-35.7497138,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ43CddLPIyJQR9dX4lkdQh4M",
+        "Name":"Farmácia Pague Menos",
+        "Address":"Av. Francisco Glicério, 1.253 - Centro, Campinas - SP, 13012-000, Brazil",
+        "Neighborhood":"1.253 - Centro",
+        "Street":"Av. Francisco Glicério",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":63,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9037519,
+        "Longitude":-47.0604585,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJkTk47cfGyJQRr0iVN08jxjY",
+        "Name":"Drogaria São Paulo",
+        "Address":"Av. Albino J. B. de Oliveira, 0 - LOTE 07 E 08 - Barão Geraldo, Campinas - SP, 13084-008, Brazil",
+        "Neighborhood":"0 - LOTE 07 E 08 - Barão Geraldo",
+        "Street":"Av. Albino J. B. de Oliveira",
+        "City":"Campinas - SP",
+        "Rating":3.1,
+        "UserRatingsTotal":95,
+        "Phone":"(19) 3291-7155",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8305763,
+        "Longitude":-47.0784899,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJMSDofWk3AQcRAL-TrlWOOek",
+        "Name":"Laura Farma I Farmacia Jardim Royal",
+        "Address":"R. X, 07 - Cidade Universitária, Maceió - AL, 57072-185 - Cidade Universitária, Maceió - AL, 57072-521, Brazil",
+        "Neighborhood":"07 - Cidade Universitária",
+        "Street":"R. X",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":26,
+        "Phone":"(82) 99623-4630",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.53611,
+        "Longitude":-35.7831593,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJtT_JwLrIyJQRuOPKEnW0VKY",
+        "Name":"DROGARIA SÃO PAULO",
+        "Address":"Av. Andrade Neves, 532\/540 - Centro, Campinas - SP, 13013-160, Brazil",
+        "Neighborhood":"532\/540 - Centro",
+        "Street":"Av. Andrade Neves",
+        "City":"Campinas - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":126,
+        "Phone":"(19) 3234-2733",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9038151,
+        "Longitude":-47.069169,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJkb4nsLTIyJQR0fVHy6LZm_U",
+        "Name":"Drogasil",
+        "Address":"RUA CORONEL QUIRINO - Esq - R. Barreto Leme, 1076 - Cambuí, Campinas - SP, 13025-001, Brazil",
+        "Neighborhood":"1076 - Cambuí",
+        "Street":"RUA CORONEL QUIRINO - Esq - R. Barreto Leme",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":34,
+        "Phone":"(19) 99663-1737",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8983715,
+        "Longitude":-47.0524673,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJRbymhOY3AQcRyqrdaqE9l9s",
+        "Name":"Farmácia + Saúde",
+        "Address":"Rua Padre Cícero, n°95 - Cidade Universitária, Maceió - AL, 57073-619, Brazil",
+        "Neighborhood":"n°95 - Cidade Universitária",
+        "Street":"Rua Padre Cícero",
+        "City":"Maceió - AL",
+        "Rating":4.4,
+        "UserRatingsTotal":14,
+        "Phone":"(82) 98232-0059",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5455003,
+        "Longitude":-35.7532366,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJd5LizOs3AQcRbzj6rPR2ewM",
+        "Name":"Farma Certa",
+        "Address":"Rua: Fábio Wanderley, 675 Eustáquio Gomes de Melo II - Cidade Universitária, Maceió - AL, 57072-360, Brazil",
+        "Neighborhood":"675 Eustáquio Gomes de Melo II - Cidade Universitária",
+        "Street":"Rua: Fábio Wanderley",
+        "City":"Maceió - AL",
+        "Rating":4.8,
+        "UserRatingsTotal":6,
+        "Phone":"(82) 99832-0471",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5414246,
+        "Longitude":-35.78351,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJvzkRr6JzmQARWeYwGcOSILk",
+        "Name":"Drogarias Legítima - Nova Campina",
+        "Address":"rua B - s\/n lj 320 C - Jardim Primavera, Duque de Caxias - RJ, 26265-450, Brazil",
+        "Neighborhood":"Duque de Caxias - RJ",
+        "Street":"rua B - s\/n lj 320 C - Jardim Primavera",
+        "City":"26265-450",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(21) 2775-5644",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6737736,
+        "Longitude":-43.2719508,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJn9K502x5mQARZy3grO3K-Gw",
+        "Name":"Fórmula Consultoria Farmacêutica",
+        "Address":"Av. Carlos Chagas Filho - Cidade Universitária, Rio de Janeiro - RJ, 21941-902, Brazil",
+        "Neighborhood":"Rio de Janeiro - RJ",
+        "Street":"Av. Carlos Chagas Filho - Cidade Universitária",
+        "City":"21941-902",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(21) 2560-1243",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8412889,
+        "Longitude":-43.2340368,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJEXB6mZO_4pQRXnm-PXhCprg",
+        "Name":"Drogaria Cesafarma",
+        "Address":"Av. Aspirante Jenner, 771 - Vila Santa Maria, Passo Fundo - RS, 99074-360, Brazil",
+        "Neighborhood":"771 - Vila Santa Maria",
+        "Street":"Av. Aspirante Jenner",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(54) 3315-3980",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2668714,
+        "Longitude":-52.3862144,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJx-8-sur7y5QRNIb0lwsRoKY",
+        "Name":"Natus Farma Cambuí II: Remédio, Farmácia, Drogaria e Entrega em Cambuí MG",
+        "Address":"Av. do Carmo, 527, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"527",
+        "Street":"Av. do Carmo",
+        "City":"Cambuí - MG",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(35) 91025-6321",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6106493,
+        "Longitude":-46.0599145,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ0cl6Y7XRyJQR310-muUKY9M",
+        "Name":"Farmácia Drogal",
+        "Address":"Av. Cabo Oscar Rossin, 15 - Sousas, Campinas - SP, 13106-034, Brazil",
+        "Neighborhood":"15 - Sousas",
+        "Street":"Av. Cabo Oscar Rossin",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":33,
+        "Phone":"(19) 3258-4838",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8783811,
+        "Longitude":-46.9667302,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ4wOAVMjGyJQRBDtUmAGN4iA",
+        "Name":"Botica da Terra",
+        "Address":"Av. Santa Isabel, 15 - Barão Geraldo, Campinas - SP, 13084-012, Brazil",
+        "Neighborhood":"15 - Barão Geraldo",
+        "Street":"Av. Santa Isabel",
+        "City":"Campinas - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":23,
+        "Phone":"(19) 3289-9422",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8277173,
+        "Longitude":-47.0799551,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ9U69bvZIAQcR5wEfILvzGXE",
+        "Name":"Unifarma Drogaria",
+        "Address":"Av. Maceió, 614 - Tabuleiro do Martins, Maceió - AL, 57061-110, Brazil",
+        "Neighborhood":"614 - Tabuleiro do Martins",
+        "Street":"Av. Maceió",
+        "City":"Maceió - AL",
+        "Rating":4.2,
+        "UserRatingsTotal":15,
+        "Phone":"(82) 99107-1253",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5863681,
+        "Longitude":-35.7679243,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJyc1Ht9XOyJQRDlZw-r4IwPk",
+        "Name":"Farmácia Pague Menos",
+        "Address":"R. Iporanga, 10 - Vila Marieta, Campinas - SP, 13042-075, Brazil",
+        "Neighborhood":"10 - Vila Marieta",
+        "Street":"R. Iporanga",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":58,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9288445,
+        "Longitude":-47.0548446,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJcdA31vnIyJQRU0jBDiR6RoY",
+        "Name":"MIMULUS MANIPULAÇÃO DE FÓRMULAS",
+        "Address":"Av. Mirandópolis, 887 - Vila Pauliceia, Campinas - SP, 13050-470, Brazil",
+        "Neighborhood":"887 - Vila Pauliceia",
+        "Street":"Av. Mirandópolis",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":43,
+        "Phone":"(19) 3268-6741",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.930716,
+        "Longitude":-47.0933756,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJnZrkRcjGyJQRDBSCnECS97E",
+        "Name":"S & Amp S Farmácia Manipulação",
+        "Address":"Av. Santa Isabel, 15 - via whatsapp, 19 - 99826,2764 - Vila Santa Isabel, Campinas - SP, 13084-012, Brazil",
+        "Neighborhood":"15 - via whatsapp",
+        "Street":"Av. Santa Isabel",
+        "City":"19 - 99826",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(19) 3249-0226",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8277173,
+        "Longitude":-47.0799551,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJv9OIXwr6y5QRIUS7KCNVheM",
+        "Name":"Pharmativa",
+        "Address":"R. João Moreira Salles, 65 - WhatsApp, 35 - 98852-0884, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"65 - WhatsApp",
+        "Street":"R. João Moreira Salles",
+        "City":"35 - 98852-0884",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(35) 3431-4243",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6112978,
+        "Longitude":-46.0579045,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJfSbHia9IAQcRO9gVxJ25QjM",
+        "Name":"Unifarma",
+        "Address":"R. Pref. Joatas Malta de Alencar, 185 - Chã da Jaqueira, Maceió - AL, 57018-408, Brazil",
+        "Neighborhood":"185 - Chã da Jaqueira",
+        "Street":"R. Pref. Joatas Malta de Alencar",
+        "City":"Maceió - AL",
+        "Rating":4.1,
+        "UserRatingsTotal":11,
+        "Phone":"(82) 3375-8500",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.6123107,
+        "Longitude":-35.7501782,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJNZA0TRE3AQcRgb7f-BI5Pio",
+        "Name":"Farmácia Do Trabalhador Nossa Senhora Auxiliadora",
+        "Address":"R. Expedito Vitor Ferreira, 102-154 - Cidade Universitária, Maceió - AL, 57072-831, Brazil",
+        "Neighborhood":"102-154 - Cidade Universitária",
+        "Street":"R. Expedito Vitor Ferreira",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(82) 98801-3037",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5398756,
+        "Longitude":-35.7839128,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXQO-o4TJyJQRx94rBlLu6Lg",
+        "Name":"Nova Natural Farmácia de Manipulação & Homeopatia - Unidade Amoreiras",
+        "Address":"Av. das Amoreiras, 2911 - Jardim Novo Campos Eliseos, Campinas - SP, 13050-575, Brazil",
+        "Neighborhood":"2911 - Jardim Novo Campos Eliseos",
+        "Street":"Av. das Amoreiras",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":48,
+        "Phone":"(19) 98281-2098",
+        "Types":"pharmacy, drugstore, veterinary_care, point_of_interest, food, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9300516,
+        "Longitude":-47.0853746,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ57LpjxrGyJQRITtD1aBWtH0",
+        "Name":"Farmacia Carcajon Ltda",
+        "Address":"Av. Brasil, 1370 - Vila Nova, Campinas - SP, 13073-148, Brazil",
+        "Neighborhood":"1370 - Vila Nova",
+        "Street":"Av. Brasil",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":65,
+        "Phone":"(19) 3243-1904",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8846406,
+        "Longitude":-47.0697032,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJe1JOc7PIyJQR7gpAUyAvmr8",
+        "Name":"Droga Raia",
+        "Address":"Av. Francisco Glicério, 1341 - Centro, Campinas - SP, 13012-000, Brazil",
+        "Neighborhood":"1341 - Centro",
+        "Street":"Av. Francisco Glicério",
+        "City":"Campinas - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":94,
+        "Phone":"(19) 99847-4923",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9030025,
+        "Longitude":-47.0608169,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJkXsn-x2kXpMRjiQNtqks1NI",
+        "Name":"Drogamed Universitária",
+        "Address":"Av. Universitária, 2892 - Cidade Universitária, Anápolis - GO, 75083-515, Brazil",
+        "Neighborhood":"2892 - Cidade Universitária",
+        "Street":"Av. Universitária",
+        "City":"Anápolis - GO",
+        "Rating":3.7,
+        "UserRatingsTotal":34,
+        "Phone":"(62) 3318-5757",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.2962981,
+        "Longitude":-48.9459756,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJVWur82VJAQcRkpygoOswY1k",
+        "Name":"Farmácia 1mg",
+        "Address":"Av. José Ailton dos Santos, 552 Village Campestre 1 - Village Campestre, Maceió - AL, 57073-020, Brazil",
+        "Neighborhood":"552 Village Campestre 1 - Village Campestre",
+        "Street":"Av. José Ailton dos Santos",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(82) 99643-0824",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5549247,
+        "Longitude":-35.7670571,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJs5kyepbHyJQRjoD257U2gZA",
+        "Name":"Clinique Pharma - Laboratório e Manipulação",
+        "Address":"R. Pereira Tangerino, 318 - Jardim Guanabara, Campinas - SP, 13073-210, Brazil",
+        "Neighborhood":"318 - Jardim Guanabara",
+        "Street":"R. Pereira Tangerino",
+        "City":"Campinas - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8896248,
+        "Longitude":-47.0712091,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJH-6G6gr6y5QRcZ9O7-UPztQ",
+        "Name":"Drogaria Americana",
+        "Address":"R. João Moreira Salles, 195 - Centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"195 - Centro",
+        "Street":"R. João Moreira Salles",
+        "City":"Cambuí - MG",
+        "Rating":4.1,
+        "UserRatingsTotal":27,
+        "Phone":"(35) 3431-2441",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6101064,
+        "Longitude":-46.0578034,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJkbvDNQv6y5QRE6sfZA82jd4",
+        "Name":"Farmavida",
+        "Address":"Av. do Carmo, 660, Cambuí, via whats, 31 - 97351,9391, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"660",
+        "Street":"Av. do Carmo",
+        "City":"Cambuí",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(35) 3431-3804",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6090055,
+        "Longitude":-46.0600654,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJBW-gudr7y5QRg1JLm_vqFAE",
+        "Name":"Farmacia Cambui MG - Poupe Sempre",
+        "Address":"Rua Major Higino - César 58 - Pracinha da Cultura - R. São Benedito, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"Cambuí - MG",
+        "Street":"Rua Major Higino - César 58 - Pracinha da Cultura - R. São Benedito",
+        "City":"37600-000",
+        "Rating":5.0,
+        "UserRatingsTotal":7,
+        "Phone":"(35) 3431-4541",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6146253,
+        "Longitude":-46.0593937,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJfSfK0NNfz5QRb-BzWM-a-Q0",
+        "Name":"Centro Paulista Farmácia de Manipulação - Unidade Sorocaba",
+        "Address":"Av. Pirelli, 1079 - Éden, Sorocaba - SP, 18103-085, Brazil",
+        "Neighborhood":"1079 - Éden",
+        "Street":"Av. Pirelli",
+        "City":"Sorocaba - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":8,
+        "Phone":"(15) 3199-9082",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.4161157,
+        "Longitude":-47.4245556,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJJeWcpYhWmQARpU44pgyNiGw",
+        "Name":"Farmácia Universitária",
+        "Address":"Av. Min. Fernando Costa, 775 - Fazenda Caxias, Seropédica - RJ, 23895-265, Brazil",
+        "Neighborhood":"775 - Fazenda Caxias",
+        "Street":"Av. Min. Fernando Costa",
+        "City":"Seropédica - RJ",
+        "Rating":4.5,
+        "UserRatingsTotal":64,
+        "Phone":"(21) 98400-4338",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7429556,
+        "Longitude":-43.7042273,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJn6ZPoyU3AQcRqvoqdgQj6Mc",
+        "Name":"Drogaria Moreira",
+        "Address":"Av. Tancredo Neves, 44 - Cidade Universitária, Maceió - AL, 57073-370, Brazil",
+        "Neighborhood":"44 - Cidade Universitária",
+        "Street":"Av. Tancredo Neves",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":8,
+        "Phone":"(82) 3324-7583",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5469512,
+        "Longitude":-35.7518847,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJARsJ1E_PyJQRrHn5-b3bEeI",
+        "Name":"Geofarma Farmácia de Manipulação",
+        "Address":"R. Dr. Emílio Ribas, 830 - via whatsapp, 19 - 99826,2764 - Cambuí, Campinas - SP, 13025-141, Brazil",
+        "Neighborhood":"830 - via whatsapp",
+        "Street":"R. Dr. Emílio Ribas",
+        "City":"19 - 99826",
+        "Rating":3.9,
+        "UserRatingsTotal":60,
+        "Phone":"(19) 3252-4043",
+        "Types":"pharmacy, drugstore, food, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8970871,
+        "Longitude":-47.0507742,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJFcLt9njB4pQRA1MU_WCDouU",
+        "Name":"Farmácia São João",
+        "Address":"R. Luís Ernesto Fazolo, 191 - José Alexandre Zachia, Passo Fundo - RS, 99042-480, Brazil",
+        "Neighborhood":"191 - José Alexandre Zachia",
+        "Street":"R. Luís Ernesto Fazolo",
+        "City":"Passo Fundo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":2,
+        "Phone":"(54) 3101-0028",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2254818,
+        "Longitude":-52.4386299,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJg5uhRgz7y5QRoBqTV-9haBQ",
+        "Name":"uai farma",
+        "Address":"Praça da Bandeira - centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"Cambuí - MG",
+        "Street":"Praça da Bandeira - centro",
+        "City":"37600-000",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(35) 3431-3324",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6128884,
+        "Longitude":-46.0643385,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHw0lLe3IyJQRJ8jrF5qkuLI",
+        "Name":"Pharmacy Dom Nery",
+        "Address":"R. Tomás Gonçalves Gômide - via, 225 - Parque Industrial, Campinas - SP, 13031-550, Brazil",
+        "Neighborhood":"225 - Parque Industrial",
+        "Street":"R. Tomás Gonçalves Gômide - via",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":55,
+        "Phone":"(19) 3272-2397",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9179951,
+        "Longitude":-47.0856218,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJj6Vl57Z5GZURvIYbabtSW7Q",
+        "Name":"P. A. Farmácia e Manipulação",
+        "Address":"R. Padre Chagas, 69 - Moinhos de Vento, Porto Alegre - RS, 90570-080, Brazil",
+        "Neighborhood":"69 - Moinhos de Vento",
+        "Street":"R. Padre Chagas",
+        "City":"Porto Alegre - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(51) 3346-2249",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0260407,
+        "Longitude":-51.2044812,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ12Qg0yDQyJQRDVPY9BIYY9Y",
+        "Name":"Drogaria Vittoria",
+        "Address":"R. Xavier Mayer, n57 - Sousas, Campinas - SP, 13105-038, Brazil",
+        "Neighborhood":"n57 - Sousas",
+        "Street":"R. Xavier Mayer",
+        "City":"Campinas - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":6,
+        "Phone":"(19) 3307-0706",
+        "Types":"shopping_mall, drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8870879,
+        "Longitude":-46.978413,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJlYLmc1TPyJQR2LI9t9R5Idc",
+        "Name":"Pharmapele Manipulation Pharmacy",
+        "Address":"R. Santos Dumont, 485 - Cambuí, Campinas - SP, 13024-021, Brazil",
+        "Neighborhood":"485 - Cambuí",
+        "Street":"R. Santos Dumont",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":24,
+        "Phone":"(19) 3203-6307",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8930722,
+        "Longitude":-47.0549376,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJV58ZzLi4yJQR9-XVYLC6k00",
+        "Name":"Pharmarie Farmácia de Manipulação",
+        "Address":"R. Dom Gilberto Pereira Lopes, 298 - Conj. Hab. Padre Anchieta, Campinas - SP, 13068-217, Brazil",
+        "Neighborhood":"298 - Conj. Hab. Padre Anchieta",
+        "Street":"R. Dom Gilberto Pereira Lopes",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":7,
+        "Phone":"(19) 99636-0792",
+        "Types":"pharmacy, veterinary_care, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8590822,
+        "Longitude":-47.1542827,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ6_5GqLjGyJQRlu1u5Rozobo",
+        "Name":"Drogaria Vivax",
+        "Address":"Av. Dr. Romeu Tortima, 255 - Jardim Santa Genebra II (Barao Geraldo), Campinas - SP, 13084-791, Brazil",
+        "Neighborhood":"255 - Jardim Santa Genebra II (Barao Geraldo)",
+        "Street":"Av. Dr. Romeu Tortima",
+        "City":"Campinas - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(19) 3289-2824",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8326155,
+        "Longitude":-47.0772059,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ8zjILGIZqwcR2gV7hH9r6To",
+        "Name":"Farmácia Pague Menos",
+        "Address":"R. Gen. Polidoro, 982 - Cidade Universitária, Recife - PE, 50740-050, Brazil",
+        "Neighborhood":"982 - Cidade Universitária",
+        "Street":"R. Gen. Polidoro",
+        "City":"Recife - PE",
+        "Rating":3.2,
+        "UserRatingsTotal":88,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-8.0453906,
+        "Longitude":-34.9480537,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJgTJ9TwlIAQcRysBPumYEPPk",
+        "Name":"Farmaderm - Farmácia de Manipulação",
+        "Address":"Shopping Pátio Maceió - Av. Menino Marcelo, 3800 - Loja 501 - Cidade Universitária, Maceió - AL, 57081-385, Brazil",
+        "Neighborhood":"3800 - Loja 501 - Cidade Universitária",
+        "Street":"Shopping Pátio Maceió - Av. Menino Marcelo",
+        "City":"Maceió - AL",
+        "Rating":3.2,
+        "UserRatingsTotal":38,
+        "Phone":"(82) 3302-1656",
+        "Types":"pharmacy, veterinary_care, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5569131,
+        "Longitude":-35.7464673,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ86vwkF3IyJQRXEiVK0lP6to",
+        "Name":"Drogaria Jardim",
+        "Address":"Rua Silvio Rizzardo, 940 - Jardim Campos Eliseos, Campinas - SP, 13060-024, Brazil",
+        "Neighborhood":"940 - Jardim Campos Eliseos",
+        "Street":"Rua Silvio Rizzardo",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":26,
+        "Phone":"(19) 3227-8650",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9248365,
+        "Longitude":-47.1034714,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ4YjPjZU3AQcRk9FVYJSv1Mc",
+        "Name":"Farmácia do Trabalhador",
+        "Address":"R. Rad. Nascimento Suassuna, 105 - Cidade Universitária, Maceió - AL, 57072-610, Brazil",
+        "Neighborhood":"105 - Cidade Universitária",
+        "Street":"R. Rad. Nascimento Suassuna",
+        "City":"Maceió - AL",
+        "Rating":3.0,
+        "UserRatingsTotal":2,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5308437,
+        "Longitude":-35.7920173,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJKfOF_UfByJQRHgyn_GC6aMg",
+        "Name":"Pharmacy Company of Herbs",
+        "Address":"Av. Oscár Pedroso Horta, 369 - Cidade Universitária, Campinas - SP, 13083-510, Brazil",
+        "Neighborhood":"369 - Cidade Universitária",
+        "Street":"Av. Oscár Pedroso Horta",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":26,
+        "Phone":"(19) 99715-3631",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8099643,
+        "Longitude":-47.0774964,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJQxQX1Bm_uZQRVFwnzCNFiUg",
+        "Name":"NewNutrition Nutrição & Manipulação",
+        "Address":"R. Henrique Dumont, 1097 - Jardim Paulista, Ribeirão Preto - SP, 14090-200, Brazil",
+        "Neighborhood":"1097 - Jardim Paulista",
+        "Street":"R. Henrique Dumont",
+        "City":"Ribeirão Preto - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":10,
+        "Phone":"(16) 3618-4466",
+        "Types":"pharmacy, drugstore, health, store, food, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-21.1822356,
+        "Longitude":-47.793698,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJY7gQhv_FyJQRDdT01wu0wek",
+        "Name":"Alopharma",
+        "Address":"R. Dr. José Inocêncio de Campos, 304 - via whatsapp, 19 - 99826,2764 - Cambuí, Campinas - SP, 13024-230, Brazil",
+        "Neighborhood":"304 - via whatsapp",
+        "Street":"R. Dr. José Inocêncio de Campos",
+        "City":"19 - 99826",
+        "Rating":3.9,
+        "UserRatingsTotal":12,
+        "Phone":"(19) 3252-1666",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8888949,
+        "Longitude":-47.0563443,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHUKrQwr6y5QRCjtGMMo5N4Q",
+        "Name":"Leidyane Lambert de Almeida Santos",
+        "Address":"Avenida Jose Alves Cardoso 900 - lj 03- Hiper Braizinho, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"Cambuí - MG",
+        "Street":"Avenida Jose Alves Cardoso 900 - lj 03- Hiper Braizinho",
+        "City":"37600-000",
+        "Rating":3.0,
+        "UserRatingsTotal":2,
+        "Phone":"(35) 3431-3372",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6120263,
+        "Longitude":-46.0576668,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJz73YLxfGyJQRmG_Kvv3LYUY",
+        "Name":"Drug Handling Pharmacy",
+        "Address":"Av. Francisco José de Camargo Andrade, 780 - via whatsapp, 19 - 99826,2764 - Jardim Chapadão, Campinas - SP, 13070-051, Brazil",
+        "Neighborhood":"780 - via whatsapp",
+        "Street":"Av. Francisco José de Camargo Andrade",
+        "City":"19 - 99826",
+        "Rating":4.5,
+        "UserRatingsTotal":17,
+        "Phone":"(19) 3381-0100",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8834645,
+        "Longitude":-47.0732624,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJYyYF_cjGyJQRboYLTpwfhJ4",
+        "Name":"House Veterinary",
+        "Address":"Rua Benedito Alves Aranha, 94 - Barão Geraldo, Campinas - SP, 13084-090, Brazil",
+        "Neighborhood":"94 - Barão Geraldo",
+        "Street":"Rua Benedito Alves Aranha",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":68,
+        "Phone":"(19) 99906-1590",
+        "Types":"veterinary_care, pharmacy, pet_store, point_of_interest, food, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8279152,
+        "Longitude":-47.0806938,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJHYizudlJAQcRvpbA2YgbL9c",
+        "Name":"Farmácia Permanente",
+        "Address":"AVENIDA DR. FERNANDO DO - R. Fernando Couto Malta, 469 - Cidade Universitária, Maceió - AL, 57073-030, Brazil",
+        "Neighborhood":"469 - Cidade Universitária",
+        "Street":"AVENIDA DR. FERNANDO DO - R. Fernando Couto Malta",
+        "City":"Maceió - AL",
+        "Rating":2.9,
+        "UserRatingsTotal":14,
+        "Phone":"(82) 99985-4325",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5537171,
+        "Longitude":-35.7529077,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXeBwvUnPyJQRjeHEqHKupPk",
+        "Name":"Siafarma I Farmácia de Manipulação e Homeopatia em Campinas | Florais Fitoterápicos Controlados",
+        "Address":"Av. Dr. Moraes Salles, 1316 - Cambuí, Campinas - SP, 13010-002, Brazil",
+        "Neighborhood":"1316 - Cambuí",
+        "Street":"Av. Dr. Moraes Salles",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":33,
+        "Phone":"(19) 97116-5571",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9051863,
+        "Longitude":-47.0521732,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJRWlB-47A4pQRYbPDZDC4yiI",
+        "Name":"Farmácia Farmasul",
+        "Address":"R. Dona Eliza, 378 - Vila Fátima, Passo Fundo - RS, 99020-120, Brazil",
+        "Neighborhood":"378 - Vila Fátima",
+        "Street":"R. Dona Eliza",
+        "City":"Passo Fundo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":4,
+        "Phone":"(54) 3311-3091",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.248418,
+        "Longitude":-52.4105887,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJPxe4MRk3AQcR9XBBLwZ4uaE",
+        "Name":"França Farma Farmácia no Gran Jardim",
+        "Address":"Av. Grand Jardim, 960 - Loja 11 - Cidade Universitária, Maceió - AL, 57074-550, Brazil",
+        "Neighborhood":"960 - Loja 11 - Cidade Universitária",
+        "Street":"Av. Grand Jardim",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":11,
+        "Phone":"(82) 99976-1200",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5335363,
+        "Longitude":-35.7732053,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJrw5YMy_5zpQRlK3qSpNgbOA",
+        "Name":"Park Farma",
+        "Address":"Rua Brigadeiro Henrique Fontenelle, 459 - Parque Sao Domingos, São Paulo - SP, 05125-000, Brazil",
+        "Neighborhood":"459 - Parque Sao Domingos",
+        "Street":"Rua Brigadeiro Henrique Fontenelle",
+        "City":"São Paulo - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":94,
+        "Phone":"(11) 3644-4469",
+        "Types":"pharmacy, drugstore, veterinary_care, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5034037,
+        "Longitude":-46.7396786,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJaSM0T9jHyJQR6F4jDcISK10",
+        "Name":"Farmácia de Alto Custo - HC UNICAMP",
+        "Address":"Cidade Universitária, Campinas - State of São Paulo, 13083-970, Brazil",
+        "Neighborhood":"Campinas - State of São Paulo",
+        "Street":"Cidade Universitária",
+        "City":"13083-970",
+        "Rating":3.9,
+        "UserRatingsTotal":19,
+        "Phone":"(19) 3521-7308",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8268139,
+        "Longitude":-47.0633081,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHeoQ4HjA4pQR7lICCSsOoEg",
+        "Name":"Farmácia Nutri Farma",
+        "Address":"Av. Brasil Leste, 606 - Petrópolis, Passo Fundo - RS, 99050-000, Brazil",
+        "Neighborhood":"606 - Petrópolis",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 3313-2147",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2549372,
+        "Longitude":-52.3983391,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJkw-CYxvGyJQRs73CLM0NU9c",
+        "Name":"Manualfarma Farmárcia de Manipulação",
+        "Address":"Av. Monsenhor Jerônimo Baggio, 423 - Vila Nova, Campinas - SP, 13075-350, Brazil",
+        "Neighborhood":"423 - Vila Nova",
+        "Street":"Av. Monsenhor Jerônimo Baggio",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":5,
+        "Phone":"(19) 3242-6905",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8819937,
+        "Longitude":-47.0620005,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJUUu7goLA4pQRYO9JM6XFRBs",
+        "Name":"Farmácia Natupharma Manipulação & Medicamentos",
+        "Address":"R. Paissandú, 1657 - Sala 02 - Centro, Passo Fundo - RS, 99010-102, Brazil",
+        "Neighborhood":"1657 - Sala 02 - Centro",
+        "Street":"R. Paissandú",
+        "City":"Passo Fundo - RS",
+        "Rating":4.1,
+        "UserRatingsTotal":9,
+        "Phone":"(54) 3312-2400",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2617394,
+        "Longitude":-52.4125259,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJzWwQOrDPyJQRATAGHLddkJ0",
+        "Name":"Drogarias Exclusiva - Jardim Nova Europa",
+        "Address":"Av. Baden Powell, 2026 - Loja 04\/05 Lojas 04 \/ 05 - Jardim Nova Europa, Campinas - SP, 13040-093, Brazil",
+        "Neighborhood":"2026 - Loja 04\/05 Lojas 04 \/ 05 - Jardim Nova Europa",
+        "Street":"Av. Baden Powell",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":91,
+        "Phone":"(19) 3278-4009",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.946662,
+        "Longitude":-47.0526763,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJEyBRm9zJyJQR9NcJfBfb_8w",
+        "Name":"Nova Natural Farmácia de Manipulação & Homeopatia - Zona de Fornecedores",
+        "Address":"R. Magé, 18 - Vila Aeroporto, Campinas - SP, 13054-111, Brazil",
+        "Neighborhood":"18 - Vila Aeroporto",
+        "Street":"R. Magé",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(19) 3112-5700",
+        "Types":"veterinary_care, pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.968797,
+        "Longitude":-47.1287913,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ97pzwAHGyJQRY6UUNAV-yZ4",
+        "Name":"Drogasil",
+        "Address":"Av. Barão de Itapura, 1903 - Botafogo, Campinas - SP, 13020-433, Brazil",
+        "Neighborhood":"1903 - Botafogo",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":81,
+        "Phone":"(19) 99641-9820",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8887233,
+        "Longitude":-47.0613812,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJf8Ru8ajIyJQR-Es7AiVEE4Y",
+        "Name":"Biosíntese Farmácia Laboratório Manipulação",
+        "Address":"R. José Paulino, 2262 - Vila Itapura, Campinas - SP, 13023-102, Brazil",
+        "Neighborhood":"2262 - Vila Itapura",
+        "Street":"R. José Paulino",
+        "City":"Campinas - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":174,
+        "Phone":"(19) 3234-2828",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8953443,
+        "Longitude":-47.0661523,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJN9Ko5ik2AQcRIuEA8Vahtv8",
+        "Name":"Farmácia Popular Bem-estar",
+        "Address":"R. Profa. Célia Macedo - Cidade Universitária, Maceió - AL, 57072-245, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"R. Profa. Célia Macedo - Cidade Universitária",
+        "City":"57072-245",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 99665-8266",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5409617,
+        "Longitude":-35.7908539,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ_S4xwM_OyJQRewm9v6m8QJg",
+        "Name":"Dromed Pharma Santo Expedito",
+        "Address":"R. Paulínia, 26 - Jardim dos Oliveiras, Campinas - SP, 13044-105, Brazil",
+        "Neighborhood":"26 - Jardim dos Oliveiras",
+        "Street":"R. Paulínia",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":41,
+        "Phone":"(19) 99635-7726",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9358695,
+        "Longitude":-47.049843,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJx9bdL7o3AQcRqljBDOO80XA",
+        "Name":"Drogaria Oliveira",
+        "Address":"Unnamed Road - Res. Jardim Royal, Maceió - AL, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"Unnamed Road - Res. Jardim Royal",
+        "City":"Brazil",
+        "Rating":2.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 98714-8284",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5338687,
+        "Longitude":-35.7794471,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJe_fmPdfPyJQRgfhEmgWbvm4",
+        "Name":"Droga Raia",
+        "Address":"R. Gen. Osório, 1895 - Cambuí, Campinas - SP, 13025-155, Brazil",
+        "Neighborhood":"1895 - Cambuí",
+        "Street":"R. Gen. Osório",
+        "City":"Campinas - SP",
+        "Rating":3.5,
+        "UserRatingsTotal":74,
+        "Phone":"(19) 99465-1268",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9005263,
+        "Longitude":-47.0522012,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ_ybnwvvFyJQRu0WxS1dDLk4",
+        "Name":"Droga Jóia Campinas",
+        "Address":"R. Lopes Trovão, 420 - Vila Iza, Campinas - SP, 13076-670, Brazil",
+        "Neighborhood":"420 - Vila Iza",
+        "Street":"R. Lopes Trovão",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(19) 3254-6468",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8820984,
+        "Longitude":-47.052012,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJUbUgpXLs3JQR2AGNhi0R9oc",
+        "Name":"Farmácia Descontão Campina Grande do Sul",
+        "Address":"R. João Trevisan, 975 - Jardim Paulista, Campina Grande do Sul - PR, 83430-000, Brazil",
+        "Neighborhood":"975 - Jardim Paulista",
+        "Street":"R. João Trevisan",
+        "City":"Campina Grande do Sul - PR",
+        "Rating":4.2,
+        "UserRatingsTotal":6,
+        "Phone":"(41) 3043-8030",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.3634015,
+        "Longitude":-49.1011385,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJvxkCgEfByJQR5EgOWvw7ZIc",
+        "Name":"Drogasil",
+        "Address":"Rua Maria Tereza Dias da Silva, 852 - Cidade Universitária, Campinas - SP, 13083-820, Brazil",
+        "Neighborhood":"852 - Cidade Universitária",
+        "Street":"Rua Maria Tereza Dias da Silva",
+        "City":"Campinas - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":111,
+        "Phone":"(19) 99925-5334",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8076181,
+        "Longitude":-47.0777248,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJIXb35fzIyJQRqayomNm2KTk",
+        "Name":"Farmácia Apolo de Campinas",
+        "Address":"Av. Adão Focesi, 654 - Jardim do Lago, Campinas - SP, 13050-000, Brazil",
+        "Neighborhood":"654 - Jardim do Lago",
+        "Street":"Av. Adão Focesi",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":20,
+        "Phone":"(19) 3228-2415",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9327802,
+        "Longitude":-47.0848156,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJu3PO_EvPyJQRHiUnsn3cJSY",
+        "Name":"Drugstore Sao Paulo",
+        "Address":"R. Conceição, 652 - Centro, Campinas - SP, 13010-050, Brazil",
+        "Neighborhood":"652 - Centro",
+        "Street":"R. Conceição",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":191,
+        "Phone":"4003-3393",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9031115,
+        "Longitude":-47.0535917,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJKVrzC7PIyJQRbCvOzXenMDg",
+        "Name":"Farmácia Drogal",
+        "Address":"Rua Barão de Jaguara, 1363 - Centro, Campinas - SP, 13015-002, Brazil",
+        "Neighborhood":"1363 - Centro",
+        "Street":"Rua Barão de Jaguara",
+        "City":"Campinas - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":46,
+        "Phone":"(19) 3236-2954",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9027865,
+        "Longitude":-47.0599215,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJRy3jS9I3AQcReAjZdVn1SRo",
+        "Name":"Drogamanda eustáquio gomes",
+        "Address":"R.Jardim Royal,mod.1 qd.U - rua projetada, numero 162 - Cidade Universitária, Maceió - AL, 57072-131, Brazil",
+        "Neighborhood":"mod.1 qd.U - rua projetada",
+        "Street":"R.Jardim Royal",
+        "City":"numero 162 - Cidade Universitária",
+        "Rating":4.8,
+        "UserRatingsTotal":10,
+        "Phone":"(82) 98858-6881",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5340301,
+        "Longitude":-35.7801241,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJyR3rRJyaw5QRaslrj2Om48w",
+        "Name":"MaisFarma Nova Campina",
+        "Address":"R. João Nunes de Oliveira, 142 - Nova Campina, SP, 18435-000, Brazil",
+        "Neighborhood":"142 - Nova Campina",
+        "Street":"R. João Nunes de Oliveira",
+        "City":"SP",
+        "Rating":4.2,
+        "UserRatingsTotal":6,
+        "Phone":"(15) 3535-1127",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-24.1209036,
+        "Longitude":-48.9070067,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJWd_VmQv6y5QRSvS6cW4ondc",
+        "Name":"Farminas",
+        "Address":"37600-000, via whats, 31 - Av. Pref. José Barbosa, 509 - 97351,9391 - CENTRO, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"via whats",
+        "Street":"37600-000",
+        "City":"31 - Av. Pref. José Barbosa",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(35) 3431-4640",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6126575,
+        "Longitude":-46.0600136,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJMSDBV-Q3AQcRqczQtE075FU",
+        "Name":"DROGARIA ARAUJO",
+        "Address":"Avenida Tancredo Neves, 69 Village Campestre II - Village Campestre, Maceió - AL, 57073-383, Brazil",
+        "Neighborhood":"69 Village Campestre II - Village Campestre",
+        "Street":"Avenida Tancredo Neves",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(82) 99957-3724",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5393356,
+        "Longitude":-35.7542487,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJU5y0oNTFyJQRRX26tJh0ilA",
+        "Name":"Drogasil",
+        "Address":"R. Adelino Martins, 390 - Mansões Santo Antônio, Campinas - SP, 13087-510, Brazil",
+        "Neighborhood":"390 - Mansões Santo Antônio",
+        "Street":"R. Adelino Martins",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":76,
+        "Phone":"(19) 99947-7272",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.850388,
+        "Longitude":-47.0534555,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJWyqurxxIAQcRx7wM0grRWAY",
+        "Name":"Farmacia R & R Saúde",
+        "Address":"Av. Empresário Nelson Oliveira Menezes, 704 - Cidade Universitária, Maceió - AL, 57073-000, Brazil",
+        "Neighborhood":"704 - Cidade Universitária",
+        "Street":"Av. Empresário Nelson Oliveira Menezes",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 98821-0199",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5500538,
+        "Longitude":-35.7521499,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJb56dlO3OyJQRUXuvyhWg-sg",
+        "Name":"Drogaria Santa Odila Dromed Pharma | Disk Entrega | Medicamentos | Perfumaria | Remédio",
+        "Address":"Av. Engenheiro Augusto Figueiredo, 1434 - Vila Progresso, Campinas - SP, 13045-603, Brazil",
+        "Neighborhood":"1434 - Vila Progresso",
+        "Street":"Av. Engenheiro Augusto Figueiredo",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":26,
+        "Phone":"(19) 3276-7121",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9340334,
+        "Longitude":-47.0302749,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ5eHRmoHA4pQRC39wbTRG_Ak",
+        "Name":"Farmácia Natupharma Manipulação & Medicamentos",
+        "Address":"R. Uruguai, 1570 - Centro, Passo Fundo - RS, 99010-112, Brazil",
+        "Neighborhood":"1570 - Centro",
+        "Street":"R. Uruguai",
+        "City":"Passo Fundo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":4,
+        "Phone":"(54) 3317-3676",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.260654,
+        "Longitude":-52.412482,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJcQoWDQv6y5QRkQoc1hCQntI",
+        "Name":"Drogaria São Judas Tadeu",
+        "Address":"Av. do Carmo, 450, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"450",
+        "Street":"Av. do Carmo",
+        "City":"Cambuí - MG",
+        "Rating":1.0,
+        "UserRatingsTotal":1,
+        "Phone":"(35) 3431-1039",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6112567,
+        "Longitude":-46.0597301,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJEYgC56j7y5QRcMQrl59UM8A",
+        "Name":"Ultra Popular",
+        "Address":"R. João Moreira Salles, 176 - Centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"176 - Centro",
+        "Street":"R. João Moreira Salles",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"N\/A",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6102241,
+        "Longitude":-46.0576131,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJEfkxTknPyJQRRZsIRVjIt6U",
+        "Name":"Pharma Plus",
+        "Address":"R. Conceição, 746 - Centro, Campinas - SP, 13025-355, Brazil",
+        "Neighborhood":"746 - Centro",
+        "Street":"R. Conceição",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(19) 3254-4411",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.90281,
+        "Longitude":-47.0526573,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHfDxhTrPyJQRSzId_9XBfbM",
+        "Name":"Drogasil",
+        "Address":"Av. Baden Powell, 1929 - Jardim Nova Europa, Campinas - SP, 13040-093, Brazil",
+        "Neighborhood":"1929 - Jardim Nova Europa",
+        "Street":"Av. Baden Powell",
+        "City":"Campinas - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":54,
+        "Phone":"(19) 99640-2311",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.94484,
+        "Longitude":-47.0513365,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJiSB9dio2AQcRqkraO457FUQ",
+        "Name":"Drogaria Dom Vital",
+        "Address":"Eustáquio Gomes - R. Júlia Tenório de Oliveira, 42 - Cidade Universitária, Maceió - AL, 57072-200, Brazil",
+        "Neighborhood":"42 - Cidade Universitária",
+        "Street":"Eustáquio Gomes - R. Júlia Tenório de Oliveira",
+        "City":"Maceió - AL",
+        "Rating":3.8,
+        "UserRatingsTotal":14,
+        "Phone":"(82) 3322-1313",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5414747,
+        "Longitude":-35.7880674,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXxsF2bTV85QRzMblSW-r1B8",
+        "Name":"Farmácia Farmaútil - Faculdade",
+        "Address":"Av. Carlos Gomes, 783 - Faculdade, Cascavel - PR, 85819-350, Brazil",
+        "Neighborhood":"783 - Faculdade",
+        "Street":"Av. Carlos Gomes",
+        "City":"Cascavel - PR",
+        "Rating":4.0,
+        "UserRatingsTotal":17,
+        "Phone":"(45) 3324-3462",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-24.9839984,
+        "Longitude":-53.4520722,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJD7Z69VIbzpQRsw-2nQ_le9I",
+        "Name":"Droga Raia",
+        "Address":"R. Paula Bueno, 1193 - Taquaral, Campinas - SP, 13076-061, Brazil",
+        "Neighborhood":"1193 - Taquaral",
+        "Street":"R. Paula Bueno",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":85,
+        "Phone":"(19) 99713-6860",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8814717,
+        "Longitude":-47.0511404,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJWfV7KyfQyJQRM9106vqDMm4",
+        "Name":"FARMÁXIMA VITTÓRIA",
+        "Address":"Shopping Vittoria Mall - R. Xavier Mayer, 50 - Loja 11, - 15 e 16 - Jardim Conceição - Sousas, Campinas - SP, 13105-038, Brazil",
+        "Neighborhood":"50 - Loja 11",
+        "Street":"Shopping Vittoria Mall - R. Xavier Mayer",
+        "City":"- 15 e 16 - Jardim Conceição - Sousas",
+        "Rating":4.9,
+        "UserRatingsTotal":8,
+        "Phone":"(19) 3258-7611",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.886992,
+        "Longitude":-46.978613,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJowFmrofIyJQRD4QPqqE5FXY",
+        "Name":"Farmais Unimart & Unifórmulas Farmácia de Manipulação",
+        "Address":"Shopping Unimart - Av. John Boyd Dunlop, 350 - Jardim Aurelia, Campinas - SP, 13033-000, Brazil",
+        "Neighborhood":"350 - Jardim Aurelia",
+        "Street":"Shopping Unimart - Av. John Boyd Dunlop",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":46,
+        "Phone":"(19) 99683-6368",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9097111,
+        "Longitude":-47.0950527,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJOcA3wwr6y5QRPxsZq1JE3-M",
+        "Name":"Jonas Lopes da Silva & Cia",
+        "Address":"R. Gov. Valadares, 177, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"177",
+        "Street":"R. Gov. Valadares",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(35) 3431-1901",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6099109,
+        "Longitude":-46.0581024,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJgTc2vujOyJQRJX58URlBwro",
+        "Name":"Farmácia Ponto das Fórmulas",
+        "Address":"via whatsapp 19 - Av. Eng. Cyro Lustosa, 186 - 99826,2764 - Vila Joaquim Inacio, Campinas - SP, 13045-710, Brazil",
+        "Neighborhood":"186 - 99826",
+        "Street":"via whatsapp 19 - Av. Eng. Cyro Lustosa",
+        "City":"2764 - Vila Joaquim Inacio",
+        "Rating":4.8,
+        "UserRatingsTotal":11,
+        "Phone":"(19) 3276-5943",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9309856,
+        "Longitude":-47.0351382,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJwaDk68DGyJQRh0fljstv864",
+        "Name":"Drogasil",
+        "Address":"Av. Albino J. B. de Oliveira, 448 - Barão Geraldo, Campinas - SP, 13085-510, Brazil",
+        "Neighborhood":"448 - Barão Geraldo",
+        "Street":"Av. Albino J. B. de Oliveira",
+        "City":"Campinas - SP",
+        "Rating":3.6,
+        "UserRatingsTotal":143,
+        "Phone":"(19) 99901-8651",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8347562,
+        "Longitude":-47.0787952,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJJW6-CkfKyJQRT8vI8z8jIzI",
+        "Name":"Drogaria Nova Americ",
+        "Address":"R. Maria Franceliana Braz, 219 - Jardim Nova America, Campinas - SP, 13053-033, Brazil",
+        "Neighborhood":"219 - Jardim Nova America",
+        "Street":"R. Maria Franceliana Braz",
+        "City":"Campinas - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":10,
+        "Phone":"(19) 3225-9442",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.003737,
+        "Longitude":-47.1094155,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJi4oNal_xXpMRcO5Nk5x40zs",
+        "Name":"Drogaria Goiânia",
+        "Address":"Atendimento>(629864 - 2845___Av. Universitária, 809 - Setor Leste Universitário, Goiânia - GO, 08746-050, Brazil",
+        "Neighborhood":"809 - Setor Leste Universitário",
+        "Street":"Atendimento>(629864 - 2845___Av. Universitária",
+        "City":"Goiânia - GO",
+        "Rating":3.4,
+        "UserRatingsTotal":17,
+        "Phone":"(62) 3218-5135",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6776515,
+        "Longitude":-49.2471422,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJnzHMeQNIAQcR4U5TnLixX4Y",
+        "Name":"Drogaria Master Farma",
+        "Address":"Avenida E, 195 - Conjunto Graciliano Ramos - Cidade Universitária, Maceió - AL, 57073-340, Brazil",
+        "Neighborhood":"195 - Conjunto Graciliano Ramos - Cidade Universitária",
+        "Street":"Avenida E",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":5,
+        "Phone":"(82) 3313-4183",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5504103,
+        "Longitude":-35.7491865,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQcWVUthHAQcR8nTub3QdN9c",
+        "Name":"Drogaria Barbosa",
+        "Address":"R. F Um, 157 - Cidade Universitária, Maceió - AL, 57072-374, Brazil",
+        "Neighborhood":"157 - Cidade Universitária",
+        "Street":"R. F Um",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 99993-9539",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5421849,
+        "Longitude":-35.7878318,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJP7SgaE7PyJQRYjfJ8zTQDXs",
+        "Name":"A Homeopática",
+        "Address":"R. Cel. Quirino, 1193 - Cambuí, Campinas - SP, 13025-002, Brazil",
+        "Neighborhood":"1193 - Cambuí",
+        "Street":"R. Cel. Quirino",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":38,
+        "Phone":"(19) 3255-6909",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8974532,
+        "Longitude":-47.0531895,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJXYWdqQDGyJQR_OB-f7paQ6M",
+        "Name":"Substrata Farmácia de Manipulação",
+        "Address":"Av. Barão de Itapura, 2370 - Jardim Guanabara, Campinas - SP, 13073-300, Brazil",
+        "Neighborhood":"2370 - Jardim Guanabara",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":15,
+        "Phone":"(19) 3252-1689",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.885365,
+        "Longitude":-47.058452,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ0bIoWR_GyJQRulxDsmEaXqg",
+        "Name":"Pharmacy Botica Craft",
+        "Address":"Botica Artesanal - Atendimento via whatsapp (19) 97101-4241 - Av. Dr. Alberto Sarmento, 930 - Castelo, Campinas - SP, 13070-711, Brazil",
+        "Neighborhood":"930 - Castelo",
+        "Street":"Botica Artesanal - Atendimento via whatsapp (19) 97101-4241 - Av. Dr. Alberto Sarmento",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":19,
+        "Phone":"(19) 97101-4241",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8923391,
+        "Longitude":-47.0774453,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJsR_fw_x3GZUR03hPAyQb4xY",
+        "Name":"Qualité Farmácia de Manipulação",
+        "Address":"R. Gen. Pedro Bitencourt, 134 - Passo d'Areia, Porto Alegre - RS, 91340-050, Brazil",
+        "Neighborhood":"134 - Passo d'Areia",
+        "Street":"R. Gen. Pedro Bitencourt",
+        "City":"Porto Alegre - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":42,
+        "Phone":"(51) 2160-1160",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0199468,
+        "Longitude":-51.1654679,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJgacKf1LPyJQRwO1ijDYvsR4",
+        "Name":"Droga Raia",
+        "Address":"Av. Júlio de Mesquita, 865 - 867 - Cambuí, Campinas - SP, 13025-063, Brazil",
+        "Neighborhood":"865 - 867 - Cambuí",
+        "Street":"Av. Júlio de Mesquita",
+        "City":"Campinas - SP",
+        "Rating":3.6,
+        "UserRatingsTotal":68,
+        "Phone":"(19) 99623-9165",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8982423,
+        "Longitude":-47.0560593,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJPUZASTLPyJQRkrIx4jNRfY8",
+        "Name":"Drogaria Nova Farmex",
+        "Address":"ATENDIMENTO VIA WHATSAPP - Rua Dr. Álvaro Ribeiro, 234 - 75) 9877-8715 - Pte. Preta, Campinas - SP, 13041-730, Brazil",
+        "Neighborhood":"234 - 75) 9877-8715 - Pte. Preta",
+        "Street":"ATENDIMENTO VIA WHATSAPP - Rua Dr. Álvaro Ribeiro",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":9,
+        "Phone":"(19) 3233-2468",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9153386,
+        "Longitude":-47.055014,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJA059uJDA4pQRMQZl1HmqdBc",
+        "Name":"Farmácias Associadas",
+        "Address":"Rua Moacir da Motta Fortes - Vila Vera Cruz, Passo Fundo - RS, 99040-010, Brazil",
+        "Neighborhood":"Passo Fundo - RS",
+        "Street":"Rua Moacir da Motta Fortes - Vila Vera Cruz",
+        "City":"99040-010",
+        "Rating":4.3,
+        "UserRatingsTotal":3,
+        "Phone":"(54) 3311-7056",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2526825,
+        "Longitude":-52.4190786,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJd8_sUNVJAQcRUYcqOd2Kn0M",
+        "Name":"Farmácia Do Trabalhador(Droga Vida)",
+        "Address":"Av. Dr. Fábio Wanderley - Cidade Universitária, Maceió - AL, 57072-760, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"Av. Dr. Fábio Wanderley - Cidade Universitária",
+        "City":"57072-760",
+        "Rating":4.8,
+        "UserRatingsTotal":4,
+        "Phone":"(82) 98852-7022",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5423951,
+        "Longitude":-35.7848946,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJEfp876l0mQAR2rkEKYtpK_A",
+        "Name":"Drogaria 5 Estrelas - Nova Campinas",
+        "Address":"Av. B, 320 - Nova Campinas, Duque de Caxias - RJ, 25268-000, Brazil",
+        "Neighborhood":"320 - Nova Campinas",
+        "Street":"Av. B",
+        "City":"Duque de Caxias - RJ",
+        "Rating":4.1,
+        "UserRatingsTotal":25,
+        "Phone":"(21) 3777-1515",
+        "Types":"drugstore, pharmacy, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.644394,
+        "Longitude":-43.2499253,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJw86muU3PyJQRKuY32AZkYxA",
+        "Name":"Farmácia Pague Menos",
+        "Address":"Av. Júlio de Mesquita, 741 - Cambuí, Campinas - SP, 13025-060, Brazil",
+        "Neighborhood":"741 - Cambuí",
+        "Street":"Av. Júlio de Mesquita",
+        "City":"Campinas - SP",
+        "Rating":2.6,
+        "UserRatingsTotal":92,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.899183,
+        "Longitude":-47.0554367,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJVcOhFM1ZzpQRNJt1s6ETCno",
+        "Name":"Drogasil",
+        "Address":"Av. Paulista, 2064 - Consolação, São Paulo - SP, 01310-200, Brazil",
+        "Neighborhood":"2064 - Consolação",
+        "Street":"Av. Paulista",
+        "City":"São Paulo - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":32,
+        "Phone":"(11) 97314-8754",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5577887,
+        "Longitude":-46.658842,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ4QiCRNrJyJQR-LESzNS75Bk",
+        "Name":"Bioterra Farmácia de Manipulação e Homeopatia",
+        "Address":"Av. Francisco de Paula Oliveira Nazareth, 570 - Parque Industrial, Campinas - SP, 13031-440, Brazil",
+        "Neighborhood":"570 - Parque Industrial",
+        "Street":"Av. Francisco de Paula Oliveira Nazareth",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":39,
+        "Phone":"(19) 3272-9058",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9207092,
+        "Longitude":-47.0848121,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJk-eXeCo2AQcRnP0n3FReQDc",
+        "Name":"Alagoas Worker Pharmacy",
+        "Address":"R. João de Oliveira Melo, 156 - Cidade Universitária, Maceió - AL, 57072-060, Brazil",
+        "Neighborhood":"156 - Cidade Universitária",
+        "Street":"R. João de Oliveira Melo",
+        "City":"Maceió - AL",
+        "Rating":3.3,
+        "UserRatingsTotal":4,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5410063,
+        "Longitude":-35.7863171,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ1xeJhhMWqwcRNhbeesGULpQ",
+        "Name":"Farmácia Pague Menos",
+        "Address":"R. Siqueira Campos, 551 - Centro, Paulista - PE, 53401-320, Brazil",
+        "Neighborhood":"551 - Centro",
+        "Street":"R. Siqueira Campos",
+        "City":"Paulista - PE",
+        "Rating":2.8,
+        "UserRatingsTotal":50,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9412964,
+        "Longitude":-34.8812764,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJpYr7oQv6y5QRl_xZs3gG2u8",
+        "Name":"Entrefarma",
+        "Address":"Av. do Carmo, 340 - CENTRO, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"340 - CENTRO",
+        "Street":"Av. do Carmo",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":8,
+        "Phone":"(35) 3431-3101",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6122077,
+        "Longitude":-46.0596837,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHYdWYap0mQARA5Kid1NdQLQ",
+        "Name":"Farmácia Souza de Nova Campinas",
+        "Address":"Av. B, 28 - Nova Campinas, Duque de Caxias - RJ, 25260-000, Brazil",
+        "Neighborhood":"28 - Nova Campinas",
+        "Street":"Av. B",
+        "City":"Duque de Caxias - RJ",
+        "Rating":1.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6363519,
+        "Longitude":-43.2515933,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ_RVsR3X6y5QRwadS8VD2jY0",
+        "Name":"Drogaria Santa Rita - Grupo Multifarma",
+        "Address":"Praça das Bandeiras, 45 - Centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"45 - Centro",
+        "Street":"Praça das Bandeiras",
+        "City":"Cambuí - MG",
+        "Rating":4.8,
+        "UserRatingsTotal":5,
+        "Phone":"(35) 3431-3210",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6083448,
+        "Longitude":-46.0571036,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJz9vXIP6OsgMRpD1lFaxHH04",
+        "Name":"DUOFARMA LTDA",
+        "Address":"R. José Bonifácio, 752 - Vila Rodrigues, Passo Fundo - RS, 99070-070, Brazil",
+        "Neighborhood":"752 - Vila Rodrigues",
+        "Street":"R. José Bonifácio",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":6,
+        "Phone":"(54) 99645-7016",
+        "Types":"veterinary_care, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2636279,
+        "Longitude":-52.3925929,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJq1dqfiOCGZURHbXNNpRFunk",
+        "Name":"Pharmacus -farmácia de manipulação",
+        "Address":"R. Quintino Bocaiúva, 395 - Moinhos de Vento, Porto Alegre - RS, 90440-051, Brazil",
+        "Neighborhood":"395 - Moinhos de Vento",
+        "Street":"R. Quintino Bocaiúva",
+        "City":"Porto Alegre - RS",
+        "Rating":4.6,
+        "UserRatingsTotal":22,
+        "Phone":"(51) 3222-8544",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0215416,
+        "Longitude":-51.1985925,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJu1VBgyFJAQcRtn9-sUhP3YM",
+        "Name":"Farmácia Ailton Farma",
+        "Address":"R. das Mangueira, 262 - Cidade Universitária, Maceió - AL, 57015-330, Brazil",
+        "Neighborhood":"262 - Cidade Universitária",
+        "Street":"R. das Mangueira",
+        "City":"Maceió - AL",
+        "Rating":4.8,
+        "UserRatingsTotal":46,
+        "Phone":"(82) 99420-0436",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5547616,
+        "Longitude":-35.7487928,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJqzszVoS_4pQR-wFD_i7ei7w",
+        "Name":"Farmácias Associadas - Farmasul",
+        "Address":"Whatsapp 53 - 997008958__R. Cel. Pelegrini, 350 - Vila Rodrigues, Passo Fundo - RS, 99070-010, Brazil",
+        "Neighborhood":"350 - Vila Rodrigues",
+        "Street":"Whatsapp 53 - 997008958__R. Cel. Pelegrini",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(54) 3632-4406",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2639902,
+        "Longitude":-52.3968777,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ9Xs4bAfGyJQR4lwn8_fHisk",
+        "Name":"Manipulation of Plant salts and Pharmacy",
+        "Address":"R. Baronesa Geraldo de Resende, 397 - Vila Rossi e Borchi, Campinas - SP, 13075-270, Brazil",
+        "Neighborhood":"397 - Vila Rossi e Borchi",
+        "Street":"R. Baronesa Geraldo de Resende",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":23,
+        "Phone":"(19) 3243-1193",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8837798,
+        "Longitude":-47.0593771,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJN4g0CcnGyJQR0lh6tknZRKs",
+        "Name":"Farmais Barão Geraldo",
+        "Address":"Av. Santa Isabel, 183 - via whatsapp, 19 - 99826,2764 - Barão Geraldo, Campinas - SP, 13084-012, Brazil",
+        "Neighborhood":"183 - via whatsapp",
+        "Street":"Av. Santa Isabel",
+        "City":"19 - 99826",
+        "Rating":3.5,
+        "UserRatingsTotal":75,
+        "Phone":"(19) 3289-1045",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8267069,
+        "Longitude":-47.0809978,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ6YeKDFTPyJQRDUzsyYOPN2Q",
+        "Name":"Botica Silvestre",
+        "Address":"R. dos Bandeirantes, 558 - Cambuí, Campinas - SP, 13024-011, Brazil",
+        "Neighborhood":"558 - Cambuí",
+        "Street":"R. dos Bandeirantes",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":104,
+        "Phone":"(19) 3253-5818",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8927847,
+        "Longitude":-47.0500559,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ2VFJE9x5mQAR2kYZcw752w8",
+        "Name":"Magistral",
+        "Address":"R. Sete de Setembro - Centro, Rio de Janeiro - RJ, 44571-005, Brazil",
+        "Neighborhood":"Rio de Janeiro - RJ",
+        "Street":"R. Sete de Setembro - Centro",
+        "City":"44571-005",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(21) 99999-9999",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.862839,
+        "Longitude":-43.2278547,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ5_VpLFrPyJQRF27V5b0D-rI",
+        "Name":"Drogasil",
+        "Address":"Av. José de Sousa Campos, 1885 - Cambuí, Campinas - SP, 13025-320, Brazil",
+        "Neighborhood":"1885 - Cambuí",
+        "Street":"Av. José de Sousa Campos",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":68,
+        "Phone":"(19) 99889-9250",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8893564,
+        "Longitude":-47.045833,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJJ8IJSny_4pQR1B_ajnBVt5k",
+        "Name":"Igraz Farmácia",
+        "Address":"R. Morom, 1910 - Boqueirão, Passo Fundo - RS, 99010-034, Brazil",
+        "Neighborhood":"1910 - Boqueirão",
+        "Street":"R. Morom",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 3601-3682",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2636963,
+        "Longitude":-52.4095675,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ6w_z70dJAQcR_anWmKhZMOU",
+        "Name":"LAFARMA",
+        "Address":"Av. Empresário Nelson Oliveira Menezes, 792a - Cidade Universitária, Maceió - AL, 57073-000, Brazil",
+        "Neighborhood":"792a - Cidade Universitária",
+        "Street":"Av. Empresário Nelson Oliveira Menezes",
+        "City":"Maceió - AL",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(82) 98169-0433",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5497425,
+        "Longitude":-35.7514146,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJUaAFKT3QyJQRpAjtGWIurc4",
+        "Name":"UniPharma Platz Mall",
+        "Address":"Av. Dr. Antônio Carlos Couto de Barros, 470 - Vila Sônia (Sousas), Campinas - SP, 13105-500, Brazil",
+        "Neighborhood":"470 - Vila Sônia (Sousas)",
+        "Street":"Av. Dr. Antônio Carlos Couto de Barros",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(19) 3722-6112",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8813072,
+        "Longitude":-46.9701237,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ-TScYEVJAQcRHI6IhkKRWwg",
+        "Name":"VAL FARMA",
+        "Address":"55 A - Av. Dr. Fábio Wanderley, 55A - Cidade Universitária, Maceió - AL, 57072-760, Brazil",
+        "Neighborhood":"55A - Cidade Universitária",
+        "Street":"55 A - Av. Dr. Fábio Wanderley",
+        "City":"Maceió - AL",
+        "Rating":4.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 98824-5631",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5440086,
+        "Longitude":-35.7883825,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJB08b6FPPyJQRmCGY2Z5wG7Q",
+        "Name":"Farmácia de Manipulação | Ao Pharmacêutico | Campinas",
+        "Address":"Av. Cel. Silva Telles, 347 - Cambuí, Campinas - SP, 13024-000, Brazil",
+        "Neighborhood":"347 - Cambuí",
+        "Street":"Av. Cel. Silva Telles",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":1250,
+        "Phone":"(19) 3254-6966",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8943085,
+        "Longitude":-47.0540846,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJvT7ouAY4AQcRY116SN1qPlA",
+        "Name":"Farmácia Pague Menos",
+        "Address":"Av. Menino Marcelo, 3800 - Cidade Universitária, Maceió - AL, 57073-900, Brazil",
+        "Neighborhood":"3800 - Cidade Universitária",
+        "Street":"Av. Menino Marcelo",
+        "City":"Maceió - AL",
+        "Rating":3.4,
+        "UserRatingsTotal":24,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5594064,
+        "Longitude":-35.745827,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJjRhEPXb7y5QRZ51B7IlE9cU",
+        "Name":"Natus Farma: Remédio, Drogaria, Farmácia, Entrega em Cambuí MG",
+        "Address":"R. João Moreira Salles, 133, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"133",
+        "Street":"R. João Moreira Salles",
+        "City":"Cambuí - MG",
+        "Rating":4.3,
+        "UserRatingsTotal":11,
+        "Phone":"(35) 91025-6321",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6106541,
+        "Longitude":-46.057716,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJs49RWwJIAQcRXXakg_VHey8",
+        "Name":"Farma torres",
+        "Address":"Esquina com Rua Josefa Holanda Carvalho 383 - Av. Empresário Nelson Oliveira Menezes, S\/N - Cidade Universitária, Maceió - AL, 57073-000, Brazil",
+        "Neighborhood":"S\/N - Cidade Universitária",
+        "Street":"Esquina com Rua Josefa Holanda Carvalho 383 - Av. Empresário Nelson Oliveira Menezes",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(82) 3354-4685",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5477877,
+        "Longitude":-35.7483349,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJhfel6xYWqwcR76lM77uqjcs",
+        "Name":"Farmácia Pague Menos",
+        "Address":"R. Humberto Félix da Cruz, 1499 - Nobre, Paulista - PE, 53401-450, Brazil",
+        "Neighborhood":"1499 - Nobre",
+        "Street":"R. Humberto Félix da Cruz",
+        "City":"Paulista - PE",
+        "Rating":3.0,
+        "UserRatingsTotal":74,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-7.9437515,
+        "Longitude":-34.8770503,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJS9m_eiDPyJQRgjvBY6kolp4",
+        "Name":"Drugstore Popular - Jardim Proença",
+        "Address":"Av. Dr. Arlindo Joaquim de Lemos, 359 - Jardim Proença, Campinas - SP, 13100-451, Brazil",
+        "Neighborhood":"359 - Jardim Proença",
+        "Street":"Av. Dr. Arlindo Joaquim de Lemos",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":47,
+        "Phone":"(19) 3254-0550",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9216405,
+        "Longitude":-47.0407427,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJE-XyWzLJyJQRA2I7hR_4YMM",
+        "Name":"Florata Pharma - Manipulação e Homeopatia",
+        "Address":"Av. Baden Powell, 871 - Jardim Nova Europa, Campinas - SP, 13040-093, Brazil",
+        "Neighborhood":"871 - Jardim Nova Europa",
+        "Street":"Av. Baden Powell",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":42,
+        "Phone":"(19) 99188-7619",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9399584,
+        "Longitude":-47.0610341,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJsaedY51azpQRtwbQMwx6H1k",
+        "Name":"Drogasil",
+        "Address":"Av. Washington Luiz, 2480 - Loja at 3,5 e 7 - Vila Marieta, Campinas - SP, 13042-105, Brazil",
+        "Neighborhood":"2480 - Loja at 3",
+        "Street":"Av. Washington Luiz",
+        "City":"5 e 7 - Vila Marieta",
+        "Rating":3.0,
+        "UserRatingsTotal":27,
+        "Phone":"(19) 3276-4833",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9371521,
+        "Longitude":-47.0498816,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJPYlDY57IyJQRKlZ8IcN4pHI",
+        "Name":"Pharmacy Pay Less",
+        "Address":"Av. Governador Pedro de Toledo, 1123 - 1127 - Bonfim, Campinas - SP, 13070-751, Brazil",
+        "Neighborhood":"1123 - 1127 - Bonfim",
+        "Street":"Av. Governador Pedro de Toledo",
+        "City":"Campinas - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":99,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8999895,
+        "Longitude":-47.0820981,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJrTRljy7PyJQRTJ-33Uu6_Ws",
+        "Name":"Nova Natural Farmácia de Manipulação & Homeopatia - Unidade Ponte Preta",
+        "Address":"Av. Dr. Ângelo Simões, 560 - Pte. Preta, Campinas - SP, 13041-455, Brazil",
+        "Neighborhood":"560 - Pte. Preta",
+        "Street":"Av. Dr. Ângelo Simões",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":49,
+        "Phone":"(19) 98182-8502",
+        "Types":"drugstore, pharmacy, food, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9208536,
+        "Longitude":-47.054252,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJjRio9Ar6y5QRDzNkGmOxum0",
+        "Name":"Farmácia Popular",
+        "Address":"R. Cap. Soares, 804 - Cambui, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"804 - Cambui",
+        "Street":"R. Cap. Soares",
+        "City":"Cambuí - MG",
+        "Rating":4.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6111004,
+        "Longitude":-46.0569424,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQQDDcSLGyJQRKeixHF9IbCs",
+        "Name":"Animalia Farma - Manipulação Veterinária",
+        "Address":"R. Orlando Carpino, 60 - Castelo, Campinas - SP, 13070-143, Brazil",
+        "Neighborhood":"60 - Castelo",
+        "Street":"R. Orlando Carpino",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":143,
+        "Phone":"(19) 99644-4437",
+        "Types":"veterinary_care, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8909447,
+        "Longitude":-47.0755059,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJoTSMNwK8yJQRAn1JWDDBTz4",
+        "Name":"FARMAXIMA UNIAO",
+        "Address":"Av. Benedito de Campos, 193 - Jardim do Trevo, Campinas - SP, 13030-100, Brazil",
+        "Neighborhood":"193 - Jardim do Trevo",
+        "Street":"Av. Benedito de Campos",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":10,
+        "Phone":"(19) 2514-1011",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9296169,
+        "Longitude":-47.0706198,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ5eAQxf94GZURZ1GIj3fyP_c",
+        "Name":"VITALPHARMA - Farmácia de Manipulação",
+        "Address":"R. José do Patrocínio, 565 - Centro Histórico, Porto Alegre - RS, 90050-003, Brazil",
+        "Neighborhood":"565 - Centro Histórico",
+        "Street":"R. José do Patrocínio",
+        "City":"Porto Alegre - RS",
+        "Rating":4.6,
+        "UserRatingsTotal":14,
+        "Phone":"(51) 98646-5115",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0400835,
+        "Longitude":-51.2234582,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJmaFJSqZ0mQARqYRATedBqBA",
+        "Name":"Biofórmulas Farmácia De Manipulação",
+        "Address":"Av. B - Nova Campinas, Duque de Caxias - RJ, 25268-240, Brazil",
+        "Neighborhood":"Duque de Caxias - RJ",
+        "Street":"Av. B - Nova Campinas",
+        "City":"25268-240",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(21) 97734-0528",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6449715,
+        "Longitude":-43.2495241,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJScEJIiPQyJQR3HKQHe8VkZU",
+        "Name":"Drogasil",
+        "Address":"Av. Dr. Antônio Carlos Couto de Barros, 681 - Lote 9 Quadra D - Quarteirao 30, Campinas - SP, 13105-500, Brazil",
+        "Neighborhood":"681 - Lote 9 Quadra D - Quarteirao 30",
+        "Street":"Av. Dr. Antônio Carlos Couto de Barros",
+        "City":"Campinas - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":103,
+        "Phone":"(19) 99906-6922",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8942002,
+        "Longitude":-46.998334,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJBaUv1Xrxy5QRTC1c7656CB4",
+        "Name":"Drogaria Cambuí (Farmácia do Tota)",
+        "Address":"R. Gov. Valadares, 71, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"71",
+        "Street":"R. Gov. Valadares",
+        "City":"Cambuí - MG",
+        "Rating":1.0,
+        "UserRatingsTotal":1,
+        "Phone":"(35) 3431-1077",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6095737,
+        "Longitude":-46.0606197,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJAeacLwv6y5QRfGS9E0PeqP0",
+        "Name":"Farmácia Frei Galvão",
+        "Address":"R. Gov. Valadares, 177, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"177",
+        "Street":"R. Gov. Valadares",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":6,
+        "Phone":"(35) 3431-1428",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6099511,
+        "Longitude":-46.0589841,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJBY_SQiXPyJQRkm2XyPMB1sE",
+        "Name":"Farmácia de Manipulação Carmelo Pharma",
+        "Address":"ATENDIMENTO VIA WHATSAPP - R. Frei José do Monte Carmelo, 371 - 75) 9877-8715 - Jardim Primavera, Campinas - SP, 13026-460, Brazil",
+        "Neighborhood":"371 - 75) 9877-8715 - Jardim Primavera",
+        "Street":"ATENDIMENTO VIA WHATSAPP - R. Frei José do Monte Carmelo",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":14,
+        "Phone":"(19) 4141-4448",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9160201,
+        "Longitude":-47.0479824,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJo1YoeAHRyJQRSWy4-iAUNtQ",
+        "Name":"Drogaria Moraes em Sousas-Campinas",
+        "Address":"R. Xavier Mayer, 4, sousas - Jardim Conceição, Campinas - SP, 13105-038, Brazil",
+        "Neighborhood":"4",
+        "Street":"R. Xavier Mayer",
+        "City":"sousas - Jardim Conceição",
+        "Rating":5.0,
+        "UserRatingsTotal":8,
+        "Phone":"(19) 3258-4513",
+        "Types":"pharmacy, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8868735,
+        "Longitude":-46.9780074,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJC4LT_QHGyJQRncHDguWmw0Y",
+        "Name":"Droga Raia",
+        "Address":"Av. Brasil, 360 - Jardim Guanabara, Campinas - SP, 13070-178, Brazil",
+        "Neighborhood":"360 - Jardim Guanabara",
+        "Street":"Av. Brasil",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":108,
+        "Phone":"(19) 99930-3699",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8911076,
+        "Longitude":-47.0627226,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJU9e5usTIyJQRlc88OgJ4_rM",
+        "Name":"Farmácia Mirin de Campinas Ltda",
+        "Address":"R. Elías Lôbo Neto, 514 - São Bernardo, Campinas - SP, 13030-620, Brazil",
+        "Neighborhood":"514 - São Bernardo",
+        "Street":"R. Elías Lôbo Neto",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9236865,
+        "Longitude":-47.0742458,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJt2oZ_vnOyJQRbUHyUvJyBGQ",
+        "Name":"Drugstore Popular - Carlos Lourenço",
+        "Address":"Rua Joaquim Monteiro Raphael, 208 - Jardim Carlos Lourenço, Campinas - SP, 13101-150, Brazil",
+        "Neighborhood":"208 - Jardim Carlos Lourenço",
+        "Street":"Rua Joaquim Monteiro Raphael",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":71,
+        "Phone":"(19) 3295-0179",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9261169,
+        "Longitude":-47.0237597,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJI8-02FHPyJQRN9x9aMqszT8",
+        "Name":"Droga Raia",
+        "Address":"R. Maria Monteiro, 817 - Cambuí, Campinas - SP, 13025-151, Brazil",
+        "Neighborhood":"817 - Cambuí",
+        "Street":"R. Maria Monteiro",
+        "City":"Campinas - SP",
+        "Rating":3.9,
+        "UserRatingsTotal":56,
+        "Phone":"(19) 99974-5248",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8971349,
+        "Longitude":-47.0520112,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJvboAOijJyJQRZ5rmt_ZDAH8",
+        "Name":"Super Popular",
+        "Address":"Av. Campos Sales, 453 - Centro, Campinas - SP, 13010-080, Brazil",
+        "Neighborhood":"453 - Centro",
+        "Street":"Av. Campos Sales",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":242,
+        "Phone":"(19) 99425-7464",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.906079,
+        "Longitude":-47.064137,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJsUZPw6dJAQcRL2BbfRH3sB8",
+        "Name":"FARIAS FARMA",
+        "Address":"Av. Júlia Camelo de Freitas - Village Campestre, Maceió - AL, 57073-370, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"Av. Júlia Camelo de Freitas - Village Campestre",
+        "City":"57073-370",
+        "Rating":5.0,
+        "UserRatingsTotal":11,
+        "Phone":"(82) 98804-1293",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5486799,
+        "Longitude":-35.7553205,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJY8b07MfGyJQR_q_vJJdql4E",
+        "Name":"Drogaria Avenida Barão Geraldo",
+        "Address":"Av. Albino J. B. de Oliveira, 976 - Barão Geraldo, Campinas - SP, 13084-008, Brazil",
+        "Neighborhood":"976 - Barão Geraldo",
+        "Street":"Av. Albino J. B. de Oliveira",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":3,
+        "Phone":"(19) 3289-4936",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8297539,
+        "Longitude":-47.0786653,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJq7XMQQBJAQcR7l4O59K310s",
+        "Name":"Farmácia Popular de Maceió",
+        "Address":"Av. Dr. André Papini Góis, 44 - Cidade Universitária, Maceió - AL, 57073-130, Brazil",
+        "Neighborhood":"44 - Cidade Universitária",
+        "Street":"Av. Dr. André Papini Góis",
+        "City":"Maceió - AL",
+        "Rating":4.6,
+        "UserRatingsTotal":9,
+        "Phone":"(82) 99101-2130",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5518509,
+        "Longitude":-35.7534701,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJF2G_-CDGyJQRI3908OLW_WE",
+        "Name":"Drogaria Assunção Bonfim",
+        "Address":"R. Dr. Rafael Sáles, 757 - Bonfim, Campinas - SP, 13070-720, Brazil",
+        "Neighborhood":"757 - Bonfim",
+        "Street":"R. Dr. Rafael Sáles",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":23,
+        "Phone":"(19) 3242-3679",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8949843,
+        "Longitude":-47.0804545,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJq43YiSPQyJQRRG3L5w1bnmI",
+        "Name":"Botica",
+        "Address":"Av. Dr. Antônio Carlos Couto de Barros, 1051 - Vila José Iório, Campinas - SP, 13105-000, Brazil",
+        "Neighborhood":"1051 - Vila José Iório",
+        "Street":"Av. Dr. Antônio Carlos Couto de Barros",
+        "City":"Campinas - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":12,
+        "Phone":"(19) 99369-0647",
+        "Types":"drugstore, pharmacy, veterinary_care, food, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8854927,
+        "Longitude":-46.9739837,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJC0FLeDA3AQcRRKfsPvPcQqI",
+        "Name":"FARMÁCIA GeJ FARMA - MATRIZ",
+        "Address":"Conjunto Residencial Jardim Royal, Quadra D, Modulo 0, Nº 429 - Cidade Universitária, Maceió - AL, 57072-115, Brazil",
+        "Neighborhood":"Quadra D",
+        "Street":"Conjunto Residencial Jardim Royal",
+        "City":"Modulo 0",
+        "Rating":4.7,
+        "UserRatingsTotal":12,
+        "Phone":"(82) 98758-2867",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5349757,
+        "Longitude":-35.7815399,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJodV8DVbOyJQRmEd4lR7eeNY",
+        "Name":"Drugstore Popular - Jardim Andorinhas",
+        "Address":"Av. das Andorinhas, 400 - Jardim Andorinhas, Campinas - SP, 13101-319, Brazil",
+        "Neighborhood":"400 - Jardim Andorinhas",
+        "Street":"Av. das Andorinhas",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":30,
+        "Phone":"(19) 3201-8842",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9200228,
+        "Longitude":-47.0183382,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJF75Bj0nPyJQRXHNdzDHJcug",
+        "Name":"Farmácia São Paulo de Campinas",
+        "Address":"Av. Dr. Moraes Salles, 1204 - via whatsapp, 19 - 99826,2764 - Nova Campinas, Campinas - SP, 13010-002, Brazil",
+        "Neighborhood":"1204 - via whatsapp",
+        "Street":"Av. Dr. Moraes Salles",
+        "City":"19 - 99826",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9054296,
+        "Longitude":-47.0529994,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJt2RErAHGyJQRfdRKCTs0cCg",
+        "Name":"Drogão Super",
+        "Address":"Av. Barão de Itapura, 1934 - Botafogo, Campinas - SP, 13020-433, Brazil",
+        "Neighborhood":"1934 - Botafogo",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":17,
+        "Phone":"(19) 3231-0773",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8886144,
+        "Longitude":-47.0607924,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ9amglMA3AQcRvDPjtsM7GQg",
+        "Name":"Farmácia Andre Farma",
+        "Address":"R. João de Oliveira Melo, 136 - Cidade Universitária, Maceió - AL, 57072-000, Brazil",
+        "Neighborhood":"136 - Cidade Universitária",
+        "Street":"R. João de Oliveira Melo",
+        "City":"Maceió - AL",
+        "Rating":4.2,
+        "UserRatingsTotal":5,
+        "Phone":"(82) 98844-5527",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5411111,
+        "Longitude":-35.7864728,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJx6xeT-nOyJQR1aAk33xurts",
+        "Name":"Drogaria Abolição",
+        "Address":"R. da Abolição, 3070 - Jardim Cura D'ars, Campinas - SP, 13045-750, Brazil",
+        "Neighborhood":"3070 - Jardim Cura D'ars",
+        "Street":"R. da Abolição",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":26,
+        "Phone":"(19) 3276-0877",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9336702,
+        "Longitude":-47.034531,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJC_RsKhnGyJQRf8OqaGHh2cY",
+        "Name":"Botica Anise Homeopathy and Manipulation Pharmacy",
+        "Address":"R. Orlando Carpino, 122 - Castelo, Campinas - SP, 13070-143, Brazil",
+        "Neighborhood":"122 - Castelo",
+        "Street":"R. Orlando Carpino",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":27,
+        "Phone":"(19) 99433-0998",
+        "Types":"pharmacy, drugstore, veterinary_care, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8904198,
+        "Longitude":-47.0752777,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJTezj_um1A5UR_9H44gY_Q-I",
+        "Name":"Farmácia Universitária",
+        "Address":"Avenida Roraima - Campus Ufsm - s\/n S 12 - Camobi, Santa Maria - RS, 97017-970, Brazil",
+        "Neighborhood":"Santa Maria - RS",
+        "Street":"Avenida Roraima - Campus Ufsm - s\/n S 12 - Camobi",
+        "City":"97017-970",
+        "Rating":3.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.7028457,
+        "Longitude":-53.7154534,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ6WXWfCrHyJQR3QszQnUWgvE",
+        "Name":"GAMAPHARMA",
+        "Address":"Barão Geraldo - Av. Dr. Eduardo Pereira de Almeida, 850 - Real Parque, Campinas - SP, 13082-782, Brazil",
+        "Neighborhood":"850 - Real Parque",
+        "Street":"Barão Geraldo - Av. Dr. Eduardo Pereira de Almeida",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":13,
+        "Phone":"(19) 3289-8182",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8288765,
+        "Longitude":-47.0978176,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJZyXrgFNWzpQRnUPHeza0uvo",
+        "Name":"Droga Raia",
+        "Address":"Av. Vital Brasil, 752 - Butantã, São Paulo - SP, 05503-000, Brazil",
+        "Neighborhood":"752 - Butantã",
+        "Street":"Av. Vital Brasil",
+        "City":"São Paulo - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":84,
+        "Phone":"(11) 99607-5331",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5700405,
+        "Longitude":-46.7118471,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJA27fYHPHyJQRftksD6lLCb8",
+        "Name":"Farmácia Pague Menos",
+        "Address":"Av. Barão de Itapura, 2060 - Jardim Guanabara, Campinas - SP, 13073-300, Brazil",
+        "Neighborhood":"2060 - Jardim Guanabara",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":39,
+        "Phone":"4002-8282",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8877501,
+        "Longitude":-47.0601662,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJJRvIjQf6y5QRF571uS3QMhw",
+        "Name":"Drogaria Farma Vida",
+        "Address":"R. Joaquim Augusto da Cunha, 161, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"161",
+        "Street":"R. Joaquim Augusto da Cunha",
+        "City":"Cambuí - MG",
+        "Rating":4.0,
+        "UserRatingsTotal":3,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6179709,
+        "Longitude":-46.0620873,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJbZv-zATGyJQRDorAKevFcuE",
+        "Name":"Pharma and Life Manipulation Pharmacy",
+        "Address":"Av. Júlio de Mesquita, 766 - Cambuí, Campinas - SP, 13025-060, Brazil",
+        "Neighborhood":"766 - Cambuí",
+        "Street":"Av. Júlio de Mesquita",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":96,
+        "Phone":"(19) 3396-6475",
+        "Types":"pharmacy, veterinary_care, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8988761,
+        "Longitude":-47.055201,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ56rfpdxXzpQRX03N5Q85kQQ",
+        "Name":"FARMUSP",
+        "Address":"R. da Praça do Relógio, 82-170 - Butantã, São Paulo - SP, 05508-050, Brazil",
+        "Neighborhood":"82-170 - Butantã",
+        "Street":"R. da Praça do Relógio",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":5,
+        "Phone":"(11) 2648-0681",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5603032,
+        "Longitude":-46.7213348,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJsyiDh7PIyJQRp2FJxswENsA",
+        "Name":"Drogão Super",
+        "Address":"Av. Campos Sales, 778 - Centro, Campinas - SP, 13010-081, Brazil",
+        "Neighborhood":"778 - Centro",
+        "Street":"Av. Campos Sales",
+        "City":"Campinas - SP",
+        "Rating":3.9,
+        "UserRatingsTotal":16,
+        "Phone":"(19) 3231-4319",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.905112,
+        "Longitude":-47.061211,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ23nVYMnGyJQR8JhBNu86U6g",
+        "Name":"Magis Homeopathy And Compounding Pharmacy",
+        "Address":"Av. Santa Isabel, 284 via whatsapp, 19 - 98230-3200 - Barão Geraldo, Campinas - SP, 13084-012, Brazil",
+        "Neighborhood":"284 via whatsapp",
+        "Street":"Av. Santa Isabel",
+        "City":"19 - 98230-3200 - Barão Geraldo",
+        "Rating":4.6,
+        "UserRatingsTotal":117,
+        "Phone":"(19) 3289-2319",
+        "Types":"pharmacy, drugstore, health, store, food, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8258156,
+        "Longitude":-47.0812101,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJnzlsGi3PyJQRZOArVpepYXU",
+        "Name":"Eco Farma Farmácia de Manipulação Homeopática",
+        "Address":"ATENDIMENTO VIA WHATSAPP - Av. Washington Luiz, 329 - 75) 9877-8715 - Pte. Preta, Campinas - SP, 13041-901, Brazil",
+        "Neighborhood":"329 - 75) 9877-8715 - Pte. Preta",
+        "Street":"ATENDIMENTO VIA WHATSAPP - Av. Washington Luiz",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":2,
+        "Phone":"(19) 3239-2181",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9192768,
+        "Longitude":-47.0565623,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJZ80cnt_PyJQRRXa-HO2wc7Y",
+        "Name":"Farmácia Artesanal - Campinas",
+        "Address":"R. Cel. Francisco Andrade Coutinho, 132 - Cambuí, Campinas - SP, 13025-190, Brazil",
+        "Neighborhood":"132 - Cambuí",
+        "Street":"R. Cel. Francisco Andrade Coutinho",
+        "City":"Campinas - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":10,
+        "Phone":"(19) 98455-3050",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9048697,
+        "Longitude":-47.0488566,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJadSLwFPPyJQRiBx8BrgeFnw",
+        "Name":". Formula and Co. Manipulation Pharmacy - Cambuí",
+        "Address":"Av. Cel. Silva Telles, 287 - WhatsApp: (19) 9.9199-9127 - Cambuí, Campinas - SP, 13024-000, Brazil",
+        "Neighborhood":"287 - WhatsApp: (19) 9.9199-9127 - Cambuí",
+        "Street":"Av. Cel. Silva Telles",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":244,
+        "Phone":"0800 111 1747",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8945695,
+        "Longitude":-47.0546338,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJT2RKPwv6y5QRAz5-Yg5kfnI",
+        "Name":"Drogaria Central",
+        "Address":"Av. do Carmo, 558, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"558",
+        "Street":"Av. do Carmo",
+        "City":"Cambuí - MG",
+        "Rating":4.0,
+        "UserRatingsTotal":2,
+        "Phone":"(35) 3431-3104",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6102374,
+        "Longitude":-46.0597105,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJPz_pJojPyJQRO8oYaTPt7Gg",
+        "Name":"A FÓRMULA CAMPINAS - Farmácia de Manipulação - Florais | Alopatia | Probióticos | Hormônios",
+        "Address":"R. Cel. Quirino, 2112 - Cambuí, Campinas - SP, 13015-330, Brazil",
+        "Neighborhood":"2112 - Cambuí",
+        "Street":"R. Cel. Quirino",
+        "City":"Campinas - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":15,
+        "Phone":"(19) 3295-2210",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8894216,
+        "Longitude":-47.0546719,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJsePEIGLPyJQRg8Xjy-cyoUc",
+        "Name":"Droga Raia",
+        "Address":"R. Mogi Guaçu, 1504 - 1514 - Jardim Flamboyant, Campinas - SP, 13091-103, Brazil",
+        "Neighborhood":"1504 - 1514 - Jardim Flamboyant",
+        "Street":"R. Mogi Guaçu",
+        "City":"Campinas - SP",
+        "Rating":3.5,
+        "UserRatingsTotal":77,
+        "Phone":"(19) 99674-0272",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8832339,
+        "Longitude":-47.0337134,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJqbPa2fn7y5QR-hP5zP-5jx4",
+        "Name":"Drogarias FarMelhor",
+        "Address":"Av. Pref. José Barbosa, 278 - Centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"278 - Centro",
+        "Street":"Av. Pref. José Barbosa",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":14,
+        "Phone":"(35) 3431-2098",
+        "Types":"drugstore, pharmacy, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6129711,
+        "Longitude":-46.0625061,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJlzNqY3P6y5QRI0MRQAwDzbQ",
+        "Name":"Rede Mais Brasil - Farma Freire",
+        "Address":"R. Capitao Zeferino de Brito Lambert, 3, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"3",
+        "Street":"R. Capitao Zeferino de Brito Lambert",
+        "City":"Cambuí - MG",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(35) 3431-4307",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6084632,
+        "Longitude":-46.0612767,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJq6qqqi42AQcRhHXzeFf3FQY",
+        "Name":"Drogaria Palmares",
+        "Address":"rua C - Cj Eustáquio G Melo I 5 - qd 3 - Cidade Universitária, Maceió - AL, 57072-360, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"rua C - Cj Eustáquio G Melo I 5 - qd 3 - Cidade Universitária",
+        "City":"57072-360",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5367227,
+        "Longitude":-35.7898106,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ8coz0gv6y5QRrvS-BVBVgRo",
+        "Name":"Farmácia de Manipulação Verde Vida",
+        "Address":"R. Cel. Lambert, 104 - Centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"104 - Centro",
+        "Street":"R. Cel. Lambert",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(35) 3431-2703",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6131492,
+        "Longitude":-46.0588795,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJiceJdsbxy5QRuzDa_isNiQw",
+        "Name":"Drogaria Nossa Senhora Das Graças",
+        "Address":"R. Ver. José Bueno da Silva, 624, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"624",
+        "Street":"R. Ver. José Bueno da Silva",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":5,
+        "Phone":"(35) 3431-6072",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6030843,
+        "Longitude":-46.0529479,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJqRmdxRpFzpQR7-A4A9wkUec",
+        "Name":"Drogaria Cidade Julia",
+        "Address":"Av. Francesco Maria Melani, 132-176 - Jardim Luso, São Paulo - SP, 04421-180, Brazil",
+        "Neighborhood":"132-176 - Jardim Luso",
+        "Street":"Av. Francesco Maria Melani",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(11) 5623-6550",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.6924108,
+        "Longitude":-46.6399204,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJuSapcw36y5QRMIGK9I4SVS0",
+        "Name":"Turbino & Turbino",
+        "Address":"Av. Pref. José Barbosa, 509, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"509",
+        "Street":"Av. Pref. José Barbosa",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(35) 3431-4640",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6126575,
+        "Longitude":-46.0600136,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJPfzeJ683AQcRzVhA5NuSDyA",
+        "Name":"Droga Laura \" A farmácia do Trabalhador\"",
+        "Address":"Cj Eustaquio Gomes ll, 05 Quadra_22 - Cidade Universitária, Maceió - AL, 57072-060, Brazil",
+        "Neighborhood":"05 Quadra_22 - Cidade Universitária",
+        "Street":"Cj Eustaquio Gomes ll",
+        "City":"Maceió - AL",
+        "Rating":4.3,
+        "UserRatingsTotal":3,
+        "Phone":"(82) 98105-4486",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5411463,
+        "Longitude":-35.7868535,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJcTlF5d43AQcRYDuyn-RZgWM",
+        "Name":"Farmacia do Trabalhador Santa Maria",
+        "Address":"R. Dr. Juraci Pereira, 17 - Quadra 10 - Cidade Universitária, Maceió - AL, 57072-040, Brazil",
+        "Neighborhood":"17 - Quadra 10 - Cidade Universitária",
+        "Street":"R. Dr. Juraci Pereira",
+        "City":"Maceió - AL",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(82) 98108-6824",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5358986,
+        "Longitude":-35.7830452,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJFT5jmknPyJQRuyVVoVZxHwE",
+        "Name":"Droga Raia",
+        "Address":"Av. Dr. Moraes Salles, 973 - Centro, Campinas - SP, 13010-001, Brazil",
+        "Neighborhood":"973 - Centro",
+        "Street":"Av. Dr. Moraes Salles",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":153,
+        "Phone":"(19) 99954-9214",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9057926,
+        "Longitude":-47.0554321,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJqy5nqGZJAQcRVJcAMil3n8Q",
+        "Name":"Village Farma Super",
+        "Address":"Dentro do supermercado Ponto Certo - R. das Mangueira, 55 - Graciliano Ramos, Maceió - AL, 57074-090, Brazil",
+        "Neighborhood":"55 - Graciliano Ramos",
+        "Street":"Dentro do supermercado Ponto Certo - R. das Mangueira",
+        "City":"Maceió - AL",
+        "Rating":4.7,
+        "UserRatingsTotal":3,
+        "Phone":"(82) 99316-0805",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5522986,
+        "Longitude":-35.7482192,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ0edtM_rB4pQRUtDoWnTH7Lc",
+        "Name":"Farmácia Associadas",
+        "Address":"Av. do Barão, 258 - Boqueirão, Passo Fundo - RS, 99030-040, Brazil",
+        "Neighborhood":"258 - Boqueirão",
+        "Street":"Av. do Barão",
+        "City":"Passo Fundo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":2,
+        "Phone":"(54) 99618-2421",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.261418,
+        "Longitude":-52.436055,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ3xe0dLS4uZQRklgk9_7WCTE",
+        "Name":"Farmácia Universitária Cidinha Bonini",
+        "Address":"R. Pedro Pegoraro, 242 - Ribeirânia, Ribeirão Preto - SP, 14096-440, Brazil",
+        "Neighborhood":"242 - Ribeirânia",
+        "Street":"R. Pedro Pegoraro",
+        "City":"Ribeirão Preto - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":82,
+        "Phone":"(16) 3421-8171",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-21.1989311,
+        "Longitude":-47.7786234,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJsZzt5P3FyJQRKqLFl3S4KiA",
+        "Name":"Droga Drugo",
+        "Address":"Av. Barão de Itapura, 2520 - Taquaral, Campinas - SP, 13076-000, Brazil",
+        "Neighborhood":"2520 - Taquaral",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":33,
+        "Phone":"(19) 3241-3248",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8843405,
+        "Longitude":-47.0575433,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJlznOLrXIyJQRG5M-fD7QCf0",
+        "Name":"Farmácia Drogal",
+        "Address":"Av. Francisco Glicério, 857 - Centro, Campinas - SP, 13012-000, Brazil",
+        "Neighborhood":"857 - Centro",
+        "Street":"Av. Francisco Glicério",
+        "City":"Campinas - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":78,
+        "Phone":"(19) 3231-5642",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9070216,
+        "Longitude":-47.0588912,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJu36Z8gr6y5QR3dTG76fGBTA",
+        "Name":"Farma Salles",
+        "Address":"R. João Moreira Salles, 132, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"132",
+        "Street":"R. João Moreira Salles",
+        "City":"Cambuí - MG",
+        "Rating":3.7,
+        "UserRatingsTotal":3,
+        "Phone":"(35) 3431-3323",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6107032,
+        "Longitude":-46.0576225,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJjQPSSqzIyJQR_q6lMGWgYMU",
+        "Name":"Fórmula e Cia. Farmácia de Manipulação - Guanabara",
+        "Address":"R. Sacramento, 719 - WhatsApp (19) 9.9199-9127 - Vila Itapura, Campinas - SP, 13023-185, Brazil",
+        "Neighborhood":"719 - WhatsApp (19) 9.9199-9127 - Vila Itapura",
+        "Street":"R. Sacramento",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":140,
+        "Phone":"0800 111 1747",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8973337,
+        "Longitude":-47.0629778,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJi3XDDDvPyJQR2_HHQHW1M08",
+        "Name":"Drogasil",
+        "Address":"Av. Princesa D'Oeste, 453 - Jardim Proença, Campinas - SP, 13026-137, Brazil",
+        "Neighborhood":"453 - Jardim Proença",
+        "Street":"Av. Princesa D'Oeste",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":97,
+        "Phone":"(19) 99952-3041",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9189705,
+        "Longitude":-47.0452841,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJGbWgXVTPyJQRaVAcLY3FTfw",
+        "Name":"Upvet Campinas - Farmácia Manipulação Veterinária",
+        "Address":"R. Dr. Viêira Bueno, 298 - Cambuí, Campinas - SP, 13024-040, Brazil",
+        "Neighborhood":"298 - Cambuí",
+        "Street":"R. Dr. Viêira Bueno",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":69,
+        "Phone":"(19) 98102-5450",
+        "Types":"pharmacy, veterinary_care, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8922882,
+        "Longitude":-47.0554173,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJL-w6oAv6y5QRWKE9VEx1eJ8",
+        "Name":"Drogaria Rodrigues & Pereira",
+        "Address":"Av. do Carmo, 351 - centro, Cambuí - MG, 37600-000, Brazil",
+        "Neighborhood":"351 - centro",
+        "Street":"Av. do Carmo",
+        "City":"Cambuí - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(35) 3431-3101",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6122078,
+        "Longitude":-46.0599708,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXTDV_kzJyJQRhZ_--kFfFvg",
+        "Name":"Farmácia Campinas - Economy Drugstore",
+        "Address":"Esquina com R: João Canaes - R. Eng. Sylvio Antônio Zuffo Grieco, 51 - Jardim Monte Cristo, Campinas - SP, 13051-044, Brazil",
+        "Neighborhood":"51 - Jardim Monte Cristo",
+        "Street":"Esquina com R: João Canaes - R. Eng. Sylvio Antônio Zuffo Grieco",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":351,
+        "Phone":"(19) 3992-5152",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9433628,
+        "Longitude":-47.0802978,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJpX9ADes3AQcRw8zKHa-7eNU",
+        "Name":"CHAYENNE FARMA MACEIÓ 1",
+        "Address":"Res. Maceió I - Cidade Universitária, Maceió - AL, 57072, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"Res. Maceió I - Cidade Universitária",
+        "City":"57072",
+        "Rating":4.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5271581,
+        "Longitude":-35.7844848,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJVVVVVaZ0mQARjPg1ku4cAjQ",
+        "Name":"Cityfarma",
+        "Address":"Av. B, S\/N - Quadra 57, Lote 3, Loja 2 - Xerém, Duque de Caxias - RJ, 25268-000, Brazil",
+        "Neighborhood":"S\/N - Quadra 57",
+        "Street":"Av. B",
+        "City":"Lote 3",
+        "Rating":3.5,
+        "UserRatingsTotal":13,
+        "Phone":"(21) 2679-7000",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.6440732,
+        "Longitude":-43.2499727,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ63gCWwCbw5QRnwghzeF7qS8",
+        "Name":"Brasil Farma",
+        "Address":"R. Salatiel David Müzel, 1200 - Centro, Nova Campina - SP, 18435-000, Brazil",
+        "Neighborhood":"1200 - Centro",
+        "Street":"R. Salatiel David Müzel",
+        "City":"Nova Campina - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":66,
+        "Phone":"(15) 99733-1591",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-24.121794,
+        "Longitude":-48.9057428,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJG1WDd_HFyJQRue1Upes3TJs",
+        "Name":"Rede Drogão Popular - Farmácia em Campinas (23)",
+        "Address":"Av. Nossa Sra. de Fátima, 1307 - Jardim Campinas, Campinas - SP, 13076-000, Brazil",
+        "Neighborhood":"1307 - Jardim Campinas",
+        "Street":"Av. Nossa Sra. de Fátima",
+        "City":"Campinas - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":54,
+        "Phone":"(19) 99879-4465",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8780258,
+        "Longitude":-47.04435,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJE3dKRh1IAQcRTVIhAn4AB90",
+        "Name":"Droga Lins Medicamentos e Perfumaria",
+        "Address":"Rua Padre Cícero, 40 - Cidade Universitária, Maceió - AL, 57073-020, Brazil",
+        "Neighborhood":"40 - Cidade Universitária",
+        "Street":"Rua Padre Cícero",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(82) 3334-8284",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5464238,
+        "Longitude":-35.7525369,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJAWiSEtdxmQARcLSfM5lFyss",
+        "Name":"Drogarias Tempreço - Nova Campinas",
+        "Address":"Av. B, 420 - Nova Campinas, Duque de Caxias - RJ, 25268-000, Brazil",
+        "Neighborhood":"420 - Nova Campinas",
+        "Street":"Av. B",
+        "City":"Duque de Caxias - RJ",
+        "Rating":4.9,
+        "UserRatingsTotal":80,
+        "Phone":"(21) 97588-6594",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.643951,
+        "Longitude":-43.2504034,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJOxlqGEDA4pQRdDLzz8mMitw",
+        "Name":"Faculdade Farmácia",
+        "Address":"São José, Passo Fundo - RS, 99042-800, Brazil",
+        "Neighborhood":"Passo Fundo - RS",
+        "Street":"São José",
+        "City":"99042-800",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, university, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2276453,
+        "Longitude":-52.3829724,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJI0yvfH2_4pQRK82srPN7XM4",
+        "Name":"Farmácia Genérica Center Pharma",
+        "Address":"R. Teixeira Soares, 1070 - Centro, Passo Fundo - RS, 99010-081, Brazil",
+        "Neighborhood":"1070 - Centro",
+        "Street":"R. Teixeira Soares",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 3312-2112",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2620823,
+        "Longitude":-52.4123796,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJm8dnDULDyJQR0i3Pull5Lto",
+        "Name":"Pharma Aroma",
+        "Address":"ATENDIMENTO VIA WHATSAPP - Av. Washington Luiz, 329 - 75) 9877-8715 - Pte. Preta, Campinas - SP, 13041-355, Brazil",
+        "Neighborhood":"329 - 75) 9877-8715 - Pte. Preta",
+        "Street":"ATENDIMENTO VIA WHATSAPP - Av. Washington Luiz",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":60,
+        "Phone":"(19) 3232-1988",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9192768,
+        "Longitude":-47.0565623,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJZ8l3cBtIAQcRQZ3J55fEvvc",
+        "Name":"Mega Farma",
+        "Address":"Esq. Av. Empresário Nelson Oliveira Menezes - Av. Dr. André Papini Góis, S\/N - Cidade Universitária, Maceió - AL, 57073-365, Brazil",
+        "Neighborhood":"S\/N - Cidade Universitária",
+        "Street":"Esq. Av. Empresário Nelson Oliveira Menezes - Av. Dr. André Papini Góis",
+        "City":"Maceió - AL",
+        "Rating":4.0,
+        "UserRatingsTotal":9,
+        "Phone":"(82) 3344-1000",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5511291,
+        "Longitude":-35.7539073,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJwW7MYhrFyJQRhAhuQpolgZE",
+        "Name":"Farmácia Drogal",
+        "Address":"Avenida Padre - Av. Almeida Garret, 1911 - Parque Taquaral, Campinas - SP, 13087-291, Brazil",
+        "Neighborhood":"1911 - Parque Taquaral",
+        "Street":"Avenida Padre - Av. Almeida Garret",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":29,
+        "Phone":"(19) 3381-9114",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8649098,
+        "Longitude":-47.0540471,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ_3lK0s_OyJQRRppcEX65Vf4",
+        "Name":"Droga Raia",
+        "Address":"Av. Washington Luiz, 2300 - Chácara prado, Campinas - SP, 13042-105, Brazil",
+        "Neighborhood":"2300 - Chácara prado",
+        "Street":"Av. Washington Luiz",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":82,
+        "Phone":"(19) 99681-7317",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9356362,
+        "Longitude":-47.0509198,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ_z2JxKW3yJQRABsSNRxXPzI",
+        "Name":"Nova Natural Farmácia de Manipulação & Homeopatia - Campo Grande",
+        "Address":"R. Dr. Alderico Alvite, 32 - Parque Valença, Campinas - SP, 13058-517, Brazil",
+        "Neighborhood":"32 - Parque Valença",
+        "Street":"R. Dr. Alderico Alvite",
+        "City":"Campinas - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":7,
+        "Phone":"(19) 98325-4657",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9468557,
+        "Longitude":-47.1870835,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJiQiqjVNPAQcRPsGXsLcBZQY",
+        "Name":"Drogaria do Povo",
+        "Address":"R. Santa Luzia, 316 - Condomínio Morada Nova, Maceió - AL, 57060-240, Brazil",
+        "Neighborhood":"316 - Condomínio Morada Nova",
+        "Street":"R. Santa Luzia",
+        "City":"Maceió - AL",
+        "Rating":4.0,
+        "UserRatingsTotal":6,
+        "Phone":"(82) 3324-6574",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5899714,
+        "Longitude":-35.7653353,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJlSa5Tm1IAQcR3j0yjL3IBuc",
+        "Name":"Farmácia do Trabalhador - Farma Center",
+        "Address":"Salvador Lyra - R. da Codeal, 535 - Tabuleiro do Martins, Maceió - AL, 57081-475, Brazil",
+        "Neighborhood":"535 - Tabuleiro do Martins",
+        "Street":"Salvador Lyra - R. da Codeal",
+        "City":"Maceió - AL",
+        "Rating":4.7,
+        "UserRatingsTotal":35,
+        "Phone":"(82) 3435-1859",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5649817,
+        "Longitude":-35.7526076,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJI4p5danIyJQRXi_i99X2DNE",
+        "Name":"Moreno e Moreno Prado Farmácia de Manipulação",
+        "Address":"ATENDIMENTO VIA WHATSAPP - R. Tiradentes, 325 - 75) 9877-8715 - Vila Itapura, Campinas - SP, 13023-190, Brazil",
+        "Neighborhood":"325 - 75) 9877-8715 - Vila Itapura",
+        "Street":"ATENDIMENTO VIA WHATSAPP - R. Tiradentes",
+        "City":"Campinas - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(19) 3235-3957",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8937374,
+        "Longitude":-47.0641374,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ-fBA4cfGyJQRkpF6yVYd95Q",
+        "Name":"Droga Raia",
+        "Address":"Av. Albino J. B. de Oliveira, 1060 - Barão Geraldo, Campinas - SP, 13084-008, Brazil",
+        "Neighborhood":"1060 - Barão Geraldo",
+        "Street":"Av. Albino J. B. de Oliveira",
+        "City":"Campinas - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":171,
+        "Phone":"(19) 97165-8706",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.828921,
+        "Longitude":-47.0787382,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJTwktM8rGyJQRwo7bG8QcTvs",
+        "Name":"Drogaria Total",
+        "Address":"Rua Maria Tereza Dias da Silva, 676 - via whatsapp, 19 - 99826,2764 - Cidade Universitária, Campinas - SP, 13084-008, Brazil",
+        "Neighborhood":"676 - via whatsapp",
+        "Street":"Rua Maria Tereza Dias da Silva",
+        "City":"19 - 99826",
+        "Rating":4.5,
+        "UserRatingsTotal":8,
+        "Phone":"(19) 3203-5559",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8091705,
+        "Longitude":-47.0783389,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJobYZLWDHyJQRpyCKbU1rgjI",
+        "Name":"FarmaLu Farmácia de Manipulação e Homeopatia | Disk Entrega",
+        "Address":"Rua Frei Manoel da Ressurreição, 508 - Jardim Chapadão, Campinas - SP, 13073-221, Brazil",
+        "Neighborhood":"508 - Jardim Chapadão",
+        "Street":"Rua Frei Manoel da Ressurreição",
+        "City":"Campinas - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(19) 3241-6900",
+        "Types":"pharmacy, drugstore, point_of_interest, food, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8921338,
+        "Longitude":-47.0717795,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ4XKyB-3IyJQRUTGGLMdMi3o",
+        "Name":"Farma & Flora",
+        "Address":"Av. Francisco de Paula Oliveira Nazareth, 629 - Parque Industrial, Campinas - SP, 13031-440, Brazil",
+        "Neighborhood":"629 - Parque Industrial",
+        "Street":"Av. Francisco de Paula Oliveira Nazareth",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":37,
+        "Phone":"(19) 3272-3104",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9206131,
+        "Longitude":-47.0855077,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ2_bOYt3JyJQRUgmtcTY9FyE",
+        "Name":"Nova Natural Farmácia de Manipulação & Homeopatia - Unidade Jardim Aeroporto",
+        "Address":"Av. Suaçuna, 677 - Vila Aeroporto, Campinas - SP, 13054-105, Brazil",
+        "Neighborhood":"677 - Vila Aeroporto",
+        "Street":"Av. Suaçuna",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":73,
+        "Phone":"(19) 98293-6586",
+        "Types":"pharmacy, veterinary_care, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9688296,
+        "Longitude":-47.128402,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJU27GkVTPyJQRYdQxvOqPO78",
+        "Name":"Drogasil",
+        "Address":"R. Olavo Bilac, 307 - 323 - Cambuí, Campinas - SP, 13024-110, Brazil",
+        "Neighborhood":"307 - 323 - Cambuí",
+        "Street":"R. Olavo Bilac",
+        "City":"Campinas - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":67,
+        "Phone":"(19) 99613-6718",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8932347,
+        "Longitude":-47.0566865,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJcdG_L3m_4pQRNj6vcpBx8B8",
+        "Name":"Macro Ervas Farmácia Homeopática",
+        "Address":"Av. 7 de Setembro, 707 - Centro, Passo Fundo - RS, 99032-030, Brazil",
+        "Neighborhood":"707 - Centro",
+        "Street":"Av. 7 de Setembro",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 3045-1989",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2656528,
+        "Longitude":-52.4072166,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJV91WUL5IAQcRSVJFyvIxBWw",
+        "Name":"Drogaria Center Farma",
+        "Address":"Av. Empresário Lourival Lobo Ferreira - Petropolis, Maceió - AL, 57062-530, Brazil",
+        "Neighborhood":"Maceió - AL",
+        "Street":"Av. Empresário Lourival Lobo Ferreira - Petropolis",
+        "City":"57062-530",
+        "Rating":4.9,
+        "UserRatingsTotal":1137,
+        "Phone":"(82) 3358-1306",
+        "Types":"pharmacy, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.6033143,
+        "Longitude":-35.7592193,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJgZ_g8OI3AQcRw2SvIxmebbk",
+        "Name":"FARIAS FARMA",
+        "Address":"Rua Padre Cícero, 85 - Cidade Universitária, Maceió - AL, 57073-619, Brazil",
+        "Neighborhood":"85 - Cidade Universitária",
+        "Street":"Rua Padre Cícero",
+        "City":"Maceió - AL",
+        "Rating":5.0,
+        "UserRatingsTotal":14,
+        "Phone":"(82) 3354-7320",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5440704,
+        "Longitude":-35.7540441,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJOwpOYXHIyJQRejJw3FFwphE",
+        "Name":"Drogaria Nova Castelo",
+        "Address":"R. Dorvelino Guatemozim, 07 - Vila Castelo Branco, Campinas - SP, 13061-232, Brazil",
+        "Neighborhood":"07 - Vila Castelo Branco",
+        "Street":"R. Dorvelino Guatemozim",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":13,
+        "Phone":"(19) 3269-8715",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9138314,
+        "Longitude":-47.1116361,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJAUSK7WI3AQcRP3wChEO0BVc",
+        "Name":"Droga Laura - Farmácia do Trabalhador",
+        "Address":"R. Maria José das Chagas Camelo Silva, 6 - Quadra 22 - Cidade Universitária, Maceió - AL, 57072-400, Brazil",
+        "Neighborhood":"6 - Quadra 22 - Cidade Universitária",
+        "Street":"R. Maria José das Chagas Camelo Silva",
+        "City":"Maceió - AL",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(82) 98105-4486",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5398754,
+        "Longitude":-35.7832537,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJY5q4e1TPyJQRrmbzRNhHt-I",
+        "Name":"Manipulation of Pharmacy Lab Brazil",
+        "Address":"R. Santos Dumont, 361 - via whatsapp, 19 - 99826,2764 - Cambuí, Campinas - SP, 13010-041, Brazil",
+        "Neighborhood":"361 - via whatsapp",
+        "Street":"R. Santos Dumont",
+        "City":"19 - 99826",
+        "Rating":5.0,
+        "UserRatingsTotal":9,
+        "Phone":"(19) 3253-3871",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8928926,
+        "Longitude":-47.0561502,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJw2kxFVHPyJQRiCIMXdNzvSY",
+        "Name":"Neofórmula Manipulação e Homeopatia",
+        "Address":"Av. Cel. Silva Telles, 540 - Cambuí, Campinas - SP, 13024-001, Brazil",
+        "Neighborhood":"540 - Cambuí",
+        "Street":"Av. Cel. Silva Telles",
+        "City":"Campinas - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":141,
+        "Phone":"(19) 3308-0908",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.893817,
+        "Longitude":-47.052213,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJZztfq6nIyJQR60fPWUGFC-A",
+        "Name":"Farmácia de Manipulação - Pharmaessência - Campinas\/Jardim Guanabara",
+        "Address":"Av. Barão de Itapura, 1150 - Jardim Guanabara, Campinas - SP, 13020-432, Brazil",
+        "Neighborhood":"1150 - Jardim Guanabara",
+        "Street":"Av. Barão de Itapura",
+        "City":"Campinas - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":110,
+        "Phone":"(19) 3234-8881",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8942808,
+        "Longitude":-47.0655171,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJV0-gdbTIyJQR68TCq3o8Bu4",
+        "Name":"Droga Raia",
+        "Address":"Av. Campos Sales, 874 - Centro, Campinas - SP, 13010-081, Brazil",
+        "Neighborhood":"874 - Centro",
+        "Street":"Av. Campos Sales",
+        "City":"Campinas - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":39,
+        "Phone":"(19) 99843-1874",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9048231,
+        "Longitude":-47.0602882,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ93848sDOyJQRjRiLr_RKOiE",
+        "Name":"Drogaria Facine",
+        "Address":"Av. José Fonseca de Arruda, 96 - Jardim dos Oliveiras, Campinas - SP, 13044-130, Brazil",
+        "Neighborhood":"96 - Jardim dos Oliveiras",
+        "Street":"Av. José Fonseca de Arruda",
+        "City":"Campinas - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":206,
+        "Phone":"(19) 3276-7669",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9399079,
+        "Longitude":-47.0413988,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJEQ7fDjB5mQARjGWZH1VEc2Q",
+        "Name":"Faculty of Pharmacy - UFRJ",
+        "Address":"Av. Carlos Chagas Filho, 373 - Cidade Universitária, Rio de Janeiro - RJ, 21941-170, Brazil",
+        "Neighborhood":"373 - Cidade Universitária",
+        "Street":"Av. Carlos Chagas Filho",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":4.6,
+        "UserRatingsTotal":74,
+        "Phone":"(21) 3938-6620",
+        "Types":"university, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8428432,
+        "Longitude":-43.2350444,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJrSOjhyo2AQcR_CO-bZ0h_wo",
+        "Name":"Drogaria Bom de Preço",
+        "Address":"Eustáquio Gomes - R. João de Oliveira Melo, 08 - Cidade Universitária, Maceió - AL, 57072-043, Brazil",
+        "Neighborhood":"08 - Cidade Universitária",
+        "Street":"Eustáquio Gomes - R. João de Oliveira Melo",
+        "City":"Maceió - AL",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.5415469,
+        "Longitude":-35.7875916,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    }
+]

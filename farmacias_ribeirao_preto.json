@@ -1,0 +1,5056 @@
+[
+    {
+        "PlaceID":"ChIJzYQHTBDxXpMRXu5ijTtJeyo",
+        "Name":"Drogaria Justa Farma",
+        "Address":"Rua 221 c - 6ª Avenida, Qd 80A n 83 - Setor Leste Universitário, Goiânia - GO, 74603-150, Brazil",
+        "Neighborhood":"Qd 80A n 83 - Setor Leste Universitário",
+        "Street":"Rua 221 c - 6ª Avenida",
+        "City":"Goiânia - GO",
+        "Rating":4.9,
+        "UserRatingsTotal":30,
+        "Phone":"(62) 99117-3145",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6828565,
+        "Longitude":-49.2410007,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJM6rGvG_k3JQRaelp8pxAuks",
+        "Name":"Botica Alternativa",
+        "Address":"R. Alferes Poli, 311 - 10 - Centro, Curitiba - PR, 80230-090, Brazil",
+        "Neighborhood":"311 - 10 - Centro",
+        "Street":"R. Alferes Poli",
+        "City":"Curitiba - PR",
+        "Rating":4.5,
+        "UserRatingsTotal":440,
+        "Phone":"(41) 3222-0665",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.4392362,
+        "Longitude":-49.2720185,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJA2xDbnjA4pQR1WNW2awo8CU",
+        "Name":"Farmácia São João",
+        "Address":"R. Ângelo Preto, 158 - conjunto b - Centro, Passo Fundo - RS, 99010-270, Brazil",
+        "Neighborhood":"158 - conjunto b - Centro",
+        "Street":"R. Ângelo Preto",
+        "City":"Passo Fundo - RS",
+        "Rating":3.8,
+        "UserRatingsTotal":6,
+        "Phone":"(54) 3313-5592",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2554814,
+        "Longitude":-52.3950691,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJDcHowYG_4pQRjZwXP8YhV2E",
+        "Name":"Farmácia Farmashop",
+        "Address":"R. Fagundes dos Reis, 189 - Centro, Passo Fundo - RS, 99010-070, Brazil",
+        "Neighborhood":"189 - Centro",
+        "Street":"R. Fagundes dos Reis",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 3313-1929",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.262411,
+        "Longitude":-52.4027122,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJiwzaZ6d6GZURIar5SzVyIDQ",
+        "Name":"Farmácia Dermofar",
+        "Address":"Rua Quinze de Janeiro, 197, Loja 11, Galeria Center 15 - Centro, Canoas - RS, 92010-300, Brazil",
+        "Neighborhood":"197",
+        "Street":"Rua Quinze de Janeiro",
+        "City":"Loja 11",
+        "Rating":4.9,
+        "UserRatingsTotal":9,
+        "Phone":"(51) 3472-9138",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.9199,
+        "Longitude":-51.1799285,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ35HqhZKQmQAR55CpaeqqSh8",
+        "Name":"Farmácia de Manipulação Origem Natural",
+        "Address":"Rua João Caetano - Entrada da loja pela - R. Palmira Ninho, 52 - SALA 507 - Alcantara, São Gonçalo - RJ, 24710-405, Brazil",
+        "Neighborhood":"52 - SALA 507 - Alcantara",
+        "Street":"Rua João Caetano - Entrada da loja pela - R. Palmira Ninho",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.0,
+        "UserRatingsTotal":4,
+        "Phone":"(21) 2708-7604",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8212269,
+        "Longitude":-43.0019926,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ6bdYtrp9mQARdaFt_Lepf9o",
+        "Name":"New Network Drugstores",
+        "Address":"R. Constança Barbosa, 135 - Méier, Rio de Janeiro - RJ, 20735-090, Brazil",
+        "Neighborhood":"135 - Méier",
+        "Street":"R. Constança Barbosa",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":3.9,
+        "UserRatingsTotal":18,
+        "Phone":"(21) 3274-1727",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9014558,
+        "Longitude":-43.2807849,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJB15vC3bvhpQRUbli3dINvSU",
+        "Name":"Farmácia Droga10 - Universitária",
+        "Address":"R. Pontalina, 545 - Universitário, Campo Grande - MS, 79060-540, Brazil",
+        "Neighborhood":"545 - Universitário",
+        "Street":"R. Pontalina",
+        "City":"Campo Grande - MS",
+        "Rating":3.8,
+        "UserRatingsTotal":38,
+        "Phone":"(67) 3387-7800",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.520902,
+        "Longitude":-54.5931647,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJj-YpihDxXpMR8nXR6MJg2Q0",
+        "Name":"Drogamérica",
+        "Address":"Av. T-63, 2590 - Jardim América, Goiânia - GO, 74250-320, Brazil",
+        "Neighborhood":"2590 - Jardim América",
+        "Street":"Av. T-63",
+        "City":"Goiânia - GO",
+        "Rating":3.9,
+        "UserRatingsTotal":13,
+        "Phone":"(62) 3922-2626",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7156606,
+        "Longitude":-49.2834936,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ7QW6qXnxXpMRfa83OZcUVVo",
+        "Name":"Drogaria Universitária",
+        "Address":"R. 229, 223 - Quadra 89-A Lote 26 - Setor Leste Universitário, Goiânia - GO, 74605-240, Brazil",
+        "Neighborhood":"223 - Quadra 89-A Lote 26 - Setor Leste Universitário",
+        "Street":"R. 229",
+        "City":"Goiânia - GO",
+        "Rating":3.9,
+        "UserRatingsTotal":16,
+        "Phone":"(62) 3225-1297",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6756851,
+        "Longitude":-49.2477417,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJh6M86au9HpUR1nScTfQuGQM",
+        "Name":"Droga Raia",
+        "Address":"R. São Paulo, 722 - Jardim America, Caxias do Sul - RS, 95050-450, Brazil",
+        "Neighborhood":"722 - Jardim America",
+        "Street":"R. São Paulo",
+        "City":"Caxias do Sul - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":47,
+        "Phone":"(54) 99704-3987",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.155401,
+        "Longitude":-51.16521,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJLcEPJMldzpQRARO6FMM1928",
+        "Name":"Refarma",
+        "Address":"Vila Formosa, São Paulo - State of São Paulo, 03371-008, Brazil",
+        "Neighborhood":"São Paulo - State of São Paulo",
+        "Street":"Vila Formosa",
+        "City":"03371-008",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.57152,
+        "Longitude":-46.5479245,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJl0m1JtO3yJQRFE0sk3aEWHE",
+        "Name":"Dr. PHARMA 1",
+        "Address":"Av. Ruy Rodriguez, 4870 - via whatsapp, 19 - 99826,2764 - Recanto do Sol I, Campinas - SP, 13056-460, Brazil",
+        "Neighborhood":"4870 - via whatsapp",
+        "Street":"Av. Ruy Rodriguez",
+        "City":"19 - 99826",
+        "Rating":4.3,
+        "UserRatingsTotal":8,
+        "Phone":"(19) 3226-8110",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9677155,
+        "Longitude":-47.1454646,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJTb7oSDp7mQARphedGnnqZ00",
+        "Name":"Farmácia Varela",
+        "Address":"R. Fernandes da Cunha, 372 - Vigário Geral, Rio de Janeiro - RJ, 21241-300, Brazil",
+        "Neighborhood":"372 - Vigário Geral",
+        "Street":"R. Fernandes da Cunha",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":4.0,
+        "UserRatingsTotal":6,
+        "Phone":"3346-4320",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8147955,
+        "Longitude":-43.3178902,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJodnIvmVZzpQR4t7TKRd7vfU",
+        "Name":"Manifarma Centro - Farmácia de Manipulação",
+        "Address":"R. Conselheiro Crispiniano, 143 - Centro Histórico de São Paulo, São Paulo - SP, 01037-001, Brazil",
+        "Neighborhood":"143 - Centro Histórico de São Paulo",
+        "Street":"R. Conselheiro Crispiniano",
+        "City":"São Paulo - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":12,
+        "Phone":"(11) 98904-5893",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5458747,
+        "Longitude":-46.6394667,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ5QxvX-SbmQARzMQWMKrvjXI",
+        "Name":"BELLAFORMA FARMÁCIA DE MANIPULAÇÃO",
+        "Address":"R. Dr. Nilo Peçanha, 56 - Loja 30 - Centro, São Gonçalo - RJ, 24445-360, Brazil",
+        "Neighborhood":"56 - Loja 30 - Centro",
+        "Street":"R. Dr. Nilo Peçanha",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":9,
+        "Phone":"(21) 97158-7286",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8238337,
+        "Longitude":-43.0445365,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJYYD2PACXmQAR5fdglH3aEjE",
+        "Name":"Rua Duarte Coelho",
+        "Address":"Jardim Catarina, São Gonçalo - State of Rio de Janeiro, 24715-672, Brazil",
+        "Neighborhood":"São Gonçalo - State of Rio de Janeiro",
+        "Street":"Jardim Catarina",
+        "City":"24715-672",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7921669,
+        "Longitude":-42.9997977,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHbCca1Dbx5QR9UwqiMxHhDM",
+        "Name":"Drogaria Poupe Mais RC",
+        "Address":"R. 21, 4216 - Jardim Wenzel, Rio Claro - SP, 13504-365, Brazil",
+        "Neighborhood":"4216 - Jardim Wenzel",
+        "Street":"R. 21",
+        "City":"Rio Claro - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":7,
+        "Phone":"(19) 98196-5284",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.3889381,
+        "Longitude":-47.5868363,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ9aRvTbaRmQARST7rJAXRKj0",
+        "Name":"Farmácia de Manipulação - Viva do Verde",
+        "Address":"Estr. Raul Veiga, 351 - loja 28 - Vila Três, São Gonçalo - RJ, 24710-480, Brazil",
+        "Neighborhood":"351 - loja 28 - Vila Três",
+        "Street":"Estr. Raul Veiga",
+        "City":"São Gonçalo - RJ",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(21) 2602-6122",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8221868,
+        "Longitude":-42.9985513,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJdQO703jA4pQRWWDUvf-gTZ4",
+        "Name":"Droga Raia",
+        "Address":"Av. Brasil Oeste, 841 - Centro, Passo Fundo - RS, 99010-001, Brazil",
+        "Neighborhood":"841 - Centro",
+        "Street":"Av. Brasil Oeste",
+        "City":"Passo Fundo - RS",
+        "Rating":3.8,
+        "UserRatingsTotal":94,
+        "Phone":"(54) 99655-0437",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2628586,
+        "Longitude":-52.4122478,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJEwBqzIHA4pQRLnNjvAIdkMo",
+        "Name":"FarPet Farmácia Veterinária",
+        "Address":"R. Paissandú, 1011 - sala 04 - Centro, Passo Fundo - RS, 99010-100, Brazil",
+        "Neighborhood":"1011 - sala 04 - Centro",
+        "Street":"R. Paissandú",
+        "City":"Passo Fundo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":148,
+        "Phone":"(54) 3622-2022",
+        "Types":"veterinary_care, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2589976,
+        "Longitude":-52.4068117,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ85HFg3y_4pQR9GNPohMxW-c",
+        "Name":"Farmácia Preço Popular",
+        "Address":"Av. Pres. Vargas, 1011 - Vila Rodrigues, Passo Fundo - RS, 99070-000, Brazil",
+        "Neighborhood":"1011 - Vila Rodrigues",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":47,
+        "Phone":"(54) 3312-8480",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2684366,
+        "Longitude":-52.3917726,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJG1VVLNH2XpMRYFoiES-bbgk",
+        "Name":"Drogaria Plus",
+        "Address":"Av. Alberto Miguel, 15 - St. Campinas, Goiânia - GO, 74510-010, Brazil",
+        "Neighborhood":"15 - St. Campinas",
+        "Street":"Av. Alberto Miguel",
+        "City":"Goiânia - GO",
+        "Rating":4.1,
+        "UserRatingsTotal":666,
+        "Phone":"(62) 3533-2000",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6686357,
+        "Longitude":-49.2938974,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ_cIb7bjLEZURFD6BFheYfM0",
+        "Name":"Fartmácia Confiança Jardim América",
+        "Address":"R. Cidade de Rio Pardo, 320 - Jardim América, Capão do Leão - RS, 96160-000, Brazil",
+        "Neighborhood":"320 - Jardim América",
+        "Street":"R. Cidade de Rio Pardo",
+        "City":"Capão do Leão - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(53) 99122-0565",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-31.7580608,
+        "Longitude":-52.4303338,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJz2njVo5BzpQRVLdTplS_QWI",
+        "Name":"Pharmacy & Fórmulas",
+        "Address":"Av. Francisco Prestes Maia, 1208 - Centro, São Bernardo do Campo - SP, 09770-000, Brazil",
+        "Neighborhood":"1208 - Centro",
+        "Street":"Av. Francisco Prestes Maia",
+        "City":"São Bernardo do Campo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":467,
+        "Phone":"(11) 94771-2527",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.713694,
+        "Longitude":-46.542856,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJZSJRC5VdzpQRjxpwunmc9p4",
+        "Name":"Farmacom Farmácia Magistral e Comercial",
+        "Address":"Av. João XXIII, 665 - Jardim Vila Formosa, São Paulo - SP, 03361-000, Brazil",
+        "Neighborhood":"665 - Jardim Vila Formosa",
+        "Street":"Av. João XXIII",
+        "City":"São Paulo - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":6,
+        "Phone":"(11) 2100-1240",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5725688,
+        "Longitude":-46.5341843,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJwdXnN05oGZUR2U3DpjEnUdQ",
+        "Name":"Perfeita Farmácia de Manipulação",
+        "Address":"R. Marquês do Herval, 912 - Centro, São Leopoldo - RS, 93010-200, Brazil",
+        "Neighborhood":"912 - Centro",
+        "Street":"R. Marquês do Herval",
+        "City":"São Leopoldo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":92,
+        "Phone":"(51) 3566-2712",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.7672123,
+        "Longitude":-51.144471,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJB8--fuKa9pQRZydAgA50uNg",
+        "Name":"Farmácias Preço Justo Universitário",
+        "Address":"R. João Batista de Oliveira - Foz do Iguaçu, PR, 85870-600, Brazil",
+        "Neighborhood":"PR",
+        "Street":"R. João Batista de Oliveira - Foz do Iguaçu",
+        "City":"85870-600",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(45) 99151-0770",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.4618205,
+        "Longitude":-54.5796352,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJxU7mHo-bmQARFGDccQrJyVs",
+        "Name":"Bem Estar | Farmácia de Manipulação",
+        "Address":"R. Dr. Felíciano Sodré, 78 - Sala 1011 - Centro, São Gonçalo - RJ, 24440-000, Brazil",
+        "Neighborhood":"78 - Sala 1011 - Centro",
+        "Street":"R. Dr. Felíciano Sodré",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":221,
+        "Phone":"(21) 96624-4224",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8257235,
+        "Longitude":-43.0497767,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ38mKb41ezpQR36DgFsLVvX8",
+        "Name":"Atos Farmácia de Manipulação",
+        "Address":"R. Apucarana, 771 - Tatuapé, São Paulo - SP, 03311-000, Brazil",
+        "Neighborhood":"771 - Tatuapé",
+        "Street":"R. Apucarana",
+        "City":"São Paulo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":2146,
+        "Phone":"(11) 94661-3998",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5450286,
+        "Longitude":-46.563672,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJM8K4IWFnzpQRGVxN8KUqA6I",
+        "Name":"Drogaria São Paulo 205",
+        "Address":"Av. Rio das Pedras, 1200 - Vila Antonieta, São Paulo - SP, 03452-100, Brazil",
+        "Neighborhood":"1200 - Vila Antonieta",
+        "Street":"Av. Rio das Pedras",
+        "City":"São Paulo - SP",
+        "Rating":2.9,
+        "UserRatingsTotal":95,
+        "Phone":"(11) 93290-9650",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5656952,
+        "Longitude":-46.5126564,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJS2gbKS97mQAR3Mkoc2nJaxo",
+        "Name":"Drogarias Carioca",
+        "Address":"R. Atílio Vivacqua, N° 250 - Loja B - Jardim América, Rio de Janeiro - RJ, 21240-410, Brazil",
+        "Neighborhood":"N° 250 - Loja B - Jardim América",
+        "Street":"R. Atílio Vivacqua",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":3.8,
+        "UserRatingsTotal":4,
+        "Phone":"(21) 3346-3000",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8056316,
+        "Longitude":-43.3219926,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJiasaRYE7uAARYQ7x0NQXIos",
+        "Name":"Drogarias Pacheco",
+        "Address":"Rodovia BR 2 - Av. Brasil, 210 - Imento 01 Comercio 01 - Jardim América, Cariacica - ES, 29140-130, Brazil",
+        "Neighborhood":"210 - Imento 01 Comercio 01 - Jardim América",
+        "Street":"Rodovia BR 2 - Av. Brasil",
+        "City":"Cariacica - ES",
+        "Rating":3.5,
+        "UserRatingsTotal":59,
+        "Phone":"4020-4404",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.3310841,
+        "Longitude":-40.3639081,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJx_wm3ixczpQRfKLjk49u9fg",
+        "Name":"Drogaria Templários",
+        "Address":"R. Templários, 400 - Vila Formosa, São Paulo - SP, 03357-005, Brazil",
+        "Neighborhood":"400 - Vila Formosa",
+        "Street":"R. Templários",
+        "City":"São Paulo - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":12,
+        "Phone":"(11) 2671-7540",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.566316,
+        "Longitude":-46.5560393,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJiQF_t4S_4pQR7TjWgpYdJRA",
+        "Name":"Farmácia São Luiz",
+        "Address":"Av. Pres. Vargas, 389 - Vila Lucas Araujo, Passo Fundo - RS, 99070-000, Brazil",
+        "Neighborhood":"389 - Vila Lucas Araujo",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":4,
+        "Phone":"(54) 3311-7247",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2663707,
+        "Longitude":-52.3975673,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ1UmH042QmQARJMBXUJt2auw",
+        "Name":"A Sua FarmaCia & Você",
+        "Address":"R. João Caetano, 465 - Loja 3 e 4 - Alcantara, São Gonçalo - RJ, 24710-405, Brazil",
+        "Neighborhood":"465 - Loja 3 e 4 - Alcantara",
+        "Street":"R. João Caetano",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(21) 3708-7000",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8231465,
+        "Longitude":-43.0045227,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJWZ6nSx88uAARf4Qp0xS3iXk",
+        "Name":"Farmes - Jardim America - Cariacica",
+        "Address":"R. Paraguai, 64 - Jardim América, Cariacica - ES, 29140-190, Brazil",
+        "Neighborhood":"64 - Jardim América",
+        "Street":"R. Paraguai",
+        "City":"Cariacica - ES",
+        "Rating":3.7,
+        "UserRatingsTotal":26,
+        "Phone":"(27) 3226-2965",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.3321836,
+        "Longitude":-40.3640712,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJw29OY9b3XpMR8pFl9CkJrAM",
+        "Name":"Drogasil C159 Jardim América",
+        "Address":"Av. T-63, 3 - quadra 93 - Anhanguera, Goiânia - GO, 74335-104, Brazil",
+        "Neighborhood":"3 - quadra 93 - Anhanguera",
+        "Street":"Av. T-63",
+        "City":"Goiânia - GO",
+        "Rating":4.3,
+        "UserRatingsTotal":24,
+        "Phone":"(62) 99652-2437",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7169258,
+        "Longitude":-49.2903086,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJldDSsY1dzpQRpkAVOg5iZe0",
+        "Name":"Drogaria Rosana",
+        "Address":"R. Jerônimo Coelho, 618 - Jardim Vila Formosa, São Paulo - SP, 03470-040, Brazil",
+        "Neighborhood":"618 - Jardim Vila Formosa",
+        "Street":"R. Jerônimo Coelho",
+        "City":"São Paulo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":26,
+        "Phone":"(11) 2216-8960",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.571032,
+        "Longitude":-46.5246596,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJt8gBwLhdzpQR4un1QAlLvmg",
+        "Name":"Feliz Farma",
+        "Address":"Av. Renata, 468 - Vila Formosa, São Paulo - SP, 03377-000, Brazil",
+        "Neighborhood":"468 - Vila Formosa",
+        "Street":"Av. Renata",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":20,
+        "Phone":"(11) 2216-4707",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5743207,
+        "Longitude":-46.5415038,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJq6qqqr15GZURTD8Z0Woivfg",
+        "Name":"Ars Curandi Farmácia de Manipulação",
+        "Address":"Praça Conde de Porto Alegre, 16 - Centro Histórico, Porto Alegre - RS, 90020-130, Brazil",
+        "Neighborhood":"16 - Centro Histórico",
+        "Street":"Praça Conde de Porto Alegre",
+        "City":"Porto Alegre - RS",
+        "Rating":4.6,
+        "UserRatingsTotal":125,
+        "Phone":"(51) 99970-3223",
+        "Types":"pharmacy, drugstore, health, store, food, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.03151,
+        "Longitude":-51.224495,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJZ8eONDs8uAARoeU5XeRGOgY",
+        "Name":"Pharmacy Low Price",
+        "Address":"Av. Espírito Santo, 10 - Jardim América, Cariacica - ES, 29140-080, Brazil",
+        "Neighborhood":"10 - Jardim América",
+        "Street":"Av. Espírito Santo",
+        "City":"Cariacica - ES",
+        "Rating":4.6,
+        "UserRatingsTotal":5,
+        "Phone":"(27) 3090-2295",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.3360224,
+        "Longitude":-40.3625058,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJvzaQLKK25JQRiP3rel_dSbc",
+        "Name":"SP Farma",
+        "Address":"R. Mal. Floriano Peixoto, 280L - 280L - Centro, Chapecó - SC, 89801-500, Brazil",
+        "Neighborhood":"280L - 280L - Centro",
+        "Street":"R. Mal. Floriano Peixoto",
+        "City":"Chapecó - SC",
+        "Rating":4.0,
+        "UserRatingsTotal":21,
+        "Phone":"(49) 3322-1023",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-27.1042794,
+        "Longitude":-52.6115486,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJu8dciSn3XpMRO6ttv_yCA_w",
+        "Name":"Drogaria Cuida Mais",
+        "Address":"R. C-159, 1100 - Jardim América, Goiânia - GO, 74250-020, Brazil",
+        "Neighborhood":"1100 - Jardim América",
+        "Street":"R. C-159",
+        "City":"Goiânia - GO",
+        "Rating":4.9,
+        "UserRatingsTotal":252,
+        "Phone":"(62) 3924-1313",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7184555,
+        "Longitude":-49.2900572,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJBUF-wS97mQART53tu7aAl8U",
+        "Name":"Drogarias Riego",
+        "Address":"Loja B\/C - R. Franz Liszt, 583 - Jardim América, Rio de Janeiro - RJ, 21240-460, Brazil",
+        "Neighborhood":"583 - Jardim América",
+        "Street":"Loja B\/C - R. Franz Liszt",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":3.9,
+        "UserRatingsTotal":7,
+        "Phone":"(21) 3346-6000",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8093746,
+        "Longitude":-43.3211356,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJNxts2wpezpQRxriSj4JoLi0",
+        "Name":"Empório Medicinal",
+        "Address":"Rua Monte Serrat, 1254 - Tatuapé, São Paulo - SP, 03312-001, Brazil",
+        "Neighborhood":"1254 - Tatuapé",
+        "Street":"Rua Monte Serrat",
+        "City":"São Paulo - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":84,
+        "Phone":"(11) 2091-3001",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5486906,
+        "Longitude":-46.5603552,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJkSQdF8PB4pQREOGECzQ9ASo",
+        "Name":"Farmácia São João",
+        "Address":"Av. Brasil Leste, 29 - Centro, Passo Fundo - RS, 99025-001, Brazil",
+        "Neighborhood":"29 - Centro",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 99711-0351",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2531337,
+        "Longitude":-52.3958157,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJhY8FlKulXpMRq9UD1C6FI8w",
+        "Name":"Drogasil",
+        "Address":"Av. Universitária, 980 - Lotes 09 - 10 - Jardim Bandeirante, Anápolis - GO, 75083-035, Brazil",
+        "Neighborhood":"980 - Lotes 09 - 10 - Jardim Bandeirante",
+        "Street":"Av. Universitária",
+        "City":"Anápolis - GO",
+        "Rating":3.6,
+        "UserRatingsTotal":87,
+        "Phone":"(62) 99609-9491",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.3143983,
+        "Longitude":-48.950319,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJJSiUNIPA4pQRpQ_swJfLWsk",
+        "Name":"Cia Latino Americana de Medicamentos",
+        "Address":"R. Teixeira Soares, 849 - Centro, Passo Fundo - RS, 99010-080, Brazil",
+        "Neighborhood":"849 - Centro",
+        "Street":"R. Teixeira Soares",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(54) 3313-8276",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2603025,
+        "Longitude":-52.4137502,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJexvPVyX1XpMR9QG9wwhv__g",
+        "Name":"Drogaria Promed",
+        "Address":"Av. Contorno, 739 - Jardim das Hortensias, Goiânia - GO, 74474-116, Brazil",
+        "Neighborhood":"739 - Jardim das Hortensias",
+        "Street":"Av. Contorno",
+        "City":"Goiânia - GO",
+        "Rating":4.2,
+        "UserRatingsTotal":41,
+        "Phone":"(62) 99495-0690",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6251886,
+        "Longitude":-49.334614,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ1W6iiFKXmQAR6cIGN56RsTw",
+        "Name":"Di Márcia Medicamentos",
+        "Address":"Av. Dr. Albino Imparato, 2969 - Jardim Catarina, São Gonçalo - RJ, 24716-455, Brazil",
+        "Neighborhood":"2969 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.7,
+        "UserRatingsTotal":17,
+        "Phone":"(21) 97950-1067",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7881746,
+        "Longitude":-43.0105192,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJwXzFapKQmQARe0uDXQSurQ4",
+        "Name":"Interativo Farmácia de Manipulação",
+        "Address":"Galeria da Escada Rolante - Rua Yolanda Saad Abuzaid, 51 - Loja - 213 - Alcantara, São Gonçalo - RJ, 24710-460, Brazil",
+        "Neighborhood":"51 - Loja - 213 - Alcantara",
+        "Street":"Galeria da Escada Rolante - Rua Yolanda Saad Abuzaid",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.5,
+        "UserRatingsTotal":48,
+        "Phone":"(21) 97585-6235",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8201523,
+        "Longitude":-43.0036591,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ____hzGGmQARlmHXFXu0gqI",
+        "Name":"Acquafarma",
+        "Address":"Av. Pres. Kennedy, 589 - Centro, São Gonçalo - RJ, 02445-000, Brazil",
+        "Neighborhood":"589 - Centro",
+        "Street":"Av. Pres. Kennedy",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.6,
+        "UserRatingsTotal":34,
+        "Phone":"(21) 2109-2323",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8215096,
+        "Longitude":-43.0429334,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJGTuMRlKRmQARuVnjwxWqWeM",
+        "Name":"Drogaria Falcão",
+        "Address":"Av. Dr. Albino Imparato, 2171 - LJ1 - Jardim Catarina, São Gonçalo - RJ, 24716-455, Brazil",
+        "Neighborhood":"2171 - LJ1 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(21) 2629-1000",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7951425,
+        "Longitude":-43.0067362,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ3UTA6Sr3XpMRsNgXf_bCQCE",
+        "Name":"DrogaRei - Jardim América",
+        "Address":"Praça C, 170 - qd 430 - lt 24 - Jardim América, Goiânia - GO, 74250-250, Brazil",
+        "Neighborhood":"170 - qd 430 - lt 24 - Jardim América",
+        "Street":"Praça C",
+        "City":"Goiânia - GO",
+        "Rating":4.6,
+        "UserRatingsTotal":26,
+        "Phone":"(62) 3224-0589",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7208864,
+        "Longitude":-49.2854929,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ44FpdcVdzpQR3j81n6XkfUQ",
+        "Name":"Farmalise",
+        "Address":"Vila Formosa, São Paulo - State of São Paulo, 03356-001, Brazil",
+        "Neighborhood":"São Paulo - State of São Paulo",
+        "Street":"Vila Formosa",
+        "City":"03356-001",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.566863,
+        "Longitude":-46.5441145,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ-yTN9J1NzpQRQuhqlnStOWc",
+        "Name":"Farmácia Jardim Capela | Farma Popular",
+        "Address":"Estrada do M'Boi Mirim, 9808 - Parque Universitario Espirita, São Paulo - SP, 04960-010, Brazil",
+        "Neighborhood":"9808 - Parque Universitario Espirita",
+        "Street":"Estrada do M'Boi Mirim",
+        "City":"São Paulo - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":22,
+        "Phone":"(11) 5517-0061",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.7283375,
+        "Longitude":-46.7863845,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJeQ-FYE5ZzpQRElB76YX0uEk",
+        "Name":"Farmácia Principio Ativo",
+        "Address":"R. Visc. de Inhomerim, 538 - Mooca, São Paulo - SP, 03120-000, Brazil",
+        "Neighborhood":"538 - Mooca",
+        "Street":"R. Visc. de Inhomerim",
+        "City":"São Paulo - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":29,
+        "Phone":"(11) 2603-7200",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5625884,
+        "Longitude":-46.5992113,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ9Yt33XGtvZQRVBoAR9P7MIE",
+        "Name":"AC Jurca Farmácia Me",
+        "Address":"Av. dos Estudantes, 2354 - Vila Aeroporto, São José do Rio Preto - SP, 15025-310, Brazil",
+        "Neighborhood":"2354 - Vila Aeroporto",
+        "Street":"Av. dos Estudantes",
+        "City":"São José do Rio Preto - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":1,
+        "Phone":"(17) 3212-9000",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.8100101,
+        "Longitude":-49.4008968,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJGTnVbC2XmQAR0lX4_DJUe7M",
+        "Name":"Drugstore More Health",
+        "Address":"R. Cristiano Figueiras, 44 - Qd. 138 - Jardim Catarina, São Gonçalo - RJ, 24210-205, Brazil",
+        "Neighborhood":"44 - Qd. 138 - Jardim Catarina",
+        "Street":"R. Cristiano Figueiras",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(21) 3715-3468",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7958268,
+        "Longitude":-42.9891827,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJV-8feELLA5URa9-yudpIiB8",
+        "Name":"Mais Viva Pharma - Farmácia de Manipulação",
+        "Address":"R. Venâncio Aires, 1545 - Centro, Santa Maria - RS, 97010-003, Brazil",
+        "Neighborhood":"1545 - Centro",
+        "Street":"R. Venâncio Aires",
+        "City":"Santa Maria - RS",
+        "Rating":4.9,
+        "UserRatingsTotal":58,
+        "Phone":"(55) 98109-0557",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.686557,
+        "Longitude":-53.8107818,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJyQrvp-qQmQARXc_Ou_sC3XI",
+        "Name":"Drogaria Vinicius",
+        "Address":"Loja - 01 - 02 - Av. Santa Catarina, 47 - Jardim Catarina, São Gonçalo - RJ, 24717-045, Brazil",
+        "Neighborhood":"47 - Jardim Catarina",
+        "Street":"Loja - 01 - 02 - Av. Santa Catarina",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.3,
+        "UserRatingsTotal":7,
+        "Phone":"(21) 2701-9213",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8131926,
+        "Longitude":-42.9994151,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJl8NvNXfA4pQRczO3DlLKQVQ",
+        "Name":"Drugstore More Economic S \/ A",
+        "Address":"Av. Brasil Leste, 3 - Centro, Passo Fundo - RS, 99025-001, Brazil",
+        "Neighborhood":"3 - Centro",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(51) 3511-1000",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2591162,
+        "Longitude":-52.4032015,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJc1kMmtWQmQARBZwBMzndXVs",
+        "Name":"Drogarias Top Popular",
+        "Address":"Av. Alzira Vargas, 130 - Santa Luzia, São Gonçalo - RJ, 24722-315, Brazil",
+        "Neighborhood":"130 - Santa Luzia",
+        "Street":"Av. Alzira Vargas",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":5,
+        "Phone":"(21) 3713-7222",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8030341,
+        "Longitude":-42.981456,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJWzsZ03xdzpQRy9wb4ynTkd8",
+        "Name":"Drogasil",
+        "Address":"Praça Canárias, 322A - Vila Formosa, São Paulo - SP, 03359-120, Brazil",
+        "Neighborhood":"322A - Vila Formosa",
+        "Street":"Praça Canárias",
+        "City":"São Paulo - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":30,
+        "Phone":"(11) 97513-5036",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5662368,
+        "Longitude":-46.5450057,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ202FF9BdzpQRSYO6CODnRvk",
+        "Name":"Drugstore Sao Paulo",
+        "Address":"Av. Dr. Eduardo Cotching, 1.625 - Vila Formosa, São Paulo - SP, 03356-001, Brazil",
+        "Neighborhood":"1.625 - Vila Formosa",
+        "Street":"Av. Dr. Eduardo Cotching",
+        "City":"São Paulo - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":61,
+        "Phone":"4003-3393",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5644541,
+        "Longitude":-46.5461955,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ37djX6ldzpQRMm6G6fo9tmw",
+        "Name":"Garden Farmácia de Manipulação",
+        "Address":"Av. do Oratório, 1981 - Parque São Lucas, São Paulo - SP, 03221-000, Brazil",
+        "Neighborhood":"1981 - Parque São Lucas",
+        "Street":"Av. do Oratório",
+        "City":"São Paulo - SP",
+        "Rating":3.5,
+        "UserRatingsTotal":16,
+        "Phone":"(11) 2216-5566",
+        "Types":"pharmacy, veterinary_care, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5913351,
+        "Longitude":-46.5499571,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJZ7jvB9-_4pQRHbAabq9wyR0",
+        "Name":"Centro de Distribuição Farmácia São João",
+        "Address":"Av. Perimetral Coronel Jarbas Quadros da Silva, 3701 - SÃO CRISTÓVÃO, Passo Fundo - RS, 99064-440, Brazil",
+        "Neighborhood":"3701 - SÃO CRISTÓVÃO",
+        "Street":"Av. Perimetral Coronel Jarbas Quadros da Silva",
+        "City":"Passo Fundo - RS",
+        "Rating":4.4,
+        "UserRatingsTotal":242,
+        "Phone":"(54) 3335-0100",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2674664,
+        "Longitude":-52.3626248,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJRSxsvVs7tpQRYU9jJ3Egcyw",
+        "Name":"Farmácia Jardim e Manipulação Caconde",
+        "Address":"Praça Ranieri Mazilli, 97 - Centro, Caconde - SP, 13770-000, Brazil",
+        "Neighborhood":"97 - Centro",
+        "Street":"Praça Ranieri Mazilli",
+        "City":"Caconde - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(19) 3662-1693",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-21.5303541,
+        "Longitude":-46.6448731,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJbWhqvnnA4pQR6z87-LxbJLU",
+        "Name":"Farmácia Preço Popular",
+        "Address":"Av. Brasil Oeste, 362 - Centro, Passo Fundo - RS, 99025-000, Brazil",
+        "Neighborhood":"362 - Centro",
+        "Street":"Av. Brasil Oeste",
+        "City":"Passo Fundo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":13,
+        "Phone":"(54) 3313-6641",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2613216,
+        "Longitude":-52.4078519,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJdYpIvGtdzpQRZt6smAJCHkA",
+        "Name":"Drogasil",
+        "Address":"Av. Dr. Eduardo Cotching, 1885 - Vila Formosa, São Paulo - SP, 03356-001, Brazil",
+        "Neighborhood":"1885 - Vila Formosa",
+        "Street":"Av. Dr. Eduardo Cotching",
+        "City":"São Paulo - SP",
+        "Rating":2.5,
+        "UserRatingsTotal":2,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5660824,
+        "Longitude":-46.5442021,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJY_U6mpKQmQARJjy8RHc1IYQ",
+        "Name":"Dose Medicinal",
+        "Address":"Trade Center Alcântara - Loja 220 - Rua Iolanda Saad Abuzaid, 150 - Alcantara, São Gonçalo - RJ, 24710-460, Brazil",
+        "Neighborhood":"150 - Alcantara",
+        "Street":"Trade Center Alcântara - Loja 220 - Rua Iolanda Saad Abuzaid",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.5,
+        "UserRatingsTotal":18,
+        "Phone":"(21) 2601-0657",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.820379,
+        "Longitude":-43.002406,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJe9RD3eddzpQRdtOeT03v1VU",
+        "Name":"Drogaria L. Callegari",
+        "Address":"R. Salomé Queiroga, 178 - Vila Formosa, São Paulo - SP, 03434-000, Brazil",
+        "Neighborhood":"178 - Vila Formosa",
+        "Street":"R. Salomé Queiroga",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(11) 2781-2450",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5605549,
+        "Longitude":-46.5342606,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJpZvyjJ1NzpQROiAQlyWJgqM",
+        "Name":"Drogaria Irifarma",
+        "Address":"Estrada do M'Boi Mirim, 9808 - Parque Universitario Espirita, São Paulo - SP, 04960-010, Brazil",
+        "Neighborhood":"9808 - Parque Universitario Espirita",
+        "Street":"Estrada do M'Boi Mirim",
+        "City":"São Paulo - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":3,
+        "Phone":"(11) 95719-8676",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.7283374,
+        "Longitude":-46.7863845,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJzXpyxILA4pQRhopMlojVIMs",
+        "Name":"Farmácia São João",
+        "Address":"R. Teixeira Soares, 879 - loja 01 - Centro, Passo Fundo - RS, 99010-081, Brazil",
+        "Neighborhood":"879 - loja 01 - Centro",
+        "Street":"R. Teixeira Soares",
+        "City":"Passo Fundo - RS",
+        "Rating":3.2,
+        "UserRatingsTotal":5,
+        "Phone":"(54) 99711-3171",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2605668,
+        "Longitude":-52.4135935,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJq6o9cAXnhpQRwGLnzIro2Qg",
+        "Name":"Farmácia Mais Saúde",
+        "Address":"Av. Júlio de Castilho, 3458 - Sala 01 - Vila Silvia Regina, Campo Grande - MS, 79103-000, Brazil",
+        "Neighborhood":"3458 - Sala 01 - Vila Silvia Regina",
+        "Street":"Av. Júlio de Castilho",
+        "City":"Campo Grande - MS",
+        "Rating":4.7,
+        "UserRatingsTotal":32,
+        "Phone":"(67) 3028-6990",
+        "Types":"pharmacy, clothing_store, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.4455982,
+        "Longitude":-54.6615309,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJRcUJ445ezpQRbYa2ipHgoOo",
+        "Name":"La Vita Farma - Farmácia de Manipulação no Tatuapé",
+        "Address":"R. Antônio Camardo, 701 - Vila Gomes Cardim, São Paulo - SP, 03309-060, Brazil",
+        "Neighborhood":"701 - Vila Gomes Cardim",
+        "Street":"R. Antônio Camardo",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":91,
+        "Phone":"(11) 94922-6745",
+        "Types":"veterinary_care, pharmacy, point_of_interest, food, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5487188,
+        "Longitude":-46.5612728,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ_6lKuJmRmQARh2hdj41Cl8U",
+        "Name":"Drogaria Genesis Farma | Farmácia Jardim Catarina",
+        "Address":"Av. Dr. Albino Imparato, 680 - Jardim Catarina, São Gonçalo - RJ, 24716-455, Brazil",
+        "Neighborhood":"680 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.9,
+        "UserRatingsTotal":16,
+        "Phone":"(21) 96871-1100",
+        "Types":"pharmacy, drugstore, meal_delivery, clothing_store, point_of_interest, food, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8043922,
+        "Longitude":-43.0016229,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJt-WjmZKQmQARYPbuQByaqLk",
+        "Name":"Acquafarma",
+        "Address":"R. Yolanda Saad Abuzaid, 150 slj 202 - Alcantara, São Gonçalo - RJ, 24710-405, Brazil",
+        "Neighborhood":"150 slj 202 - Alcantara",
+        "Street":"R. Yolanda Saad Abuzaid",
+        "City":"São Gonçalo - RJ",
+        "Rating":3.1,
+        "UserRatingsTotal":24,
+        "Phone":"(21) 2109-2323",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8213419,
+        "Longitude":-43.0014578,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJY4rHZEPLEZURmFZklVGcWRk",
+        "Name":"Farmacia Agafarma Jardim América",
+        "Address":"Av. JK de Oliveira, 42 - Jardim América, Capão do Leão - RS, 96160-000, Brazil",
+        "Neighborhood":"42 - Jardim América",
+        "Street":"Av. JK de Oliveira",
+        "City":"Capão do Leão - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":8,
+        "Phone":"(53) 3275-5186",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-31.7645503,
+        "Longitude":-52.43394,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJhzYOwXm_4pQR248cmSS7Y5M",
+        "Name":"Farmácia São João",
+        "Address":"Av. Pres. Vargas, 1020 - Vila Exposicao, Passo Fundo - RS, 99070-000, Brazil",
+        "Neighborhood":"1020 - Vila Exposicao",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":3.5,
+        "UserRatingsTotal":22,
+        "Phone":"(54) 99711-3035",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2680768,
+        "Longitude":-52.391233,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJlSkBUp71zpQRLCSk2Rv9qc8",
+        "Name":"Drogaria Pharmed Jardim Brasil",
+        "Address":"Av. Mendes da Rocha, 241 - Jardim Brasil, São Paulo - SP, 02227-000, Brazil",
+        "Neighborhood":"241 - Jardim Brasil",
+        "Street":"Av. Mendes da Rocha",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":5,
+        "Phone":"(11) 95232-5157",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.4846398,
+        "Longitude":-46.5697191,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJjT6xnOpezpQRxFTl-3iVuSo",
+        "Name":"Manifarma Tatuapé - Farmácia de Manipulação",
+        "Address":"Praça Cel. Sandoval de Figueiredo, 56 - Vila Azevedo, São Paulo - SP, 03308-040, Brazil",
+        "Neighborhood":"56 - Vila Azevedo",
+        "Street":"Praça Cel. Sandoval de Figueiredo",
+        "City":"São Paulo - SP",
+        "Rating":2.9,
+        "UserRatingsTotal":19,
+        "Phone":"(11) 2225-2205",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5417925,
+        "Longitude":-46.5739316,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ05I9jZGjXpMRUAIyUmAGI98",
+        "Name":"Drugstore New Covenant",
+        "Address":"Praça Lemos - Jardim Petropolis, Anápolis - GO, 75144-090, Brazil",
+        "Neighborhood":"Anápolis - GO",
+        "Street":"Praça Lemos - Jardim Petropolis",
+        "City":"75144-090",
+        "Rating":4.6,
+        "UserRatingsTotal":7,
+        "Phone":"(62) 3388-3041",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.3255154,
+        "Longitude":-48.97195,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJqa_842O_4pQRcV3P147TiHI",
+        "Name":"Medcall",
+        "Address":"R. Morom, 2874 - Boqueirão, Passo Fundo - RS, 99010-035, Brazil",
+        "Neighborhood":"2874 - Boqueirão",
+        "Street":"R. Morom",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":193,
+        "Phone":"(54) 2103-2103",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2677281,
+        "Longitude":-52.4183851,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJX1zoXbiQmQARiMx-p9X7q9s",
+        "Name":"ChicFarma",
+        "Address":"Av. Dr. Albino Imparato, 866 - Jardim Catarina, São Gonçalo - RJ, 24716-452, Brazil",
+        "Neighborhood":"866 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.1,
+        "UserRatingsTotal":48,
+        "Phone":"(21) 2724-5274",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8049343,
+        "Longitude":-43.0013361,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJo6pjFX2_4pQRbg6NfSiXh8I",
+        "Name":"Farmácia São João",
+        "Address":"Av. brasil oeste - esq - R. Marcelino Ramos, 961 - Boqueirão, Passo Fundo - RS, 99025-002, Brazil",
+        "Neighborhood":"961 - Boqueirão",
+        "Street":"Av. brasil oeste - esq - R. Marcelino Ramos",
+        "City":"Passo Fundo - RS",
+        "Rating":4.2,
+        "UserRatingsTotal":11,
+        "Phone":"(54) 99711-2839",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2634211,
+        "Longitude":-52.4133342,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJH0TDOf-RmQARZw3dUgWXyKc",
+        "Name":"Drogaria Avanço",
+        "Address":"Av. Dr. Albino Imparato, 1115 - Jardim Catarina, São Gonçalo - RJ, 24716-455, Brazil",
+        "Neighborhood":"1115 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(21) 97055-5560",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8031809,
+        "Longitude":-43.0024693,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJV9vLYVa3yJQRs0qJApRvlcM",
+        "Name":"Dr Pharma 2",
+        "Address":"Av. Ruy Rodriguez, 4624 - Parque Universitario de Viracopos, Campinas - SP, 13056-640, Brazil",
+        "Neighborhood":"4624 - Parque Universitario de Viracopos",
+        "Street":"Av. Ruy Rodriguez",
+        "City":"Campinas - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":3,
+        "Phone":"(19) 3266-6716",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9673774,
+        "Longitude":-47.1430467,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ0-e6I6LJeZMRnHpyKm2vM8k",
+        "Name":"Daniel Farma - Farmácia",
+        "Address":"R. Papagaio, 3808 - Jardim Tancredo Neves, Rondonópolis - MT, 78750-785, Brazil",
+        "Neighborhood":"3808 - Jardim Tancredo Neves",
+        "Street":"R. Papagaio",
+        "City":"Rondonópolis - MT",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(66) 99984-3444",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.4507422,
+        "Longitude":-54.6688826,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJRf8QhoHA4pQR9znHX-C0bSg",
+        "Name":"Dimed S\/A Distribuidora de Medicamentos",
+        "Address":"R. Uruguai, 1620 - Centro, Passo Fundo - RS, 99010-110, Brazil",
+        "Neighborhood":"1620 - Centro",
+        "Street":"R. Uruguai",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(54) 3312-7838",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2608818,
+        "Longitude":-52.4130301,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJYeLN33LA4pQRDighrp4_9Ik",
+        "Name":"Sindicato do Comércio Varejista de Farmacias, Drog",
+        "Address":"Av. Brasil Leste, 606 - Petrópolis, Passo Fundo - RS, 99050-144, Brazil",
+        "Neighborhood":"606 - Petrópolis",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2471594,
+        "Longitude":-52.3872076,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJDdR9ZoddzpQRIk9tge7id-o",
+        "Name":"DROGARIA SÃO PAULO",
+        "Address":"Av. Inconfidência Mineira, 941 - Vila rica, São Paulo - SP, 03911-000, Brazil",
+        "Neighborhood":"941 - Vila rica",
+        "Street":"Av. Inconfidência Mineira",
+        "City":"São Paulo - SP",
+        "Rating":2.8,
+        "UserRatingsTotal":122,
+        "Phone":"(11) 95579-9569",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5773001,
+        "Longitude":-46.5168488,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJS2bp6LD2XpMRmt5DGBXWVsI",
+        "Name":"Drogaria Santa Lúcia",
+        "Address":"WhatsApp 619656 - 4650__Av - Av. C-4, 429 - quadra 23 lote 01 - Jardim América, Goiânia - GO, 74265-040, Brazil",
+        "Neighborhood":"429 - quadra 23 lote 01 - Jardim América",
+        "Street":"WhatsApp 619656 - 4650__Av - Av. C-4",
+        "City":"Goiânia - GO",
+        "Rating":3.6,
+        "UserRatingsTotal":29,
+        "Phone":"(62) 3251-0039",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6963213,
+        "Longitude":-49.2864202,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJURf0pqGdGZURko4gHEwdNnU",
+        "Name":"Borel Do Verde",
+        "Address":"R. Neida Maciel, 213-253 - Jardim Universitario, Viamão - RS, 94500-050, Brazil",
+        "Neighborhood":"213-253 - Jardim Universitario",
+        "Street":"R. Neida Maciel",
+        "City":"Viamão - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.067874,
+        "Longitude":-51.1091744,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ7bqxWn9ezpQReXKjIt0Vc00",
+        "Name":"Nova Ultra Leste",
+        "Address":"R. Curupá, 115 - Vila Formosa, São Paulo - SP, 03355-010, Brazil",
+        "Neighborhood":"115 - Vila Formosa",
+        "Street":"R. Curupá",
+        "City":"São Paulo - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":3,
+        "Phone":"(11) 2673-9499",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5566721,
+        "Longitude":-46.5506145,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJEU77n6-XpgARx4OPv9jO2rI",
+        "Name":"Drogaria Jardim América",
+        "Address":"R. Lindolfo de Azevedo, 1468 - Jardim America, Belo Horizonte - MG, 30460-050, Brazil",
+        "Neighborhood":"1468 - Jardim America",
+        "Street":"R. Lindolfo de Azevedo",
+        "City":"Belo Horizonte - MG",
+        "Rating":4.4,
+        "UserRatingsTotal":36,
+        "Phone":"3373-4043",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-19.945244,
+        "Longitude":-43.9730869,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJQ36b-31dzpQRHKA-VRs8R9M",
+        "Name":"Pet Shop Municipal da Vila Formosa - Tudo para o seu Pet: Farmácia Veterinária, Ração e Acessórios",
+        "Address":"dentro do Mercado Municipal da - Praça Canárias, s\/nº - box 13 - Vila Formosa, São Paulo - SP, 03359-120, Brazil",
+        "Neighborhood":"s\/nº - box 13 - Vila Formosa",
+        "Street":"dentro do Mercado Municipal da - Praça Canárias",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":30,
+        "Phone":"(11) 2674-1274",
+        "Types":"pharmacy, veterinary_care, pet_store, food, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5657188,
+        "Longitude":-46.5450909,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJM5yb4X-_4pQRTI8oGLXN4zY",
+        "Name":"Farmácia Melhor Preço",
+        "Address":"Whatsapp 53 - 997008958__Av. Brasil Leste, 29 - Centro, Passo Fundo - RS, 99010-001, Brazil",
+        "Neighborhood":"29 - Centro",
+        "Street":"Whatsapp 53 - 997008958__Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":4.3,
+        "UserRatingsTotal":9,
+        "Phone":"(54) 3045-4414",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2531337,
+        "Longitude":-52.3958157,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJCVcGJYLA4pQR8KLGE7LXodM",
+        "Name":"Medcall",
+        "Address":"R. Uruguai, 1717 - Centro, Passo Fundo - RS, 99010-111, Brazil",
+        "Neighborhood":"1717 - Centro",
+        "Street":"R. Uruguai",
+        "City":"Passo Fundo - RS",
+        "Rating":4.6,
+        "UserRatingsTotal":19,
+        "Phone":"(54) 2103-2103",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2609795,
+        "Longitude":-52.413887,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJrUff5rOQmQARn4s2alDZq_E",
+        "Name":"Drogaria Moreira",
+        "Address":"Jardim Catarina, São Gonçalo - State of Rio de Janeiro, 24717-440, Brazil",
+        "Neighborhood":"São Gonçalo - State of Rio de Janeiro",
+        "Street":"Jardim Catarina",
+        "City":"24717-440",
+        "Rating":4.7,
+        "UserRatingsTotal":3,
+        "Phone":"(21) 3606-6557",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7961753,
+        "Longitude":-43.0058532,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJi4oNal_xXpMRMCL-DDcb1Q0",
+        "Name":"Drogaria Carvalho",
+        "Address":"Praça C-207 - Praça Santos - Av. C-205, 298 - Jardim América, Goiânia - GO, 74270-050, Brazil",
+        "Neighborhood":"298 - Jardim América",
+        "Street":"Praça C-207 - Praça Santos - Av. C-205",
+        "City":"Goiânia - GO",
+        "Rating":4.7,
+        "UserRatingsTotal":18,
+        "Phone":"(62) 3251-5307",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7031715,
+        "Longitude":-49.2860296,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJVR_FRAg_tZQRS6WnNLVkFiU",
+        "Name":"Drogaria BOMPREÇO - Jd América",
+        "Address":"R. Paraguai, 235 - Jardim América, Campo Belo - MG, 37270-000, Brazil",
+        "Neighborhood":"235 - Jardim América",
+        "Street":"R. Paraguai",
+        "City":"Campo Belo - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(35) 3832-4951",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.9031509,
+        "Longitude":-45.2600117,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ8-p0PxlfzpQRm0EP8Ajnspg",
+        "Name":"Drogaleste",
+        "Address":"Av. Dr. Eduardo Cotching, 1175 - Vila Formosa, São Paulo - SP, 03356-000, Brazil",
+        "Neighborhood":"1175 - Vila Formosa",
+        "Street":"Av. Dr. Eduardo Cotching",
+        "City":"São Paulo - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":93,
+        "Phone":"(11) 91309-4385",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5626671,
+        "Longitude":-46.5499937,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJwXXOO5hdzpQRi1XqFJ0DRaU",
+        "Name":"Drogaria Molina",
+        "Address":"Av. Antônio Buono, 266 - Vila Guarani(Zona Leste), São Paulo - SP, 03382-000, Brazil",
+        "Neighborhood":"266 - Vila Guarani(Zona Leste)",
+        "Street":"Av. Antônio Buono",
+        "City":"São Paulo - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":2,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.580901,
+        "Longitude":-46.5338229,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJH7aCwODDpgARXFbVxjbTSlY",
+        "Name":"Drogaria Metropolitana",
+        "Address":"Av. Quinze de Novembro, 368 - Jardim Petropolis, Betim - MG, 32655-122, Brazil",
+        "Neighborhood":"368 - Jardim Petropolis",
+        "Street":"Av. Quinze de Novembro",
+        "City":"Betim - MG",
+        "Rating":4.6,
+        "UserRatingsTotal":27,
+        "Phone":"(31) 3593-1519",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-19.9696054,
+        "Longitude":-44.1757523,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJxZ27ayCRmQARpEVxgQxjGas",
+        "Name":"Drogaria Falcão",
+        "Address":"R. Itororó, 504 - Jardim Catarina, São Gonçalo - RJ, 24715-221, Brazil",
+        "Neighborhood":"504 - Jardim Catarina",
+        "Street":"R. Itororó",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(21) 3606-0132",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8037939,
+        "Longitude":-42.9969422,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJlf1rILec4pQRVGKMLv9MNCE",
+        "Name":"Cervi Manipulação e Homeopatia",
+        "Address":"Av. Julio Borella, 777 - Sala 101 - Centro, Marau - RS, 99150-000, Brazil",
+        "Neighborhood":"777 - Sala 101 - Centro",
+        "Street":"Av. Julio Borella",
+        "City":"Marau - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":4,
+        "Phone":"(54) 3342-1759",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.4482629,
+        "Longitude":-52.1997197,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ7xmrkY2QmQARDdCXyfG2Py4",
+        "Name":"Pharmactive",
+        "Address":"R. João Caetano, 185 - 108 - Alcantara, São Gonçalo - RJ, 24710-405, Brazil",
+        "Neighborhood":"185 - 108 - Alcantara",
+        "Street":"R. João Caetano",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.6,
+        "UserRatingsTotal":5,
+        "Phone":"(21) 2701-1274",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.821801,
+        "Longitude":-43.002849,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ12nrhRv0XpMRPyxmiKH21gM",
+        "Name":"Drogaria Milano",
+        "Address":"Av. Nazareno Roriz, 837 - St. Castelo Branco, Goiânia - GO, 74405-010, Brazil",
+        "Neighborhood":"837 - St. Castelo Branco",
+        "Street":"Av. Nazareno Roriz",
+        "City":"Goiânia - GO",
+        "Rating":4.2,
+        "UserRatingsTotal":185,
+        "Phone":"(62) 3121-4000",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6804091,
+        "Longitude":-49.2990331,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJDfSMxKG_4pQRBX6Kj0ehn7w",
+        "Name":"Remex",
+        "Address":"R. Teixeira Soares, 1785 - Centro, Passo Fundo - RS, 99010-081, Brazil",
+        "Neighborhood":"1785 - Centro",
+        "Street":"R. Teixeira Soares",
+        "City":"Passo Fundo - RS",
+        "Rating":4.3,
+        "UserRatingsTotal":9,
+        "Phone":"(54) 3045-7075",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2607805,
+        "Longitude":-52.4134073,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJGY8qqPqamQARmj-4oK2F9JA",
+        "Name":"Stellar Manipulation Pharmacy",
+        "Address":"R. Salvatori, 35 - Loja 1 - Centro, São Gonçalo - RJ, 24421-005, Brazil",
+        "Neighborhood":"35 - Loja 1 - Centro",
+        "Street":"R. Salvatori",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.0,
+        "UserRatingsTotal":15,
+        "Phone":"(21) 2605-3972",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8251628,
+        "Longitude":-43.0482957,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJb6HfifXB4pQR-ehgHJdwtAc",
+        "Name":"Farmácia São João - Stok Petrópolis",
+        "Address":"Av. Brasil Leste, 2333. loja 201,202 e 203 - Av. Brasil Leste, 2333 - Petrópolis, Passo Fundo - RS, 99050-073, Brazil",
+        "Neighborhood":"2333. loja 201",
+        "Street":"Av. Brasil Leste",
+        "City":"202 e 203 - Av. Brasil Leste",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(54) 3198-0062",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2401376,
+        "Longitude":-52.3766557,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJG60erxybmQAR1RwMoaq3N8U",
+        "Name":"Balaio de Gato Farmácia e Produtos Veterinários",
+        "Address":"R. Abílio José de Mattos, 135 - Porto da Pedra, São Gonçalo - RJ, 24436-000, Brazil",
+        "Neighborhood":"135 - Porto da Pedra",
+        "Street":"R. Abílio José de Mattos",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.0,
+        "UserRatingsTotal":1,
+        "Phone":"(21) 2606-5544",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8255106,
+        "Longitude":-43.0601527,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJtdJywPW1yJQRj9EVXD7KJy4",
+        "Name":"Drogasil",
+        "Address":"RODOVIA SANTOS DUMONT KM 66, Km 66 s\/n - Parque Universitario de Viracopos, Campinas - SP, 13052-901, Brazil",
+        "Neighborhood":"Km 66 s\/n - Parque Universitario de Viracopos",
+        "Street":"RODOVIA SANTOS DUMONT KM 66",
+        "City":"Campinas - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":37,
+        "Phone":"(19) 99604-9109",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.009917,
+        "Longitude":-47.1411397,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJgUhDk5KQmQARfgNVUePhALg",
+        "Name":"Estelar",
+        "Address":"Trade Center - Rua Yolanda Saad Abuzaid, 150 - Loja 205 - Alcantara, São Gonçalo - RJ, 24710-460, Brazil",
+        "Neighborhood":"150 - Loja 205 - Alcantara",
+        "Street":"Trade Center - Rua Yolanda Saad Abuzaid",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.2,
+        "UserRatingsTotal":17,
+        "Phone":"(21) 2614-3083",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8212341,
+        "Longitude":-43.0014316,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQdsmwo1dzpQRikGc2aNm0wE",
+        "Name":"Manipulação Renata",
+        "Address":"R. Jerônimo Coelho - Jardim Vila Formosa, São Paulo - SP, 03470-040, Brazil",
+        "Neighborhood":"São Paulo - SP",
+        "Street":"R. Jerônimo Coelho - Jardim Vila Formosa",
+        "City":"03470-040",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(11) 97465-4502",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5683129,
+        "Longitude":-46.5227628,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJZXayjeVezpQRACK4nKRdz0k",
+        "Name":"QPharma",
+        "Address":"R. Dr. Ernesto Mariano, 34A - Tatuapé, São Paulo - SP, 03068-020, Brazil",
+        "Neighborhood":"34A - Tatuapé",
+        "Street":"R. Dr. Ernesto Mariano",
+        "City":"São Paulo - SP",
+        "Rating":4.8,
+        "UserRatingsTotal":29,
+        "Phone":"(11) 2157-1438",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5357114,
+        "Longitude":-46.5697608,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJNyPZSUDLEZURCiqT_jXGitY",
+        "Name":"Farmácia Farmadim Rede Sanar",
+        "Address":"R. Pedro Silveira Lopes, 430 - Jardim América, Capão do Leão - RS, 96160-000, Brazil",
+        "Neighborhood":"430 - Jardim América",
+        "Street":"R. Pedro Silveira Lopes",
+        "City":"Capão do Leão - RS",
+        "Rating":4.1,
+        "UserRatingsTotal":18,
+        "Phone":"(53) 3275-6254",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-31.7655181,
+        "Longitude":-52.4277624,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJdzU61Azk3JQRtQAAgzM_90o",
+        "Name":"Bio Medic Pharmacy Manipulation",
+        "Address":"Alameda Cabral, 60 - Centro, Curitiba - PR, 80410-210, Brazil",
+        "Neighborhood":"60 - Centro",
+        "Street":"Alameda Cabral",
+        "City":"Curitiba - PR",
+        "Rating":4.3,
+        "UserRatingsTotal":15,
+        "Phone":"(41) 3014-5765",
+        "Types":"veterinary_care, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.4322393,
+        "Longitude":-49.2767053,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJfWdgwTuRmQAR6k0FxzkLJ9s",
+        "Name":"Farmácia Barato",
+        "Address":"Jardim Catarina, São Gonçalo - State of Rio de Janeiro, 24715-431, Brazil",
+        "Neighborhood":"São Gonçalo - State of Rio de Janeiro",
+        "Street":"Jardim Catarina",
+        "City":"24715-431",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7994118,
+        "Longitude":-42.9990442,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJwwEA4Mz2XpMRW34E9XsVjUY",
+        "Name":"Drogaria T9 l Farmácia e Perfumaria em Goiânia",
+        "Address":"Av. T-9, N° 2804 - Qd 261, Lt 9E - Jardim América, Goiânia - GO, 74255-220, Brazil",
+        "Neighborhood":"N° 2804 - Qd 261",
+        "Street":"Av. T-9",
+        "City":"Lt 9E - Jardim América",
+        "Rating":5.0,
+        "UserRatingsTotal":14,
+        "Phone":"(62) 3286-8888",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7085031,
+        "Longitude":-49.2870079,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJnejr14LA4pQRAXxhhPlxK_4",
+        "Name":"Colúmbia Farmácia",
+        "Address":"R. Teixeira Soares, 839 - Centro, Passo Fundo - RS, 99010-080, Brazil",
+        "Neighborhood":"839 - Centro",
+        "Street":"R. Teixeira Soares",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(54) 3311-8085",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2602233,
+        "Longitude":-52.4137924,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJVbvl9mGamQARHu8S2l9QIXg",
+        "Name":"Interativo Farmacia de Manipulação",
+        "Address":"Rua Dr Nilo Peçanha 56 loja 48 - Centro, São Gonçalo - RJ, 24445-360, Brazil",
+        "Neighborhood":"São Gonçalo - RJ",
+        "Street":"Rua Dr Nilo Peçanha 56 loja 48 - Centro",
+        "City":"24445-360",
+        "Rating":4.6,
+        "UserRatingsTotal":32,
+        "Phone":"(21) 97585-6235",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.81982,
+        "Longitude":-43.034264,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJfx07-MaQmQAR178ZMQ-0klQ",
+        "Name":"Bella farma perfumaria e farmacia",
+        "Address":"R. Pedro Ferreira, 103 - lt 05 quadra loja 01 - Jardim Catarina, São Gonçalo - RJ, 24715-381, Brazil",
+        "Neighborhood":"103 - lt 05 quadra loja 01 - Jardim Catarina",
+        "Street":"R. Pedro Ferreira",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(21) 97998-7222",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8066762,
+        "Longitude":-42.9971276,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJH-i9FX2_4pQRPJ-VT012gkU",
+        "Name":"Farmácia São João Matriz",
+        "Address":"Av. Brasil Oeste, 665 - Centro, Passo Fundo - RS, 99025-001, Brazil",
+        "Neighborhood":"665 - Centro",
+        "Street":"Av. Brasil Oeste",
+        "City":"Passo Fundo - RS",
+        "Rating":3.7,
+        "UserRatingsTotal":60,
+        "Phone":"(54) 3317-7070",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2621529,
+        "Longitude":-52.410533,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJV8Bd9wHV85QRFTChZ691sy8",
+        "Name":"Farmácia Mini Preço - Jardim Universitário",
+        "Address":"R. Medicina, 1257 - Universitário, Cascavel - PR, 85819-120, Brazil",
+        "Neighborhood":"1257 - Universitário",
+        "Street":"R. Medicina",
+        "City":"Cascavel - PR",
+        "Rating":2.3,
+        "UserRatingsTotal":3,
+        "Phone":"(45) 3306-4656",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-24.987838,
+        "Longitude":-53.4432017,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ76gbCgZ5GZURGnU_1Ay3WSo",
+        "Name":"Pharmacy Van Der Laan",
+        "Address":"R. Riachuelo, 1506 - Centro Histórico, Porto Alegre - RS, 90010-272, Brazil",
+        "Neighborhood":"1506 - Centro Histórico",
+        "Street":"R. Riachuelo",
+        "City":"Porto Alegre - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":44,
+        "Phone":"(51) 3221-5760",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0315103,
+        "Longitude":-51.2263495,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ3yL1oX5dzpQRaTBpvtYrP0k",
+        "Name":"VIP FARMA",
+        "Address":"R. Arapaçu, 90 - Vila Formosa, São Paulo - SP, 03358-000, Brazil",
+        "Neighborhood":"90 - Vila Formosa",
+        "Street":"R. Arapaçu",
+        "City":"São Paulo - SP",
+        "Rating":4.9,
+        "UserRatingsTotal":404,
+        "Phone":"(11) 3164-4607",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5639879,
+        "Longitude":-46.5498758,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJGUCWaKC25JQRYwaSf-OlLIM",
+        "Name":"Farmácia de Manipulação Matéria Prima",
+        "Address":"Av. Fernando Machado, 119 - Centro, Chapecó - SC, 89802-110, Brazil",
+        "Neighborhood":"119 - Centro",
+        "Street":"Av. Fernando Machado",
+        "City":"Chapecó - SC",
+        "Rating":4.6,
+        "UserRatingsTotal":43,
+        "Phone":"(49) 3323-1223",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-27.104162,
+        "Longitude":-52.616685,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJm5BLZ5nJeZMR74SMeQAkUls",
+        "Name":"Ultra Popular",
+        "Address":"Av. Arapongas, 1261 - Parque Res. Universitario, Rondonópolis - MT, 78750-215, Brazil",
+        "Neighborhood":"1261 - Parque Res. Universitario",
+        "Street":"Av. Arapongas",
+        "City":"Rondonópolis - MT",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"N\/A",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.461205,
+        "Longitude":-54.673578,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJBf_H85KQmQAR4oy_XtLkNKE",
+        "Name":"Nutrifarma",
+        "Address":"Rua Yolanda Saad Abuzaid, 51 - Alcantara, São Gonçalo - RJ, 24710-460, Brazil",
+        "Neighborhood":"51 - Alcantara",
+        "Street":"Rua Yolanda Saad Abuzaid",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":6,
+        "Phone":"(21) 2601-7393",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8203539,
+        "Longitude":-43.002066,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ3_yQmpNezpQR7KBI57FUeOo",
+        "Name":"Millenium",
+        "Address":"R. Serra de Japi, 960 - Tatuapé, São Paulo - SP, 03309-000, Brazil",
+        "Neighborhood":"960 - Tatuapé",
+        "Street":"R. Serra de Japi",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":38,
+        "Phone":"(11) 2296-1277",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5477855,
+        "Longitude":-46.5685539,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJsV2bBHC_4pQRsg4Zg5prrXo",
+        "Name":"Droga Raia",
+        "Address":"R. Morom, 1365 - Centro, Passo Fundo - RS, 90010-282, Brazil",
+        "Neighborhood":"1365 - Centro",
+        "Street":"R. Morom",
+        "City":"Passo Fundo - RS",
+        "Rating":4.1,
+        "UserRatingsTotal":35,
+        "Phone":"(54) 99704-5652",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2610034,
+        "Longitude":-52.4048866,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJiSfh7xB5GZURoUIcduwRlQk",
+        "Name":"Panvel Farmácias",
+        "Address":"R. dos Andradas, 914 - Centro Histórico, Porto Alegre - RS, 90020-006, Brazil",
+        "Neighborhood":"914 - Centro Histórico",
+        "Street":"R. dos Andradas",
+        "City":"Porto Alegre - RS",
+        "Rating":3.6,
+        "UserRatingsTotal":45,
+        "Phone":"(51) 3218-9000",
+        "Types":"pharmacy, drugstore, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0306278,
+        "Longitude":-51.2325814,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJebV6IHKtvZQRpqoKCzPIR9A",
+        "Name":"Multidrogas Lina Farmácia Noturna",
+        "Address":"Av. dos Estudantes, 2338 - Vila Aeroporto, São José do Rio Preto - SP, 15025-310, Brazil",
+        "Neighborhood":"2338 - Vila Aeroporto",
+        "Street":"Av. dos Estudantes",
+        "City":"São José do Rio Preto - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":9,
+        "Phone":"(17) 3121-9555",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.8098162,
+        "Longitude":-49.3961246,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJSVKr4JJezpQRN86jhq7Q6RM",
+        "Name":"Pharma Acácia",
+        "Address":"R. Itapura, 722 - Vila Gomes Cardim, São Paulo - SP, 03310-000, Brazil",
+        "Neighborhood":"722 - Vila Gomes Cardim",
+        "Street":"R. Itapura",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":89,
+        "Phone":"(11) 2291-6666",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5449865,
+        "Longitude":-46.5666715,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJU1kwDc-8HpURcLrlcuBeEQ8",
+        "Name":"Farmácia Suprema - Manipulação e Drogaria",
+        "Address":"R. Ver. Mario Pezzi, 771 - Sala B - via whatsapp, 55 - 99702,6572 - Exposição, Caxias do Sul - RS, 95084-180, Brazil",
+        "Neighborhood":"771 - Sala B - via whatsapp",
+        "Street":"R. Ver. Mario Pezzi",
+        "City":"55 - 99702",
+        "Rating":4.5,
+        "UserRatingsTotal":69,
+        "Phone":"(54) 3538-6705",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.1679761,
+        "Longitude":-51.1706916,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJOaHPC5VdzpQRgDJM6WcQ1R8",
+        "Name":"Fórmula Homeopatia",
+        "Address":"Av. João XXIII, 665 - Vila Formosa, São Paulo - SP, 03367-001, Brazil",
+        "Neighborhood":"665 - Vila Formosa",
+        "Street":"Av. João XXIII",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":56,
+        "Phone":"(11) 2100-1240",
+        "Types":"drugstore, pharmacy, food, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.572587,
+        "Longitude":-46.5341633,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ72LurK1ezpQR5s0o_U5WgB0",
+        "Name":"Paulista Center | Laboratory",
+        "Address":"R. do Oratório, 1352 - Alto da Mooca, São Paulo - SP, 03116-000, Brazil",
+        "Neighborhood":"1352 - Alto da Mooca",
+        "Street":"R. do Oratório",
+        "City":"São Paulo - SP",
+        "Rating":3.4,
+        "UserRatingsTotal":185,
+        "Phone":"(11) 2602-3633",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.563926,
+        "Longitude":-46.5907069,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJTWFpOn6RmQARWfPBs3t3eQc",
+        "Name":"M2M Farmácia de Manipulação",
+        "Address":"Rua Yolanda Saad Abuzaid, 150 - Lojas 111 e 217 - Alcantara, São Gonçalo - RJ, 24710-460, Brazil",
+        "Neighborhood":"150 - Lojas 111 e 217 - Alcantara",
+        "Street":"Rua Yolanda Saad Abuzaid",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":1121,
+        "Phone":"(21) 99963-4776",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8213717,
+        "Longitude":-43.0015172,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJyU7CCcRdzpQRmTOQzowEAmI",
+        "Name":"FARMA e CIA",
+        "Address":"Praça Dr. Sampaio Vidal, 140 - Vila Formosa, São Paulo - SP, 03356-060, Brazil",
+        "Neighborhood":"140 - Vila Formosa",
+        "Street":"Praça Dr. Sampaio Vidal",
+        "City":"São Paulo - SP",
+        "Rating":3.1,
+        "UserRatingsTotal":31,
+        "Phone":"(11) 3892-9686",
+        "Types":"drugstore, pharmacy, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5684073,
+        "Longitude":-46.5408609,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ0ckEjJ1NzpQRtdHhn_GescA",
+        "Name":"drogaria jangadeiro 3",
+        "Address":"M'Boi - Estrada do M'Boi Mirim, 9808 - Parque Universitario Espirita, São Paulo - SP, 04960-010, Brazil",
+        "Neighborhood":"9808 - Parque Universitario Espirita",
+        "Street":"M'Boi - Estrada do M'Boi Mirim",
+        "City":"São Paulo - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":3,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.7283374,
+        "Longitude":-46.7863845,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJYdNfUS_2zpQRHYEkYiGstos",
+        "Name":"Pharmapenha Farmácia de Manipulação",
+        "Address":"Praça Nossa Sra. da Penha, 95 - Penha de França, São Paulo - SP, 03632-010, Brazil",
+        "Neighborhood":"95 - Penha de França",
+        "Street":"Praça Nossa Sra. da Penha",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":234,
+        "Phone":"(11) 2295-7158",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.526496,
+        "Longitude":-46.5501908,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJlRSDMZ5NzpQRGdb8f6Vw1-g",
+        "Name":"Drogaria farma vera",
+        "Address":"Av. dos Funcionários Públicos, 13 - Vila do Sol, São Paulo - SP, 04962-000, Brazil",
+        "Neighborhood":"13 - Vila do Sol",
+        "Street":"Av. dos Funcionários Públicos",
+        "City":"São Paulo - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":9,
+        "Phone":"(11) 98398-0845",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.731315,
+        "Longitude":-46.785833,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJdxVOKwwnz5QRvuL1pPNApyY",
+        "Name":"Drogaria Portal Das Palmeiras - Farmácia Jundiaí",
+        "Address":"No centro comercial portal das Palmeiras - Ao lado da faculdade UNIP - Av. Antônio Frederico Ozanan, 9300 - loja 10 - Jardim Shangai, Jundiaí - SP, 13214-206, Brazil",
+        "Neighborhood":"9300 - loja 10 - Jardim Shangai",
+        "Street":"No centro comercial portal das Palmeiras - Ao lado da faculdade UNIP - Av. Antônio Frederico Ozanan",
+        "City":"Jundiaí - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":15,
+        "Phone":"(11) 95600-2384",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.1659628,
+        "Longitude":-46.9237701,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJgVXL5I6LxZQRRhchS8c9Pe8",
+        "Name":"Farmamed Dom Aguirre",
+        "Address":"Av. Juvenal de Campos, 550 - Jardim Faculdade, Sorocaba - SP, 18030-280, Brazil",
+        "Neighborhood":"550 - Jardim Faculdade",
+        "Street":"Av. Juvenal de Campos",
+        "City":"Sorocaba - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(15) 99822-4247",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5133504,
+        "Longitude":-47.452307,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJB1NgNbzLA5URhl2GuvCy3K0",
+        "Name":"Dermapelle Farmácia de Manipulação",
+        "Address":"Calçadão Salvador Isaia - Centro, Santa Maria - RS, 97015-004, Brazil",
+        "Neighborhood":"Santa Maria - RS",
+        "Street":"Calçadão Salvador Isaia - Centro",
+        "City":"97015-004",
+        "Rating":4.7,
+        "UserRatingsTotal":37,
+        "Phone":"(55) 3025-3725",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.6865957,
+        "Longitude":-53.8088563,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ-dGr7Hrk3JQRqGC1D0Oc6RE",
+        "Name":"Dermo Manipulações | Farmácia de Manipulação em Curitiba",
+        "Address":"R. Brg. Franco, 2641 - Centro, Curitiba - PR, 80250-030, Brazil",
+        "Neighborhood":"2641 - Centro",
+        "Street":"R. Brg. Franco",
+        "City":"Curitiba - PR",
+        "Rating":4.3,
+        "UserRatingsTotal":48,
+        "Phone":"(41) 98770-6515",
+        "Types":"drugstore, pharmacy, food, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.4433223,
+        "Longitude":-49.2753707,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJLU25h69DGZURJZhbr8BeMjM",
+        "Name":"Receita Certa Farmácia de Manipulação Ltda",
+        "Address":"R. Joaquim Nabuco, 856 - 2°andar - Centro, Novo Hamburgo - RS, 93310-002, Brazil",
+        "Neighborhood":"856 - 2°andar - Centro",
+        "Street":"R. Joaquim Nabuco",
+        "City":"Novo Hamburgo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":22,
+        "Phone":"(51) 3556-3652",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.68335,
+        "Longitude":-51.128966,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJxwo2wJGKxZQRahNhPDGRPMo",
+        "Name":"AVIVA PHARMA",
+        "Address":"R. Cel. José Pedro de Oliveira, 327 - Jardim Faculdade, Sorocaba - SP, 18030-220, Brazil",
+        "Neighborhood":"327 - Jardim Faculdade",
+        "Street":"R. Cel. José Pedro de Oliveira",
+        "City":"Sorocaba - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":141,
+        "Phone":"(15) 3211-9977",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5125418,
+        "Longitude":-47.4615853,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJMzLzstpdzpQRBUjICNfAPak",
+        "Name":"Jorge Reis Manipulação Farmacêutica",
+        "Address":"Rua Aracê, 158 - Vila Formosa, São Paulo - SP, 03362-050, Brazil",
+        "Neighborhood":"158 - Vila Formosa",
+        "Street":"Rua Aracê",
+        "City":"São Paulo - SP",
+        "Rating":3.9,
+        "UserRatingsTotal":46,
+        "Phone":"(11) 2671-4900",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5645081,
+        "Longitude":-46.5444733,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJJQkWG-ZdzpQRjsSZAGlayDA",
+        "Name":"DrogaOn-line - Grupo K",
+        "Address":"R. Francisca de Paula, 854 - Vila Carrão, São Paulo - SP, 03436-000, Brazil",
+        "Neighborhood":"854 - Vila Carrão",
+        "Street":"R. Francisca de Paula",
+        "City":"São Paulo - SP",
+        "Rating":4.3,
+        "UserRatingsTotal":48,
+        "Phone":"(11) 5026-2157",
+        "Types":"drugstore, pharmacy, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5596859,
+        "Longitude":-46.5314356,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJuUnzcNFdzpQRrZKpUNUurFQ",
+        "Name":"Drogaria Edna",
+        "Address":"Av. Dr. Eduardo Cotching, 1278 - Vila Formosa, São Paulo - SP, 03356-000, Brazil",
+        "Neighborhood":"1278 - Vila Formosa",
+        "Street":"Av. Dr. Eduardo Cotching",
+        "City":"São Paulo - SP",
+        "Rating":4.7,
+        "UserRatingsTotal":13,
+        "Phone":"(11) 2674-2181",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5635494,
+        "Longitude":-46.5494195,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ7X22FnKtvZQRtflMaNt6h2w",
+        "Name":"Droga Raia",
+        "Address":"Alameda França, 159 - 171 - Jardim Roseana, São José do Rio Preto - SP, 15030-125, Brazil",
+        "Neighborhood":"159 - 171 - Jardim Roseana",
+        "Street":"Alameda França",
+        "City":"São José do Rio Preto - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":49,
+        "Phone":"(17) 99628-5343",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.808476,
+        "Longitude":-49.3971924,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJActfNce_4pQRG1tvnEVQVqY",
+        "Name":"Farmácias São João",
+        "Address":"R. Gen. Prestes Guimarães, 56 - Vila Rodrigues, Passo Fundo - RS, 99070-030, Brazil",
+        "Neighborhood":"56 - Vila Rodrigues",
+        "Street":"R. Gen. Prestes Guimarães",
+        "City":"Passo Fundo - RS",
+        "Rating":2.0,
+        "UserRatingsTotal":1,
+        "Phone":"(54) 99684-8741",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2597423,
+        "Longitude":-52.3963668,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJT9kTeJ2tvZQRQvGZoo287AQ",
+        "Name":"Drogão Super",
+        "Address":"Av. dos Estudantes, 2720 - Jardim Canaa, São José do Rio Preto - SP, 15025-310, Brazil",
+        "Neighborhood":"2720 - Jardim Canaa",
+        "Street":"Av. dos Estudantes",
+        "City":"São José do Rio Preto - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":37,
+        "Phone":"(17) 3222-1839",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.8091996,
+        "Longitude":-49.3992296,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJd7fMb9VdzpQRkJUyRAEyn-4",
+        "Name":"Acurui",
+        "Address":"Vila Formosa, São Paulo - State of São Paulo, 03355-007, Brazil",
+        "Neighborhood":"São Paulo - State of São Paulo",
+        "Street":"Vila Formosa",
+        "City":"03355-007",
+        "Rating":4.1,
+        "UserRatingsTotal":34,
+        "Phone":"(11) 2673-5751",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5588971,
+        "Longitude":-46.5531943,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJcwoAUk3H4pQRwBQn9WYMoMA",
+        "Name":"Panvel Farmácias",
+        "Address":"Av. Brasil Centro, 450 - Centro, Passo Fundo - RS, 99010-001, Brazil",
+        "Neighborhood":"450 - Centro",
+        "Street":"Av. Brasil Centro",
+        "City":"Passo Fundo - RS",
+        "Rating":4.0,
+        "UserRatingsTotal":6,
+        "Phone":"0800 642 9001",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2617451,
+        "Longitude":-52.4084557,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJnUWneONdzpQRq04IkpkTUh0",
+        "Name":"Droga Raia",
+        "Address":"Rua Acuruí, 352 - Vila Formosa, São Paulo - SP, 03355-000, Brazil",
+        "Neighborhood":"352 - Vila Formosa",
+        "Street":"Rua Acuruí",
+        "City":"São Paulo - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":45,
+        "Phone":"(11) 99963-0823",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5590838,
+        "Longitude":-46.5532421,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJy6fSr-GamQARg6Zgm_S9WX0",
+        "Name":"FARMACAM - Ze Boy",
+        "Address":"R. Cel. Serrado, 1630 - lojas 102\/103 - Ze Garoto, São Gonçalo - RJ, 24440-000, Brazil",
+        "Neighborhood":"1630 - lojas 102\/103 - Ze Garoto",
+        "Street":"R. Cel. Serrado",
+        "City":"São Gonçalo - RJ",
+        "Rating":3.5,
+        "UserRatingsTotal":63,
+        "Phone":"(21) 98493-7033",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.829526,
+        "Longitude":-43.056442,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJObKXnjJ7mQARlcrGv7Sbcgg",
+        "Name":"Drogaria Viva Mais",
+        "Address":"R. Prof. Costa Ribeiro, 460 - loja A - Jardim América, Rio de Janeiro - RJ, 21240-290, Brazil",
+        "Neighborhood":"460 - loja A - Jardim América",
+        "Street":"R. Prof. Costa Ribeiro",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":4.3,
+        "UserRatingsTotal":21,
+        "Phone":"(21) 3346-9000",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8078525,
+        "Longitude":-43.3275847,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJhUxrg7n_rwARSW_rLDHXXas",
+        "Name":"Drogaria Vila Formosa",
+        "Address":"Av. Felipe dos Santos, 154 - Cidade Nobre, Ipatinga - MG, 35162-361, Brazil",
+        "Neighborhood":"154 - Cidade Nobre",
+        "Street":"Av. Felipe dos Santos",
+        "City":"Ipatinga - MG",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(31) 3827-6741",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-19.4580355,
+        "Longitude":-42.5749477,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJfZzP_1NezpQRt9PU4ERy5es",
+        "Name":"PharmaSOL - Farmácia de Manipulação",
+        "Address":"Rua Capitão João Cesário - Av. Penha de França - Penha de França, São Paulo - SP, 03603-000, Brazil",
+        "Neighborhood":"São Paulo - SP",
+        "Street":"Rua Capitão João Cesário - Av. Penha de França - Penha de França",
+        "City":"03603-000",
+        "Rating":4.1,
+        "UserRatingsTotal":35,
+        "Phone":"(11) 2082-2450",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5236055,
+        "Longitude":-46.5498522,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJqxmuKS1ZzpQRjbQ29Au_8tM",
+        "Name":"DROGARIA SÃO PAULO",
+        "Address":"R. Júlio de Castilhos, 744 - Belenzinho, São Paulo - SP, 03057-040, Brazil",
+        "Neighborhood":"744 - Belenzinho",
+        "Street":"R. Júlio de Castilhos",
+        "City":"São Paulo - SP",
+        "Rating":3.6,
+        "UserRatingsTotal":121,
+        "Phone":"(11) 2694-3653",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5413551,
+        "Longitude":-46.5937009,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJMZMVDR_mhpQRZ8hr2Rd1zmI",
+        "Name":"Pharmacenter Farmácia de Manipulação",
+        "Address":"R. Sete de Setembro, 870 - Centro, Campo Grande - MS, 79002-121, Brazil",
+        "Neighborhood":"870 - Centro",
+        "Street":"R. Sete de Setembro",
+        "City":"Campo Grande - MS",
+        "Rating":4.6,
+        "UserRatingsTotal":36,
+        "Phone":"(67) 3383-7700",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.4657951,
+        "Longitude":-54.6121257,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ2xAdXyxfzpQR5mGPqzKBbuw",
+        "Name":"A Fórmula Farmácia de Manipulação Tatuapé",
+        "Address":"R. Emílio Mallet, 964 - Térreo, São Paulo - SP, 03320-000, Brazil",
+        "Neighborhood":"964 - Térreo",
+        "Street":"R. Emílio Mallet",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":12,
+        "Phone":"(11) 4508-5888",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5464845,
+        "Longitude":-46.5643899,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJkQMvXSO2yJQRuOHbF_ZDa9g",
+        "Name":"Farmaxima Arymana | Delivery | Farmácia Popular",
+        "Address":"Av. Arymana, 437 - Parque Universitario de Viracopos, Campinas - SP, 13056-464, Brazil",
+        "Neighborhood":"437 - Parque Universitario de Viracopos",
+        "Street":"Av. Arymana",
+        "City":"Campinas - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":23,
+        "Phone":"(19) 99472-2468",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9713716,
+        "Longitude":-47.1444739,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJyThXXIDA4pQRlRopaZ0Z5kk",
+        "Name":"Farmácia Central",
+        "Address":"Av. Brasil Leste, 190 - Centro, Passo Fundo - RS, 99025-000, Brazil",
+        "Neighborhood":"190 - Centro",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":4.0,
+        "UserRatingsTotal":47,
+        "Phone":"(54) 3314-7540",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2577146,
+        "Longitude":-52.401995,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJWdWBpCW2yJQRqxLU12MIonU",
+        "Name":"Idalícia Nascimento Naves de Oliveira Drogaria",
+        "Address":"Av. Ruy Rodriguez, 4624 - via whatsapp, 19 - 99826,2764 - Recanto do Sol I, Campinas - SP, 13056-679, Brazil",
+        "Neighborhood":"4624 - via whatsapp",
+        "Street":"Av. Ruy Rodriguez",
+        "City":"19 - 99826",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(19) 3266-6716",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9673774,
+        "Longitude":-47.1430467,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJq39D5Xa_4pQRdT0KYsQ-u5M",
+        "Name":"Farmácia São João",
+        "Address":"Av. Pres. Vargas, 2793 - São Cristovao, Passo Fundo - RS, 99064-000, Brazil",
+        "Neighborhood":"2793 - São Cristovao",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":3.7,
+        "UserRatingsTotal":3,
+        "Phone":"(54) 3581-3097",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2775868,
+        "Longitude":-52.3806526,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJj0L2UQBdzpQRy9ehH2NYgok",
+        "Name":"Hiper Popular Drogarias",
+        "Address":"Praça Dr. Sampaio Vidal, 35 - Vila Formosa, São Paulo - SP, 03356-060, Brazil",
+        "Neighborhood":"35 - Vila Formosa",
+        "Street":"Praça Dr. Sampaio Vidal",
+        "City":"São Paulo - SP",
+        "Rating":2.7,
+        "UserRatingsTotal":39,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5672861,
+        "Longitude":-46.541315,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJzwhMkSWbmQARXfyOEzB_AMQ",
+        "Name":"Drogarias Ofertão Santa Catarina - Farmácia, Perfumaria e Medicamentos",
+        "Address":"R. Dr. Getúlio Vargas, 2230 - Santa Catarina, São Gonçalo - RJ, 24416-262, Brazil",
+        "Neighborhood":"2230 - Santa Catarina",
+        "Street":"R. Dr. Getúlio Vargas",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":24,
+        "Phone":"(21) 2605-9447",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8382328,
+        "Longitude":-43.0647821,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJl06Lxy97mQARRhPXY9X2BFs",
+        "Name":"Drogarias Mais Barato",
+        "Address":"R. Franz Liszt, 440 - Jardim América, Rio de Janeiro - RJ, 21240-400, Brazil",
+        "Neighborhood":"440 - Jardim América",
+        "Street":"R. Franz Liszt",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":2.7,
+        "UserRatingsTotal":37,
+        "Phone":"(21) 98489-4618",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8079642,
+        "Longitude":-43.3218567,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJq_CVWH6_4pQRDgKtujbYX3U",
+        "Name":"Farmácia São João",
+        "Address":"Av. Gen. Neto, 390 - Centro, Passo Fundo - RS, 99010-021, Brazil",
+        "Neighborhood":"390 - Centro",
+        "Street":"Av. Gen. Neto",
+        "City":"Passo Fundo - RS",
+        "Rating":3.0,
+        "UserRatingsTotal":4,
+        "Phone":"(54) 3311-2373",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2626029,
+        "Longitude":-52.4075065,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJk_oazyvxXpMR42vmwFOVVIw",
+        "Name":"Manipularte - Jd. América",
+        "Address":"Av. T-63, Qd. 345 - Lt. 14 - Jardim América, Goiânia - GO, 74250-325, Brazil",
+        "Neighborhood":"Qd. 345 - Lt. 14 - Jardim América",
+        "Street":"Av. T-63",
+        "City":"Goiânia - GO",
+        "Rating":4.6,
+        "UserRatingsTotal":48,
+        "Phone":"(62) 3275-7200",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7150436,
+        "Longitude":-49.2799457,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ_7rXicFezpQRKtg1kO7Qgqw",
+        "Name":"PharmaSOL - Farmácia de Manipulação",
+        "Address":"Rua Domingos Agostim, 140 - Cidade Mãe do Céu, São Paulo - SP, 03306-010, Brazil",
+        "Neighborhood":"140 - Cidade Mãe do Céu",
+        "Street":"Rua Domingos Agostim",
+        "City":"São Paulo - SP",
+        "Rating":3.5,
+        "UserRatingsTotal":70,
+        "Phone":"(11) 2295-8124",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5422554,
+        "Longitude":-46.5756487,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJhTGkmZKQmQARp_bri_U7WLo",
+        "Name":"Farmacam",
+        "Address":"Trade Center Alcântara, Loja 118\/119 - Rua Yolanda Saad Abuzaid, 150 - Alcantara, São Gonçalo - RJ, 24710-460, Brazil",
+        "Neighborhood":"Loja 118\/119 - Rua Yolanda Saad Abuzaid",
+        "Street":"Trade Center Alcântara",
+        "City":"150 - Alcantara",
+        "Rating":3.6,
+        "UserRatingsTotal":47,
+        "Phone":"(21) 98493-7033",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8211411,
+        "Longitude":-43.0013319,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJHcVWlGWiUJMRFPQ-1a71-J8",
+        "Name":"Pranayama Farmacia de Manipulação",
+        "Address":"R. Emílio Póvoa, 71 - Centro, Formosa - GO, 73801-280, Brazil",
+        "Neighborhood":"71 - Centro",
+        "Street":"R. Emílio Póvoa",
+        "City":"Formosa - GO",
+        "Rating":4.9,
+        "UserRatingsTotal":7,
+        "Phone":"(61) 3631-7644",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-15.5434301,
+        "Longitude":-47.335976,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ31Vt4NpdzpQRXOxIGfF6_TY",
+        "Name":"Droga Raia",
+        "Address":"AVENIDA GUILHERME GIORGI, 1909 1911, 1917 e 1921 - Vila Carrão, São Paulo - SP, 03422-001, Brazil",
+        "Neighborhood":"1909 1911",
+        "Street":"AVENIDA GUILHERME GIORGI",
+        "City":"1917 e 1921 - Vila Carrão",
+        "Rating":3.3,
+        "UserRatingsTotal":96,
+        "Phone":"(11) 93061-7162",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5626772,
+        "Longitude":-46.5427362,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJC9r6G4DA4pQRsHdcjxwhA4c",
+        "Name":"Farmácia São João",
+        "Address":"R. Fagundes dos Reis, 596 - Centro, Passo Fundo - RS, 99010-070, Brazil",
+        "Neighborhood":"596 - Centro",
+        "Street":"R. Fagundes dos Reis",
+        "City":"Passo Fundo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":37,
+        "Phone":"(54) 99711-2685",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2591333,
+        "Longitude":-52.4048687,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJgzrqJIbxXpMR4GqUFoUG_QM",
+        "Name":"Drogaria Primavera",
+        "Address":"Av. Anhanguera, 2479 - 2479St - Leste Universitário, Goiânia - GO, 74605-010, Brazil",
+        "Neighborhood":"2479 - 2479St - Leste Universitário",
+        "Street":"Av. Anhanguera",
+        "City":"Goiânia - GO",
+        "Rating":4.0,
+        "UserRatingsTotal":175,
+        "Phone":"(62) 3232-0110",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.672044,
+        "Longitude":-49.2339829,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJoeJZN-iKxZQRcQxUzU66dgM",
+        "Name":"Drogaria Vila Jardini",
+        "Address":"R. Visc. do Rio Branco, 733 - Vila Jardini, Sorocaba - SP, 18044-000, Brazil",
+        "Neighborhood":"733 - Vila Jardini",
+        "Street":"R. Visc. do Rio Branco",
+        "City":"Sorocaba - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":4,
+        "Phone":"(15) 3202-2646",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5103759,
+        "Longitude":-47.4766026,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJU64lvGSiUJMRk1dz3CtAFl4",
+        "Name":"Biopharma Farmácia de Manipulação",
+        "Address":"Av. Lagoa Feia, 106 - Centro, Formosa - GO, 73801-320, Brazil",
+        "Neighborhood":"106 - Centro",
+        "Street":"Av. Lagoa Feia",
+        "City":"Formosa - GO",
+        "Rating":5.0,
+        "UserRatingsTotal":7,
+        "Phone":"(61) 3631-9215",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-15.5488264,
+        "Longitude":-47.3373803,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJsW9yKXHA4pQRlAxKnafj_7E",
+        "Name":"Farmácia São João",
+        "Address":"Av. Brasil Leste, 1150 - sala a - Petrópolis, Passo Fundo - RS, 99050-000, Brazil",
+        "Neighborhood":"1150 - sala a - Petrópolis",
+        "Street":"Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":57,
+        "Phone":"(54) 3327-2350",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2463023,
+        "Longitude":-52.3861883,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJuc8a_uSamQARg4vbpuKae5o",
+        "Name":"Farmacopa Manipulation Pharmacy",
+        "Address":"R. Dr. Felíciano Sodré, 32 - lj 03 - Centro, São Gonçalo - RJ, 24440-440, Brazil",
+        "Neighborhood":"32 - lj 03 - Centro",
+        "Street":"R. Dr. Felíciano Sodré",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.1,
+        "UserRatingsTotal":9,
+        "Phone":"(21) 2605-1673",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8267365,
+        "Longitude":-43.0510449,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJD6bKWriQmQARlPr-7GhMISU",
+        "Name":"Speed Farma - Jardim Catarina",
+        "Address":"Av. Dr. Albino Imparato, 1039 - Quadra, Loja - Jardim Catarina, São Gonçalo - RJ, 24716-453, Brazil",
+        "Neighborhood":"1039 - Quadra",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"Loja - Jardim Catarina",
+        "Rating":3.9,
+        "UserRatingsTotal":15,
+        "Phone":"(21) 3606-1666",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8016738,
+        "Longitude":-43.0032738,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXStx_R-bmQARHlJPGzlrnM4",
+        "Name":"Fit Farma",
+        "Address":"R. Cel. Serrado, 1103 - 01 - Ze Garoto, São Gonçalo - RJ, 24440-000, Brazil",
+        "Neighborhood":"1103 - 01 - Ze Garoto",
+        "Street":"R. Cel. Serrado",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(21) 2604-7997",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8311786,
+        "Longitude":-43.0584143,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJO58GiZ1NzpQRNVTudDZhBv4",
+        "Name":"Drogarias Nobre Popular Unidade Jardim Capela",
+        "Address":"Estrada do M'Boi Mirim, 9814 - Parque do Lago, São Paulo - SP, 04945-046, Brazil",
+        "Neighborhood":"9814 - Parque do Lago",
+        "Street":"Estrada do M'Boi Mirim",
+        "City":"São Paulo - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(11) 91895-8045",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.7278514,
+        "Longitude":-46.7864434,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJRe7uHy1czpQR9ApMngXs2l4",
+        "Name":"A Rodrigues Drogaria",
+        "Address":"Praça Antônio Darago, 22 - Vila Formosa, São Paulo - SP, 03367-010, Brazil",
+        "Neighborhood":"22 - Vila Formosa",
+        "Street":"Praça Antônio Darago",
+        "City":"São Paulo - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(11) 2671-7540",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.566316,
+        "Longitude":-46.5560393,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJYVHVMBp4GZURMHDdNve6xxc",
+        "Name":"Bellacqua Farmácia de Manipulação",
+        "Address":"R. Barão do Amazonas, 984 - Petrópolis, Porto Alegre - RS, 90670-001, Brazil",
+        "Neighborhood":"984 - Petrópolis",
+        "Street":"R. Barão do Amazonas",
+        "City":"Porto Alegre - RS",
+        "Rating":4.6,
+        "UserRatingsTotal":37,
+        "Phone":"(51) 3315-1094",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0524365,
+        "Longitude":-51.1877795,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ45YJWnXB4pQRV_TKg1hoqXI",
+        "Name":"Farmácia São João",
+        "Address":"R. Uruguai, 1261 - Centro, Passo Fundo - RS, 99010-110, Brazil",
+        "Neighborhood":"1261 - Centro",
+        "Street":"R. Uruguai",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":2,
+        "Phone":"(54) 99656-1854",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2590166,
+        "Longitude":-52.4097705,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXQ03ipKQmQAR4e_D0C2E9mE",
+        "Name":"CH Farma",
+        "Address":"R. João de Almeida, 42 - Loja 103 - Alcantara, São Gonçalo - RJ, 24710-450, Brazil",
+        "Neighborhood":"42 - Loja 103 - Alcantara",
+        "Street":"R. João de Almeida",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":40,
+        "Phone":"(21) 99839-3057",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8205996,
+        "Longitude":-43.0028436,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJTbmaWoxNzpQRIFVW7PPMnwc",
+        "Name":"Drogaria Cerejeira",
+        "Address":"M'Boi - Estrada do M'Boi Mirim - Jardim Capela, São Paulo - SP, 04948-030, Brazil",
+        "Neighborhood":"São Paulo - SP",
+        "Street":"M'Boi - Estrada do M'Boi Mirim - Jardim Capela",
+        "City":"04948-030",
+        "Rating":3.4,
+        "UserRatingsTotal":5,
+        "Phone":"(11) 96205-1274",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.7255066,
+        "Longitude":-46.7859082,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJR14qSH-_4pQRedQGvCjdb3E",
+        "Name":"Farmácia São João",
+        "Address":"Rua Bento Gonçalves, 173 - Centro, Passo Fundo - RS, 99010-010, Brazil",
+        "Neighborhood":"173 - Centro",
+        "Street":"Rua Bento Gonçalves",
+        "City":"Passo Fundo - RS",
+        "Rating":3.8,
+        "UserRatingsTotal":11,
+        "Phone":"(54) 99711-0685",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2637286,
+        "Longitude":-52.4050141,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ4yE2eKd6GZUR80tnZzxZO34",
+        "Name":"Pharma Victor",
+        "Address":"R. Tiradentes, 381 - sala 24 - Centro, Canoas - RS, 92010-260, Brazil",
+        "Neighborhood":"381 - sala 24 - Centro",
+        "Street":"R. Tiradentes",
+        "City":"Canoas - RS",
+        "Rating":4.6,
+        "UserRatingsTotal":25,
+        "Phone":"(51) 3472-5233",
+        "Types":"pharmacy, veterinary_care, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.9188654,
+        "Longitude":-51.1818636,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ2ZDKB8n2XpMR_HbCjM9_49E",
+        "Name":"Drogaria Goiás Jardim América",
+        "Address":"R. C-118, n° 183 - Qd 232 Lt 13 - Jardim América, Goiânia - GO, 74255-490, Brazil",
+        "Neighborhood":"n° 183 - Qd 232 Lt 13 - Jardim América",
+        "Street":"R. C-118",
+        "City":"Goiânia - GO",
+        "Rating":4.5,
+        "UserRatingsTotal":13,
+        "Phone":"(62) 3286-1415",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.704089,
+        "Longitude":-49.2911384,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJnVJIR9K8HpUR7YB4VlNvMHc",
+        "Name":"Farmec",
+        "Address":"Av. Júlio de Castilhos, 1382 - via whatsapp, 55 - 99702,6572 - Centro, Caxias do Sul - RS, 95010-000, Brazil",
+        "Neighborhood":"1382 - via whatsapp",
+        "Street":"Av. Júlio de Castilhos",
+        "City":"55 - 99702",
+        "Rating":4.8,
+        "UserRatingsTotal":24,
+        "Phone":"(54) 3221-3241",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.1679576,
+        "Longitude":-51.1755521,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJkfDq49_DpgARmcS91ni65cg",
+        "Name":"Drogaria Jardim Petrópolis",
+        "Address":"Whatsapp - 998326737__Avenida Quinze de Novembro, 34 - Jardim Petropolis, Betim - MG, 32655-122, Brazil",
+        "Neighborhood":"34 - Jardim Petropolis",
+        "Street":"Whatsapp - 998326737__Avenida Quinze de Novembro",
+        "City":"Betim - MG",
+        "Rating":4.8,
+        "UserRatingsTotal":5,
+        "Phone":"(31) 3592-1101",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-19.96962,
+        "Longitude":-44.1751782,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJt7klLMddzpQRnJP4grpBTz0",
+        "Name":"Vila Formosa",
+        "Address":"03377-000 - Av. Renata, 60 - Chácara Belenzinho, São Paulo - SP, 03377-000, Brazil",
+        "Neighborhood":"60 - Chácara Belenzinho",
+        "Street":"03377-000 - Av. Renata",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":14,
+        "Phone":"(63) 99950-2797",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5693487,
+        "Longitude":-46.5390668,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJY8NI6ZH5XpMRW7wBnnAou_0",
+        "Name":"Droga Mega",
+        "Address":"Leite, Fralda, Desodorante, Medicamentos Perfumes,Tinta pra cabelo Drogaria, Farmácia - Av. Uirapuru, Qd. 08 - Lt. 01 - St. Morada dos Passaros, Aparecida de Goiânia - GO, 74953-620, Brazil",
+        "Neighborhood":"Fralda",
+        "Street":"Leite",
+        "City":"Desodorante",
+        "Rating":4.6,
+        "UserRatingsTotal":194,
+        "Phone":"(62) 99162-3381",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7808344,
+        "Longitude":-49.2933858,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJ9_Tr7MBdzpQRj5WGeYfZan8",
+        "Name":"Farmácia Droganetto",
+        "Address":"Av. João XXIII, 224 - Vila Formosa, São Paulo - SP, 03361-000, Brazil",
+        "Neighborhood":"224 - Vila Formosa",
+        "Street":"Av. João XXIII",
+        "City":"São Paulo - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5712464,
+        "Longitude":-46.5382192,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJkxJluhO_4pQR3UGyOHh9u98",
+        "Name":"Farmácias São João",
+        "Address":"AV P CORONEL JARBAS QUADROS DA SILVA, 3702 - São Cristovao, Passo Fundo - RS, 99064-440, Brazil",
+        "Neighborhood":"3702 - São Cristovao",
+        "Street":"AV P CORONEL JARBAS QUADROS DA SILVA",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(54) 99636-9081",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2669776,
+        "Longitude":-52.3625872,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJy8hN_-uXmQAR7aKsQyjtYbQ",
+        "Name":"Farmácia e Drogaria Renascer - Jardim Catarina, São Gonçalo - RJ",
+        "Address":"Rua Cardeal Álvaro da Silva, 630 - Jardim Catarina, São Gonçalo - RJ, 24715-311, Brazil",
+        "Neighborhood":"630 - Jardim Catarina",
+        "Street":"Rua Cardeal Álvaro da Silva",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":102,
+        "Phone":"(21) 99971-8405",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.801085,
+        "Longitude":-42.992098,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJB6-eTgOtvZQRe5vJWmzj_XM",
+        "Name":"Inova Drogaria Rio Preto Unidade 2",
+        "Address":"Av. dos Estudantes, 2496 - Vila Aeroporto, São José do Rio Preto - SP, 15025-310, Brazil",
+        "Neighborhood":"2496 - Vila Aeroporto",
+        "Street":"Av. dos Estudantes",
+        "City":"São José do Rio Preto - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(17) 99145-3730",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.8088759,
+        "Longitude":-49.396822,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJvTHnzJuRmQARnWp2CJMt9C8",
+        "Name":"Farmácia Apolo",
+        "Address":"Av. Padre Viêira, 123 - Jardim Catarina, São Gonçalo - RJ, 24715-160, Brazil",
+        "Neighborhood":"123 - Jardim Catarina",
+        "Street":"Av. Padre Viêira",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":16,
+        "Phone":"(21) 3606-7021",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7985473,
+        "Longitude":-43.0026468,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ-6B0F5FezpQR9IHPWBzuoL4",
+        "Name":"Neofarma Manipulation Pharmacy",
+        "Address":"R. Itapura, 1091 - Vila Gomes Cardim, São Paulo - SP, 03310-000, Brazil",
+        "Neighborhood":"1091 - Vila Gomes Cardim",
+        "Street":"R. Itapura",
+        "City":"São Paulo - SP",
+        "Rating":3.8,
+        "UserRatingsTotal":34,
+        "Phone":"(11) 2148-4350",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5481957,
+        "Longitude":-46.5654623,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJNUKU3ClczpQR-dlLlJ80IMk",
+        "Name":"Drogaria São Paulo",
+        "Address":"Av. Reg. Feijó, 1739 - Vila Reg. Feijó, São Paulo - SP, 03342-000, Brazil",
+        "Neighborhood":"1739 - Vila Reg. Feijó",
+        "Street":"Av. Reg. Feijó",
+        "City":"São Paulo - SP",
+        "Rating":3.9,
+        "UserRatingsTotal":27,
+        "Phone":"(11) 2076-0895",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5608909,
+        "Longitude":-46.5609688,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJyRUd1PBdzpQRKtlWJDE8pAQ",
+        "Name":"Ultrafarma Popular - Jardim Aricanduva",
+        "Address":"Av. Rio das Pedras, 35 - Loja 01 - Jardim Aricanduva, São Paulo - SP, 03453-000, Brazil",
+        "Neighborhood":"35 - Loja 01 - Jardim Aricanduva",
+        "Street":"Av. Rio das Pedras",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":38,
+        "Phone":"(11) 97538-0370",
+        "Types":"drugstore, pharmacy, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5587392,
+        "Longitude":-46.5209809,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJK53c1KlwyJQRskDLw8rmgIQ",
+        "Name":"Maria Deolinda Zore Pereira dos Santos & Cia",
+        "Address":"Av. Goffredo T. da Silva Telles, 1411 - Jardim Universitario, Araras - SP, 13607-350, Brazil",
+        "Neighborhood":"1411 - Jardim Universitario",
+        "Street":"Av. Goffredo T. da Silva Telles",
+        "City":"Araras - SP",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(19) 3547-8848",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.3764197,
+        "Longitude":-47.3624593,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJTUN2yzLxXpMRZ2KwITjEWcg",
+        "Name":"Alternative Handling pharmacy, Jardim America, Goiania",
+        "Address":"Av. T-9, 2494 - Jardim América, Goiânia - GO, 74255-220, Brazil",
+        "Neighborhood":"2494 - Jardim América",
+        "Street":"Av. T-9",
+        "City":"Goiânia - GO",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.7079338,
+        "Longitude":-49.2839748,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJy5BIXfGamQARuH2VYX0cbtc",
+        "Name":"Flora Vegetal",
+        "Address":"Rodo Shopping - R. Dr. Nilo Peçanha, 56 - Loja 18 - Centro, São Gonçalo - RJ, 24445-440, Brazil",
+        "Neighborhood":"56 - Loja 18 - Centro",
+        "Street":"Rodo Shopping - R. Dr. Nilo Peçanha",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.9,
+        "UserRatingsTotal":73,
+        "Phone":"(21) 2712-0828",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8234254,
+        "Longitude":-43.0442297,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJC4nluC97mQARoNEeN8SqdZw",
+        "Name":"Farmácia Jardim América",
+        "Address":"R. Franz Liszt, 440 - Jardim América, Rio de Janeiro - RJ, 21240-400, Brazil",
+        "Neighborhood":"440 - Jardim América",
+        "Street":"R. Franz Liszt",
+        "City":"Rio de Janeiro - RJ",
+        "Rating":4.0,
+        "UserRatingsTotal":25,
+        "Phone":"(21) 3346-8000",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8079422,
+        "Longitude":-43.3218832,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJCdXMWn9ezpQR6kx-IIcwqsE",
+        "Name":"Jardim Textil",
+        "Address":"R. Curupá - Vila Antonina, São Paulo - SP, 03355-010, Brazil",
+        "Neighborhood":"São Paulo - SP",
+        "Street":"R. Curupá - Vila Antonina",
+        "City":"03355-010",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(11) 2673-9499",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5566336,
+        "Longitude":-46.550643,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJL-7ShXXxXpMRsO7YHBeT1Gs",
+        "Name":"Drogaria Biofarma",
+        "Address":"Av. Fued José Sebba, 380 - QD L LT 06 - Setor Leste Universitário, Goiânia - GO, 74805-100, Brazil",
+        "Neighborhood":"380 - QD L LT 06 - Setor Leste Universitário",
+        "Street":"Av. Fued José Sebba",
+        "City":"Goiânia - GO",
+        "Rating":4.6,
+        "UserRatingsTotal":29,
+        "Phone":"(62) 3636-6451",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6877767,
+        "Longitude":-49.2434954,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJJSiUNIPA4pQR_b_egXyCgog",
+        "Name":"Farmácia Preço Popular",
+        "Address":"R. Teixeira Soares, 849 - Centro, Passo Fundo - RS, 99010-080, Brazil",
+        "Neighborhood":"849 - Centro",
+        "Street":"R. Teixeira Soares",
+        "City":"Passo Fundo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":11,
+        "Phone":"(54) 3313-8276",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2603014,
+        "Longitude":-52.4137664,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJna8zoahDGZURwELzT5EP-TM",
+        "Name":"FARMACIA ASSOCIADAS JARDIM AMERICA",
+        "Address":"R. Francelino Dias, 541 - Jardim America, São Leopoldo - RS, 93035-150, Brazil",
+        "Neighborhood":"541 - Jardim America",
+        "Street":"R. Francelino Dias",
+        "City":"São Leopoldo - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":11,
+        "Phone":"(51) 3551-0477",
+        "Types":"pharmacy, drugstore, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.7865845,
+        "Longitude":-51.1315141,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJv0nrMEBdzpQRr1KifMGobi0",
+        "Name":"Droga Raia",
+        "Address":"Av. Renata, s\/n - s\/n - Chácara Belenzinho, São Paulo - SP, 03377-000, Brazil",
+        "Neighborhood":"s\/n - s\/n - Chácara Belenzinho",
+        "Street":"Av. Renata",
+        "City":"São Paulo - SP",
+        "Rating":4.1,
+        "UserRatingsTotal":94,
+        "Phone":"(11) 95688-3948",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5747121,
+        "Longitude":-46.5413244,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJkTEIYyM4J5UR_4y-eCKV9bU",
+        "Name":"Perfecta Manipulation Pharmacy in Florianópolis",
+        "Address":"R. Vidal Ramos, 136 - Centro, Florianópolis - SC, 88010-320, Brazil",
+        "Neighborhood":"136 - Centro",
+        "Street":"R. Vidal Ramos",
+        "City":"Florianópolis - SC",
+        "Rating":4.1,
+        "UserRatingsTotal":275,
+        "Phone":"(48) 3222-4115",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-27.5954391,
+        "Longitude":-48.5505344,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJu3uu_eSamQARzfVKEc1LFWM",
+        "Name":"M2M Farmácia de Manipulação",
+        "Address":"R. Sá Carvalho, 01 - Centro, São Gonçalo - RJ, 24440-710, Brazil",
+        "Neighborhood":"01 - Centro",
+        "Street":"R. Sá Carvalho",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":49,
+        "Phone":"(21) 2605-4972",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8265443,
+        "Longitude":-43.0512483,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJmY3fMtFdzpQR1ryNx1ZkwVg",
+        "Name":"Drogaria Catuquina",
+        "Address":"R. Catuquina, 328 - Vila Formosa, São Paulo - SP, 03355-050, Brazil",
+        "Neighborhood":"328 - Vila Formosa",
+        "Street":"R. Catuquina",
+        "City":"São Paulo - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":25,
+        "Phone":"(11) 2675-1132",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.561369,
+        "Longitude":-46.5482206,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJNfrwu8N3GZURfNPurjquNCo",
+        "Name":"Supermed",
+        "Address":"Av. Protásio Alves, 5691 - Petrópolis, Porto Alegre - RS, 90410-003, Brazil",
+        "Neighborhood":"5691 - Petrópolis",
+        "Street":"Av. Protásio Alves",
+        "City":"Porto Alegre - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(51) 3334-4718",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-30.0402045,
+        "Longitude":-51.1767392,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ208II3BezpQRe1Rqk0JmDnI",
+        "Name":"Empório Medicinal",
+        "Address":"Av. Conselheiro Carrão, 2802 - Vila Carrão, São Paulo - SP, 03402-002, Brazil",
+        "Neighborhood":"2802 - Vila Carrão",
+        "Street":"Av. Conselheiro Carrão",
+        "City":"São Paulo - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":340,
+        "Phone":"(11) 2091-3001",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5499201,
+        "Longitude":-46.5348701,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJgT6hHpG_4pQRTMR9rOa0dsg",
+        "Name":"Farmácia São João - Passo Fundo Shopping",
+        "Address":"Av. Pres. Vargas, 1610 - São Cristovao, Passo Fundo - RS, 99070-000, Brazil",
+        "Neighborhood":"1610 - São Cristovao",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":4.3,
+        "UserRatingsTotal":13,
+        "Phone":"(54) 3310-1392",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2710284,
+        "Longitude":-52.3854589,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJN8Qtka9DGZURyb13HEYTUhw",
+        "Name":"Matriz Farmácia de Manipulação",
+        "Address":"R. Primeiro de Março, 575 - Centro, São Leopoldo - RS, 93010-210, Brazil",
+        "Neighborhood":"575 - Centro",
+        "Street":"R. Primeiro de Março",
+        "City":"São Leopoldo - RS",
+        "Rating":4.8,
+        "UserRatingsTotal":66,
+        "Phone":"(51) 3037-1616",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.7671688,
+        "Longitude":-51.1465832,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJXX4FI36_4pQRs96anO6zs1Y",
+        "Name":"Droga Raia",
+        "Address":"Av. Brasil Oeste, 1735 - Boqueirão, Passo Fundo - RS, 99025-083, Brazil",
+        "Neighborhood":"1735 - Boqueirão",
+        "Street":"Av. Brasil Oeste",
+        "City":"Passo Fundo - RS",
+        "Rating":4.7,
+        "UserRatingsTotal":29,
+        "Phone":"(54) 99951-0949",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2665192,
+        "Longitude":-52.420366,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJKWDNz36_4pQR0up5PCI3q2Q",
+        "Name":"Farmácia São João - Bella Cittá",
+        "Address":"R. Coronel Chicuta, 355 - Sala 3 - Térreo - Centro, Passo Fundo - RS, 99010-050, Brazil",
+        "Neighborhood":"355 - Sala 3 - Térreo - Centro",
+        "Street":"R. Coronel Chicuta",
+        "City":"Passo Fundo - RS",
+        "Rating":3.3,
+        "UserRatingsTotal":3,
+        "Phone":"(54) 99711-3169",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2627287,
+        "Longitude":-52.409473,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJN3_YB8pdzpQRksUaidZaY_Y",
+        "Name":"Drogaria Droga 10",
+        "Address":"Av. Sapopemba, 4035 - Chácara Mafalda, São Paulo - SP, 03345-001, Brazil",
+        "Neighborhood":"4035 - Chácara Mafalda",
+        "Street":"Av. Sapopemba",
+        "City":"São Paulo - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":31,
+        "Phone":"(11) 2918-3020",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5760923,
+        "Longitude":-46.5505655,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJTdBP0NXvhpQRi4Bzg_lw4O4",
+        "Name":"Farmácia Droga 10 - Guaicurus",
+        "Address":"Av. Guaicurus, 3037 - Universitário, Campo Grande - MS, 79063-080, Brazil",
+        "Neighborhood":"3037 - Universitário",
+        "Street":"Av. Guaicurus",
+        "City":"Campo Grande - MS",
+        "Rating":3.2,
+        "UserRatingsTotal":9,
+        "Phone":"(67) 3388-0900",
+        "Types":"pharmacy, drugstore, clothing_store, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.5222548,
+        "Longitude":-54.5895775,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJXTDb05q_4pQRYf3JQHxFDxA",
+        "Name":"Farmácia São João",
+        "Address":"Av. Pres. Vargas, 1956 - São Cristovao, Passo Fundo - RS, 99070-110, Brazil",
+        "Neighborhood":"1956 - São Cristovao",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":4.7,
+        "UserRatingsTotal":6,
+        "Phone":"(54) 99711-2864",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2732896,
+        "Longitude":-52.384016,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJo21Mbce_4pQRWg18D8QJmew",
+        "Name":"vida farmacias",
+        "Address":"Av. Pres. Vargas, 1610 - São Cristovao, Passo Fundo - RS, 99064-000, Brazil",
+        "Neighborhood":"1610 - São Cristovao",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2709993,
+        "Longitude":-52.3854915,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJdQI1TXRuYpQR_x0_QXEDzVs",
+        "Name":"Farmácia Ponta Farma",
+        "Address":"Av. Vinícius Soares do Nascimento - Jardim Universitario, Ponta Porã - MS, 79906-858, Brazil",
+        "Neighborhood":"Ponta Porã - MS",
+        "Street":"Av. Vinícius Soares do Nascimento - Jardim Universitario",
+        "City":"79906-858",
+        "Rating":4.7,
+        "UserRatingsTotal":20,
+        "Phone":"(67) 99900-4348",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.5610894,
+        "Longitude":-55.6920978,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ-Y8xm7-QmQARi2NJioU2PLw",
+        "Name":"Drogarias Ella",
+        "Address":"Av. Santa Catarina, 280 - Jardim Catarina, São Gonçalo - RJ, 24717-141, Brazil",
+        "Neighborhood":"280 - Jardim Catarina",
+        "Street":"Av. Santa Catarina",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.8,
+        "UserRatingsTotal":6,
+        "Phone":"N\/A",
+        "Types":"drugstore, pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8107893,
+        "Longitude":-43.0004041,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJkXGJyZ_ohpQRrPCWZeBfTCk",
+        "Name":"Pharma & Cia Handling and Homeopathy",
+        "Address":"R. Barão do Rio Branco, 2204 - Centro, Campo Grande - MS, 79008-060, Brazil",
+        "Neighborhood":"2204 - Centro",
+        "Street":"R. Barão do Rio Branco",
+        "City":"Campo Grande - MS",
+        "Rating":4.6,
+        "UserRatingsTotal":914,
+        "Phone":"(67) 3041-4474",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.461208,
+        "Longitude":-54.607676,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJpxY7QveXmQARuZbkdKfQ02k",
+        "Name":"Drogaria Ouro fino",
+        "Address":"R. Ouro Fino, 1133 - Lote 1 quadra 241n - Jardim Catarina, São Gonçalo - RJ, 24715-672, Brazil",
+        "Neighborhood":"1133 - Lote 1 quadra 241n - Jardim Catarina",
+        "Street":"R. Ouro Fino",
+        "City":"São Gonçalo - RJ",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(21) 99335-6624",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7891782,
+        "Longitude":-42.9937088,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJQf0jBgCx3pQRgwg19ai4wJ0",
+        "Name":"Jardim América",
+        "Address":"R. do Chaminé, 222 - Adhemar Garcia, Joinville - SC, 89230-785, Brazil",
+        "Neighborhood":"222 - Adhemar Garcia",
+        "Street":"R. do Chaminé",
+        "City":"Joinville - SC",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-26.3154291,
+        "Longitude":-48.807167,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJd_ByZ8pdzpQRTBR7B-b7uTM",
+        "Name":"BIOATIVA Farmácia de Manipulação",
+        "Address":"Av. Sapopemba, 3885 - Chácara Mafalda, São Paulo - SP, 03374-000, Brazil",
+        "Neighborhood":"3885 - Chácara Mafalda",
+        "Street":"Av. Sapopemba",
+        "City":"São Paulo - SP",
+        "Rating":4.0,
+        "UserRatingsTotal":19,
+        "Phone":"(11) 2154-2676",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5756157,
+        "Longitude":-46.5519483,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJq2AitCU8uAARmB8OYUxzbF8",
+        "Name":"Farmácia Nova Aliança",
+        "Address":"Av. Espírito Santo, 20 - Jardim América, Cariacica - ES, 29140-080, Brazil",
+        "Neighborhood":"20 - Jardim América",
+        "Street":"Av. Espírito Santo",
+        "City":"Cariacica - ES",
+        "Rating":4.8,
+        "UserRatingsTotal":4,
+        "Phone":"(27) 3226-3122",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.336439,
+        "Longitude":-40.3621861,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJK_mGHWm5yJQRo3hJ4xiFUfM",
+        "Name":"Drogaria Popular",
+        "Address":"R. dos Estudantes, 740 - Jardim Campos Verdes, Hortolândia - SP, 13186-170, Brazil",
+        "Neighborhood":"740 - Jardim Campos Verdes",
+        "Street":"R. dos Estudantes",
+        "City":"Hortolândia - SP",
+        "Rating":4.5,
+        "UserRatingsTotal":26,
+        "Phone":"(19) 3503-1753",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8832044,
+        "Longitude":-47.2020823,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJSdW_LiqjHpURfV9C6xv7MKg",
+        "Name":"Medicinal Farmácia de Manipulação",
+        "Address":"R. Mal. Floriano, 517 - Sala A - Centro, Caxias do Sul - RS, 95020-370, Brazil",
+        "Neighborhood":"517 - Sala A - Centro",
+        "Street":"R. Mal. Floriano",
+        "City":"Caxias do Sul - RS",
+        "Rating":4.5,
+        "UserRatingsTotal":41,
+        "Phone":"(54) 99138-0303",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-29.165385,
+        "Longitude":-51.184352,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJld2J9MFdzpQRErfyMkmHfOA",
+        "Name":"Drogaria Lecer",
+        "Address":"R. Arapoca, 137 - Vila Formosa, São Paulo - SP, 03362-000, Brazil",
+        "Neighborhood":"137 - Vila Formosa",
+        "Street":"R. Arapoca",
+        "City":"São Paulo - SP",
+        "Rating":4.4,
+        "UserRatingsTotal":24,
+        "Phone":"(11) 2675-1366",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5661864,
+        "Longitude":-46.5419345,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJI4FE8MCQmQARn_1Uv5Exrs4",
+        "Name":"Planet Farma",
+        "Address":"Av. Dr. Albino Imparato, 118 - Jardim Catarina, São Gonçalo - RJ, 24716-455, Brazil",
+        "Neighborhood":"118 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":3.0,
+        "UserRatingsTotal":4,
+        "Phone":"(21) 2601-5180",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8073274,
+        "Longitude":-43.0000819,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJOcMZAyj0XpMRkheN62vVcsY",
+        "Name":"Drogaria Orama",
+        "Address":"Av. Aderup, 204 - Cidade Jardim, Goiânia - GO, 74423-050, Brazil",
+        "Neighborhood":"204 - Cidade Jardim",
+        "Street":"Av. Aderup",
+        "City":"Goiânia - GO",
+        "Rating":4.8,
+        "UserRatingsTotal":438,
+        "Phone":"(62) 98195-1592",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6872553,
+        "Longitude":-49.3149654,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJb9IGvUPk3JQRaOj9AIKLgxw",
+        "Name":"ACQUA FORMULA Manipulation Pharmacy",
+        "Address":"Av. Visc. de Guarapuava, 2108 - Centro, Curitiba - PR, 80060-060, Brazil",
+        "Neighborhood":"2108 - Centro",
+        "Street":"Av. Visc. de Guarapuava",
+        "City":"Curitiba - PR",
+        "Rating":4.2,
+        "UserRatingsTotal":47,
+        "Phone":"(41) 3362-0230",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-25.4341162,
+        "Longitude":-49.2622822,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJTUXWgn1ezpQRdZ010rFqC_w",
+        "Name":"Drogaria São Paulo",
+        "Address":"Mzn -Pav Superior - R. Antônio de Barros, 2417 - 2427 - 2411 - Vila Carrão, São Paulo - SP, 03401-001, Brazil",
+        "Neighborhood":"2417 - 2427 - 2411 - Vila Carrão",
+        "Street":"Mzn -Pav Superior - R. Antônio de Barros",
+        "City":"São Paulo - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":93,
+        "Phone":"(11) 2091-7844",
+        "Types":"drugstore, pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5512442,
+        "Longitude":-46.5540097,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJZTnwO5qvXJQRXsw3QwiDfXc",
+        "Name":"Farmacia Vila I",
+        "Address":"Avenida Los Pioneros 2543, P3600 Formosa, Argentina",
+        "Neighborhood":"P3600 Formosa",
+        "Street":"Avenida Los Pioneros 2543",
+        "City":"Argentina",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"N\/A",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-26.1656342,
+        "Longitude":-58.2032175,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJp9PqKiBgz5QRn4hQrumOZhk",
+        "Name":"Farmácia Farma Ponte",
+        "Address":"Av. Roberto Símonsen, 35 - Jardim Santa Rosália, Sorocaba - SP, 18090-000, Brazil",
+        "Neighborhood":"35 - Jardim Santa Rosália",
+        "Street":"Av. Roberto Símonsen",
+        "City":"Sorocaba - SP",
+        "Rating":3.7,
+        "UserRatingsTotal":60,
+        "Phone":"(15) 99772-0472",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.4862175,
+        "Longitude":-47.4508585,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJs6uqqs9dzpQR6_Zm8vQhHpM",
+        "Name":"Farma & Cia",
+        "Address":"Praça Vieira do Couto, 110 - Jardim Vila Formosa, São Paulo - SP, 03470-010, Brazil",
+        "Neighborhood":"110 - Jardim Vila Formosa",
+        "Street":"Praça Vieira do Couto",
+        "City":"São Paulo - SP",
+        "Rating":4.2,
+        "UserRatingsTotal":18,
+        "Phone":"(11) 2211-8228",
+        "Types":"pharmacy, clothing_store, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5680012,
+        "Longitude":-46.5236246,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJwWfRZsVdzpQRWeWRuK4u4VI",
+        "Name":"Empório Medicinal",
+        "Address":"Av. Dr. Eduardo Cotching, 1885 - Vila Formosa, São Paulo - SP, 03356-001, Brazil",
+        "Neighborhood":"1885 - Vila Formosa",
+        "Street":"Av. Dr. Eduardo Cotching",
+        "City":"São Paulo - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":229,
+        "Phone":"(11) 2091-3001",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.5661271,
+        "Longitude":-46.5442965,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJMVo1xxDXv5QR2sFPXyvvoQE",
+        "Name":"Sul América | Delivery | Farmácia em Marília - SP",
+        "Address":"Av. Dr. Ademar de Tolêdo, 401 - Jardim Universitario, Marília - SP, 17526-230, Brazil",
+        "Neighborhood":"401 - Jardim Universitario",
+        "Street":"Av. Dr. Ademar de Tolêdo",
+        "City":"Marília - SP",
+        "Rating":5.0,
+        "UserRatingsTotal":77,
+        "Phone":"(14) 99632-1448",
+        "Types":"pharmacy, drugstore, clothing_store, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.2354756,
+        "Longitude":-49.9769073,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJ__tPd36_4pQRvX_aqz6qQzA",
+        "Name":"Medicamentos Brair",
+        "Address":"R. Coronel Chicuta, 355 - Centro, Passo Fundo - RS, 99010-050, Brazil",
+        "Neighborhood":"355 - Centro",
+        "Street":"R. Coronel Chicuta",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(54) 3315-3315",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2630145,
+        "Longitude":-52.4082787,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJcXg5aV6RmQARQZFKmP7pMWk",
+        "Name":"Drogarias Pratodos | Farmácia Jardim Catarina",
+        "Address":"Av. Dr. Albino Imparato, 1450 - Jardim Catarina, São Gonçalo - RJ, 24716-450, Brazil",
+        "Neighborhood":"1450 - Jardim Catarina",
+        "Street":"Av. Dr. Albino Imparato",
+        "City":"São Gonçalo - RJ",
+        "Rating":4.9,
+        "UserRatingsTotal":33,
+        "Phone":"(21) 98917-4213",
+        "Types":"pharmacy, meal_delivery, drugstore, clothing_store, health, store, food, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.7992978,
+        "Longitude":-43.004364,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJw95lZWqRmQAR4h20Ek4_WZY",
+        "Name":"Holy Pharm - Farmácia de Manipulação (São Gonçalo)",
+        "Address":"R. Antônio Alves, 55 - Alcantara, São Gonçalo - RJ, 24710-390, Brazil",
+        "Neighborhood":"55 - Alcantara",
+        "Street":"R. Antônio Alves",
+        "City":"São Gonçalo - RJ",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(21) 97476-3164",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8191498,
+        "Longitude":-43.0030933,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJaTrWHreOf5EREw-KxJVVbVU",
+        "Name":"Drogaria Universitário",
+        "Address":"Av. Maria José de Oliveira, 444 - Conj. Universitario, Rio Branco - AC, 69917-712, Brazil",
+        "Neighborhood":"444 - Conj. Universitario",
+        "Street":"Av. Maria José de Oliveira",
+        "City":"Rio Branco - AC",
+        "Rating":4.5,
+        "UserRatingsTotal":50,
+        "Phone":"(68) 3229-2939",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-9.9458339,
+        "Longitude":-67.8766095,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJS9EjHPGamQAR5u6P4s8M4zo",
+        "Name":"Digitalis Pharma",
+        "Address":"Praça Dr. Luiz Palmier, 53 - Loja 20 - Centro, São Gonçalo - RJ, 24440-470, Brazil",
+        "Neighborhood":"53 - Loja 20 - Centro",
+        "Street":"Praça Dr. Luiz Palmier",
+        "City":"São Gonçalo - RJ",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(21) 2604-2991",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.8228388,
+        "Longitude":-43.0461273,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJw53K4wBezpQRB2cY0aAw3ns",
+        "Name":"Drogaria e Manipulação Sinete - Vila Matilde",
+        "Address":"Av. Waldemar Carlos Pereira, 642 - Vila Talarico, São Paulo - SP, 03533-001, Brazil",
+        "Neighborhood":"642 - Vila Talarico",
+        "Street":"Av. Waldemar Carlos Pereira",
+        "City":"São Paulo - SP",
+        "Rating":3.3,
+        "UserRatingsTotal":191,
+        "Phone":"(11) 2651-7340",
+        "Types":"pharmacy, drugstore, clothing_store, veterinary_care, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-23.544217,
+        "Longitude":-46.5194897,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Grande"
+    },
+    {
+        "PlaceID":"ChIJJ0FFaEzvhpQRA5kXPhsjOJM",
+        "Name":"FARMINEI MEDICAMENTOS E PERFUMARIA",
+        "Address":"R. Dolores Duran, 1321 - Jardim Campo Alto, Campo Grande - MS, 79063-330, Brazil",
+        "Neighborhood":"1321 - Jardim Campo Alto",
+        "Street":"R. Dolores Duran",
+        "City":"Campo Grande - MS",
+        "Rating":5.0,
+        "UserRatingsTotal":3,
+        "Phone":"(67) 3341-8733",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-20.52692,
+        "Longitude":-54.5808851,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJJa6tDZO_4pQRHNP-Irvht6I",
+        "Name":"Farmácia São João",
+        "Address":"Av. Aspirante Jenner, 617 - Vila Lucas Araujo, Passo Fundo - RS, 99074-360, Brazil",
+        "Neighborhood":"617 - Vila Lucas Araujo",
+        "Street":"Av. Aspirante Jenner",
+        "City":"Passo Fundo - RS",
+        "Rating":4.1,
+        "UserRatingsTotal":12,
+        "Phone":"(54) 99205-8188",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2664307,
+        "Longitude":-52.3848302,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJUzyFxH-_4pQRwcUvuBdR9KU",
+        "Name":"Farmácia São João",
+        "Address":"Rua Capitão Eleutério - Esquina com - Av. Brasil Leste, 500 - Centro, Passo Fundo - RS, 99010-060, Brazil",
+        "Neighborhood":"500 - Centro",
+        "Street":"Rua Capitão Eleutério - Esquina com - Av. Brasil Leste",
+        "City":"Passo Fundo - RS",
+        "Rating":4.2,
+        "UserRatingsTotal":5,
+        "Phone":"(54) 99711-2338",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2602557,
+        "Longitude":-52.4056563,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJmfFu_XjA4pQRPW-zZngroBM",
+        "Name":"Farmácia Bom Preço",
+        "Address":"R. Ângelo Preto, 30 - Centro, Passo Fundo - RS, 99010-270, Brazil",
+        "Neighborhood":"30 - Centro",
+        "Street":"R. Ângelo Preto",
+        "City":"Passo Fundo - RS",
+        "Rating":5.0,
+        "UserRatingsTotal":1,
+        "Phone":"(54) 3312-0228",
+        "Types":"drugstore, pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.254464,
+        "Longitude":-52.3960616,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJ4dXdVc6_4pQRn_87s4xjoRs",
+        "Name":"Farmácia São João",
+        "Address":"Av. Pres. Vargas, 3495 - Loja 01 - São Cristovao, Passo Fundo - RS, 99064-000, Brazil",
+        "Neighborhood":"3495 - Loja 01 - São Cristovao",
+        "Street":"Av. Pres. Vargas",
+        "City":"Passo Fundo - RS",
+        "Rating":4.1,
+        "UserRatingsTotal":14,
+        "Phone":"(54) 3312-2687",
+        "Types":"pharmacy, point_of_interest, store, health, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2813692,
+        "Longitude":-52.3766623,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJmVRcXQC_4pQR_2eQwPgRu28",
+        "Name":"Droga raia chicuta",
+        "Address":"Av. Brasil Centro, 13 - Centro, Passo Fundo - RS, 99010-001, Brazil",
+        "Neighborhood":"13 - Centro",
+        "Street":"Av. Brasil Centro",
+        "City":"Passo Fundo - RS",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"N\/A",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.259444,
+        "Longitude":-52.4046715,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJHeH8Ywj0XpMRP3NVI_Dtju0",
+        "Name":"Farma Popular",
+        "Address":"Av. João Baptistella, 737 - St. Campinas, Goiânia - GO, 74505-010, Brazil",
+        "Neighborhood":"737 - St. Campinas",
+        "Street":"Av. João Baptistella",
+        "City":"Goiânia - GO",
+        "Rating":4.0,
+        "UserRatingsTotal":10,
+        "Phone":"(62) 3931-0401",
+        "Types":"pharmacy, drugstore, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-16.6707827,
+        "Longitude":-49.2863792,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJvTkBwxC3yJQRYm5B9DIFHbw",
+        "Name":"Drogasil",
+        "Address":"Rua Doutor Renato Luiz Pereira da Silva, 36 - Rec Sol Ii, Campinas - SP, 13056-632, Brazil",
+        "Neighborhood":"36 - Rec Sol Ii",
+        "Street":"Rua Doutor Renato Luiz Pereira da Silva",
+        "City":"Campinas - SP",
+        "Rating":4.6,
+        "UserRatingsTotal":54,
+        "Phone":"(19) 99968-5394",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.9667953,
+        "Longitude":-47.1393915,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Média"
+    },
+    {
+        "PlaceID":"ChIJASPLbj_B4pQReFiNppD4DcI",
+        "Name":"Farmácia São João",
+        "Address":"R. Dez de Abril, 45 - Centro, Passo Fundo - RS, 99010-210, Brazil",
+        "Neighborhood":"45 - Centro",
+        "Street":"R. Dez de Abril",
+        "City":"Passo Fundo - RS",
+        "Rating":3.8,
+        "UserRatingsTotal":5,
+        "Phone":"(54) 3317-9595",
+        "Types":"pharmacy, point_of_interest, health, store, establishment",
+        "Category":"Farmácia",
+        "Latitude":-28.2627987,
+        "Longitude":-52.4165751,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    },
+    {
+        "PlaceID":"ChIJD1vzvC-RmQARTWD4TWMdlNY",
+        "Name":"Super + Farma",
+        "Address":"Av. Domingos Damasceno Duarte, 46 - Lj 03\/04 - Trindade, São Gonçalo - RJ, 24456-422, Brazil",
+        "Neighborhood":"46 - Lj 03\/04 - Trindade",
+        "Street":"Av. Domingos Damasceno Duarte",
+        "City":"São Gonçalo - RJ",
+        "Rating":0.0,
+        "UserRatingsTotal":0,
+        "Phone":"(21) 2601-9239",
+        "Types":"pharmacy, health, store, point_of_interest, establishment",
+        "Category":"Farmácia",
+        "Latitude":-22.816661,
+        "Longitude":-43.0103417,
+        "SocialLinks":[
+
+        ],
+        "CompanySize":"Pequena"
+    }
+]
